@@ -7,7 +7,7 @@ http://192.168.100.1:1155/bjtv.php?id=bjjskj
 http://192.168.100.1:1155/bjtv.php?id=bjys
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
 http://192.168.100.1:1155/bjtv.php?id=bjcj
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
 http://192.168.100.1:1155/bjtv.php?id=bjkk
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
 http://192.168.100.1:1155/bjtv.php?id=bjwy
