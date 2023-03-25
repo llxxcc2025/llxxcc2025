@@ -1,0 +1,130 @@
+
+
+#EXTINF:-1 tvg-id="" tvg-name="巴彦电视台 " tvg-logo="" group-title="哈尔滨",巴彦电视台 
+http://192.168.100.1:1155/tide.php?id=byzh
+
+#EXTINF:-1 tvg-id="" tvg-name="林甸综合 " tvg-logo="" group-title="大庆",林甸综合 
+http://192.168.100.1:1155/tide.php?id=ldzh
+
+#EXTINF:-1 tvg-id="" tvg-name="富锦电视台" tvg-logo="" group-title="佳木斯",富锦电视台 
+http://192.168.100.1:1155/tide.php?id=fjzh
+#EXTINF:-1 tvg-id="" tvg-name="抚远电视台" tvg-logo="" group-title="佳木斯",抚远电视台 
+http://192.168.100.1:1155/tide.php?id=fyzh
+
+#EXTINF:-1 tvg-id="" tvg-name="绥棱综合" tvg-logo="" group-title="绥化",绥棱综合 
+http://192.168.100.1:1155/tide.php?id=slzh
+
+#EXTINF:-1 tvg-id="" tvg-name="东宁综合" tvg-logo="" group-title="牡丹江",东宁综合 
+http://192.168.100.1:1155/tide.php?id=dnzh
+#EXTINF:-1 tvg-id="" tvg-name="林口综合" tvg-logo="" group-title="牡丹江",林口综合 
+http://192.168.100.1:1155/tide.php?id=lkzh
+#EXTINF:-1 tvg-id="" tvg-name="穆棱综合" tvg-logo="" group-title="牡丹江",穆棱综合 
+http://192.168.100.1:1155/tide.php?id=mlzh
+#EXTINF:-1 tvg-id="" tvg-name="绥芬河综合" tvg-logo="" group-title="牡丹江",绥芬河综合 
+http://192.168.100.1:1155/tide.php?id=sfhzh
+
+#EXTINF:-1 tvg-id="" tvg-name="嘉荫综合" tvg-logo="" group-title="伊春",嘉荫综合 
+http://192.168.100.1:1155/tide.php?id=jyzh
+#EXTINF:-1 tvg-id="" tvg-name="铁力综合" tvg-logo="" group-title="伊春",铁力综合 
+http://192.168.100.1:1155/tide.php?id=tlzh
+
+#EXTINF:-1 tvg-id="" tvg-name="克东综合" tvg-logo="" group-title="齐齐哈尔",克东综合 
+http://192.168.100.1:1155/tide.php?id=kdzh
+#EXTINF:-1 tvg-id="" tvg-name="龙江综合" tvg-logo="" group-title="齐齐哈尔",龙江综合 
+http://192.168.100.1:1155/tide.php?id=ljzh
+#EXTINF:-1 tvg-id="" tvg-name="讷河综合" tvg-logo="" group-title="齐齐哈尔",讷河综合 
+http://192.168.100.1:1155/tide.php?id=nhzh
+#EXTINF:-1 tvg-id="" tvg-name="泰来综合" tvg-logo="" group-title="齐齐哈尔",泰来综合 
+http://192.168.100.1:1155/tide.php?id=tailzh
+#EXTINF:-1 tvg-id="" tvg-name="依安综合" tvg-logo="" group-title="齐齐哈尔",依安综合 
+http://192.168.100.1:1155/tide.php?id=yazh
+
+#EXTINF:-1 tvg-id="" tvg-name="勃利综合" tvg-logo="" group-title="七台河",勃利综合 
+http://192.168.100.1:1155/tide.php?id=blzh
+
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="山西台",山西卫视
+http://192.168.100.1:1155/tide.php?id=sxiws
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视2" tvg-logo="" group-title="山西台",山西卫视2
+http://192.168.100.1:1155/tide.php?id=sxiws2
+#EXTINF:-1 tvg-id="" tvg-name="山西经济" tvg-logo="" group-title="山西台",山西经济
+http://192.168.100.1:1155/tide.php?id=sxjj
+#EXTINF:-1 tvg-id="" tvg-name="山西影视" tvg-logo="" group-title="山西台",山西影视
+http://192.168.100.1:1155/tide.php?id=sxys
+#EXTINF:-1 tvg-id="" tvg-name="山西社会与法治" tvg-logo="" group-title="山西台",山西社会与法治
+http://192.168.100.1:1155/tide.php?id=sxshfz
+#EXTINF:-1 tvg-id="" tvg-name="山西文体生活" tvg-logo="" group-title="山西台",山西文体生活
+http://192.168.100.1:1155/tide.php?id=sxwtsh
+#EXTINF:-1 tvg-id="" tvg-name="山西黄河" tvg-logo="" group-title="山西台",山西黄河
+http://192.168.100.1:1155/tide.php?id=sxhh
+
+#EXTINF:-1 tvg-id="" tvg-name="大连新闻综合" tvg-logo="" group-title="大连台",大连新闻综合
+http://192.168.100.1:1155/tide.php?id=dlzh
+#EXTINF:-1 tvg-id="" tvg-name="大连生活" tvg-logo="" group-title="大连台",大连生活
+http://192.168.100.1:1155/tide.php?id=dlsh
+#EXTINF:-1 tvg-id="" tvg-name="大连文体" tvg-logo="" group-title="大连台",大连文体
+http://192.168.100.1:1155/tide.php?id=dlwt
+#EXTINF:-1 tvg-id="" tvg-name="大连综合影视" tvg-logo="" group-title="大连台",大连综合影视
+http://192.168.100.1:1155/tide.php?id=dlzhys
+#EXTINF:-1 tvg-id="" tvg-name="大连少儿" tvg-logo="" group-title="大连台",大连少儿
+http://192.168.100.1:1155/tide.php?id=dlse
+#EXTINF:-1 tvg-id="" tvg-name="大连天鹅购物" tvg-logo="" group-title="大连台",大连天鹅购物
+http://192.168.100.1:1155/tide.php?id=dlgw
+
+#EXTINF:-1 tvg-id="" tvg-name="太原新闻综合" tvg-logo="" group-title="太原台",太原新闻综合 
+http://192.168.100.1:1155/tide.php?id=tyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="太原经济生活" tvg-logo="" group-title="太原台",太原经济生活
+http://192.168.100.1:1155/tide.php?id=tyjjsh
+#EXTINF:-1 tvg-id="" tvg-name="太原社教法制" tvg-logo="" group-title="太原台",太原社教法制
+http://192.168.100.1:1155/tide.php?id=tysjfz
+#EXTINF:-1 tvg-id="" tvg-name="太原影视" tvg-logo="" group-title="太原台",太原影视
+http://192.168.100.1:1155/tide.php?id=tyys
+#EXTINF:-1 tvg-id="" tvg-name="太原文体" tvg-logo="" group-title="太原台",太原文体
+http://192.168.100.1:1155/tide.php?id=tywt
+#EXTINF:-1 tvg-id="" tvg-name="太原佰乐购" tvg-logo="" group-title="太原台",太原佰乐购
+http://192.168.100.1:1155/tide.php?id=tyblg
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="" group-title="汕头台",汕头新闻综合
+http://192.168.100.1:1155/tide.php?id=stxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="珠海新闻" tvg-logo="" group-title="珠海台",珠海新闻
+http://192.168.100.1:1155/tide.php?id=zhxw
+#EXTINF:-1 tvg-id="" tvg-name="珠海生活" tvg-logo="" group-title="珠海台",珠海生活
+http://192.168.100.1:1155/tide.php?id=zhsh
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="深圳台",深圳卫视
+http://192.168.100.1:1155/tide.php?id=szws
+#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="" group-title="深圳台",深圳娱乐
+http://192.168.100.1:1155/tide.php?id=szyl
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="" group-title="深圳台",深圳少儿
+http://192.168.100.1:1155/tide.php?id=szse
+#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="" group-title="深圳台",深圳公共
+http://192.168.100.1:1155/tide.php?id=szgg
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="" group-title="深圳台",深圳财经生活
+http://192.168.100.1:1155/tide.php?id=szcjsh
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="" group-title="深圳台",深圳电视剧
+http://192.168.100.1:1155/tide.php?id=szdsj
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="" group-title="深圳台",深圳都市
+http://192.168.100.1:1155/tide.php?id=szds
+#EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="" group-title="深圳台",深圳国际
+http://192.168.100.1:1155/tide.php?id=szgj
+#EXTINF:-1 tvg-id="" tvg-name="深圳移动" tvg-logo="" group-title="深圳台",深圳移动
+http://192.168.100.1:1155/tide.php?id=szyd
+#EXTINF:-1 tvg-id="" tvg-name="宜和购物" tvg-logo="" group-title="深圳台",宜和购物
+http://192.168.100.1:1155/tide.php?id=yhgw
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="" group-title="深圳台",深圳体育健康
+http://192.168.100.1:1155/tide.php?id=sztyjk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
