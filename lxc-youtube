@@ -40,7 +40,7 @@ http://192.168.100.1:35455/youtube/dp8PhLsUcFE
 http://192.168.100.1:35455/youtube/XWq5kBlakcQ
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
 http://192.168.100.1:35455/youtube/HnfpTMtfFk8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="KBS WORLD TV" group-title="国外",KBS WORLD TV
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="KBS WORLD TV" group-title="国外"，ANN NEWS
 http://192.168.100.1:35455/youtube/coYw-eVU0Ks
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" tvg-id="688" tvg-name="NBC2 News" group-title="国外",NBC2 News
 http://192.168.100.1:35455/youtube/MJB6CUxvZcU
