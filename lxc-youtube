@@ -28,25 +28,19 @@ http://192.168.100.1:35455/youtube/5n0y6b0Q25o
 http://192.168.100.1:35455/youtube/QTz6avPD4Ns
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台" group-title="国外",法国24台
 http://192.168.100.1:35455/youtube/h3MuIUNCCzI
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24" group-title="国外",FRANCE 24
-http://192.168.100.1:35455/youtube/gxG3pdKvlIs
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" tvg-id="7183" tvg-name="半岛国际新闻台" group-title="国外",半岛国际新闻台
 http://192.168.100.1:35455/youtube/gCNeDWCI0vo
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="6023" tvg-name="CNN国际新闻频道" group-title="国外",CNN国际新闻频道
-http://192.168.100.1:35455/youtube/Ue9SnIpwNB4
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" tvg-id="6140" tvg-name="彭博财经台" group-title="国外",彭博财经台
-http://192.168.100.1:35455/youtube/dp8PhLsUcFE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="亚洲新闻台" group-title="国外",亚洲新闻台
 http://192.168.100.1:35455/youtube/XWq5kBlakcQ
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
-http://192.168.100.1:35455/youtube/HnfpTMtfFk8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="ANN NEWS" group-title="国外"，ANN NEWS
-http://192.168.100.1:35455/youtube/coYw-eVU0Ks
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" tvg-id="688" tvg-name="NBC2 News" group-title="国外",NBC2 News
-http://192.168.100.1:35455/youtube/MJB6CUxvZcU
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="7100" tvg-name="ABCAustralia" group-title="国外",ABC7 SWFL
-http://192.168.100.1:35455/youtube/XObsOutMlh8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" tvg-id="691" tvg-name="国家地理频道" group-title="国外",国家地理频道
 http://192.168.100.1:35455/youtube/0ThMultL4PY
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="国外",国家地理野生频道
 http://192.168.100.1:35455/youtube/fsAEqdhgTQM
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" tvg-id="6140" tvg-name="彭博财经台" group-title="国外",彭博财经台
+http://192.168.100.1:35455/youtube/dp8PhLsUcFE
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
+http://192.168.100.1:35455/youtube/HnfpTMtfFk8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="ANN NEWS" group-title="国外"，ANN NEWS
+http://192.168.100.1:35455/youtube/coYw-eVU0Ks
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24" group-title="国外",FRANCE 24
+http://192.168.100.1:35455/youtube/gxG3pdKvlIs
