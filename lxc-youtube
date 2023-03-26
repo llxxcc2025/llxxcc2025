@@ -40,7 +40,7 @@ http://192.168.100.1:35455/youtube/fsAEqdhgTQM
 http://192.168.100.1:35455/youtube/dp8PhLsUcFE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
 http://192.168.100.1:35455/youtube/HnfpTMtfFk8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANN.png" tvg-id="6157" tvg-name="ANN NEWS" group-title="国外"，ANN NEWS
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ann.png" tvg-id="6175" tvg-name="ANN" group-title="国外",ANN
 http://192.168.100.1:35455/youtube/coYw-eVU0Ks
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24" group-title="国外",FRANCE 24
 http://192.168.100.1:35455/youtube/gxG3pdKvlIs
