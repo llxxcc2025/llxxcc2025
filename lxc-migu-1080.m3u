@@ -39,6 +39,8 @@ http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/cctv11hd265/55/202004
 http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=1
 #EXTINF:-1,CCTV12
 http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1,CCTV13
+http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/cctv13/57/20220913/index.m3u8?&encrypt=1
 #EXTINF:-1,CCTV14
 http://39.136.173.100/hlsmgsplive.miguvideo.com/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=1
 #EXTINF:-1,CCTV14-2
