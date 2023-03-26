@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-APP APTV
 
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="香港",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="香港",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="国际",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" group-title="国际",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" group-title="香港",翡翠台
 http://live.cooltv.top/tv/good.php?id=1350_4500
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" group-title="国际",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" group-title="香港",明珠台
 http://live.cooltv.top/tv/good.php?id=1351_4500
 #EXTINF:-1 group-title="4K/8K-IPV6",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
