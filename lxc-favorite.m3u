@@ -36,7 +36,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视-IPV6",CCTV8-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k" group-title="4K/8K-IPV4",CCTV4K
-http://tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8?sig=09f15b9421dafde0fa7acbecc6187c5c&ext_start_limit=1679905737&int_start_limit=1679905737&expires=1679905737&c=null
+http://192.168.100.1:4567/cctv4k.php
 #EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg" group-title="4K/8K-IPV4",北京IPTV 4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="4K/8K-IPV4",华数4K影视
