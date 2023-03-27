@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,陕视新闻
+http://192.168.100.1:35455/douyin/683736014197
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/第一财经" tvg-id="第一财经" tvg-name="第一财经",第一财经
+http://192.168.100.1:35455/douyin/269875672114
+#EXTINF:-1,街景
+http://192.168.100.1:35455/bilibili/13353632
+#EXTINF:-1,星期日直播
+http://192.168.100.1:35455/douyu/1089406
+#EXTINF:-1,丝姐带你体验数码产品
+http://192.168.100.1:35455/douyu/2667055
+#EXTINF:-1,超清动物自然24h
+http://192.168.100.1:35455/douyu/4360438
+#EXTINF:-1,宇宙边缘
+http://192.168.100.1:35455/douyu/1052924
+#EXTINF:-1,斯诺克直播
+http://192.168.100.1:35455/huya/21195586
