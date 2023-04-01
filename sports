@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" tvg-id="7212" tvg-name="爱尔达体育1" group-title="台湾体育",爱尔达体育1台
 https://qbpull.81xu05.com/live/ballbar_20660.m3u8?txSecret=5dba1b522538b8a58c236bff20aa7ab2&txTime=64285D54
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" tvg-id="7192" tvg-name="爱尔达体育2" group-title="台湾",爱尔达体育2台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" tvg-id="7192" tvg-name="爱尔达体育2" group-title="台湾体育",爱尔达体育2台
 https://qbpull.81xu05.com/live/ballbar_20380.m3u8?txSecret=b8dd773e75d37b0a09d1202b85ef37cd&txTime=64285CD0
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾体育",纬来体育台
 https://epg.pw/stream/d031ac037537dcffca2a76c3dc53ef784a50d72bc43bb7a28d75270086d67545.m3u8
