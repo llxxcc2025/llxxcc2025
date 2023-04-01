@@ -46,8 +46,6 @@ http://192.168.100.1:35455/youtube/coYw-eVU0Ks
 http://192.168.100.1:35455/youtube/gxG3pdKvlIs
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="6183" tvg-name="Euronews" group-title="国外",欧洲新闻
 http://192.168.100.1:35455/youtube/pykpO5kQJ98
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" tvg-id="701" tvg-name="FashionTV" group-title="国外",法国时尚台
-http://192.168.100.1:35455/youtube/hjr8jq9HIRE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" tvg-id="730" tvg-name="DW" group-title="国外",DW德国之声(ENGLISH)
 http://192.168.100.1:35455/youtube/pqabxBKzZ6M
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="331" tvg-name="TRT World" group-title="国外",TRT World
