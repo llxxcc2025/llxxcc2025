@@ -1,6 +1,3 @@
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" tvg-id="7212" tvg-name="爱尔达体育1" group-title="台湾体育",爱尔达体育1台
-https://qbpull.81xu05.com/live/ballbar_10640.m3u8?txSecret=091953f5d0032a4197e9ed5de2e26d0d&txTime=642823EB
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾体育",纬来体育台
 https://epg.pw/stream/d031ac037537dcffca2a76c3dc53ef784a50d72bc43bb7a28d75270086d67545.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台-备" group-title="台湾体育",纬来体育台-备
@@ -38,4 +35,4 @@ https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="国内体育",精品体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="国内体育",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
