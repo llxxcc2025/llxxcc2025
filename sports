@@ -1,0 +1,11 @@
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" tvg-id="7212" tvg-name="爱尔达体育1" group-title="台湾体育",爱尔达体育1台
+https://qbpull.81xu05.com/live/ballbar_10640.m3u8?txSecret=091953f5d0032a4197e9ed5de2e26d0d&txTime=642823EB
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾体育",纬来体育台
+https://epg.pw/stream/d031ac037537dcffca2a76c3dc53ef784a50d72bc43bb7a28d75270086d67545.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台-备" group-title="台湾体育",纬来体育台-备
+https://epg.pw/stream/34305d99e98634e1c35478faaab0a17483b1485ebb03601674b6123882a5d709.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="咪咕体育 4K" group-title="国内体育",咪咕体育 4K
+https://epg.pw/stream/9273b89f079916046055010d34745cbec7132814b04f76b5c5b39462642d328f.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" tvg-id="988" tvg-name="EPI sports 1" group-title="国外体育",EPI sports 1
+https://epg.pw/stream/38e0edc4fc1d4ab9d4f5e275f901827f34ad663950d06d499c7cb8d84ab612ba.m3u8
