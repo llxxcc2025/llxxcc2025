@@ -111,16 +111,6 @@ http://192.168.100.1:4567/sxg.php?id=ynws_4000
 http://192.168.100.1:4567/sxg.php?id=zjwsH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
 http://192.168.100.1:4567/sxg.php?id=CETV-1H264_4000
-#EXTINF:-1,tvg-id="" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
-http://192.168.100.1:4567/sxg.php?id=CETV-4H264_4000
-#EXTINF:-1,tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://epg.112114.xyz/logo/风尚生活.png" group-title="其他",CBN风尚生活
-http://192.168.100.1:4567/sxg.php?id=fssh_2000
-#EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="其他",CBN每日影院
-http://192.168.100.1:4567/sxg.php?id=mryy_2000
-#EXTINF:-1,tvg-id="" tvg-name="CBN幸福剧场" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="其他",CBN幸福剧场
-http://192.168.100.1:4567/sxg.php?id=xfjc_2000
-#EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="其他",CBN幸福娱乐
-http://192.168.100.1:4567/sxg.php?id=xfyl_2000
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
 http://192.168.100.1:4567/sxg.php?id=wqCHCdzdyH265_4000
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
@@ -149,8 +139,6 @@ http://192.168.100.1:4567/sxg.php?id=jyjsHDH265_4000
 http://192.168.100.1:4567/sxg.php?id=jykt_2000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="聚鲨环球精选" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
-http://192.168.100.1:4567/sxg.php?id=jshqjxHD_2000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://192.168.100.1:4567/sxg.php?id=kkkt_4000
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
@@ -161,8 +149,6 @@ http://192.168.100.1:4567/sxg.php?id=qjs-HDH265_4000
 http://192.168.100.1:4567/sxg.php?id=ly_4000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
 http://192.168.100.1:4567/sxg.php?id=mlyy_4000
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="其他",七彩戏剧
-http://192.168.100.1:4567/sxg.php?id=qcxj_2000
 #EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="其他",摄影频道
 http://192.168.100.1:4567/sxg.php?id=sy_4000
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
@@ -189,8 +175,6 @@ http://192.168.100.1:4567/sxg.php?id=lgs_2000
 http://192.168.100.1:4567/sxg.php?id=zxs_4000
 #EXTINF:-1,tvg-id="" tvg-name="川广融媒" tvg-logo="https://epg.112114.xyz/logo/川广融媒.png" group-title="其他",川广融媒
 http://192.168.100.1:4567/sxg.php?id=cgrh_2000
-#EXTINF:-1,tvg-id="" tvg-name="川网导视" tvg-logo="https://epg.112114.xyz/logo/川网导视.png" group-title="其他",川网导视
-http://192.168.100.1:4567/sxg.php?id=cwdsHDH264_4000
 #EXTINF:-1,tvg-id="" tvg-name="精品导视" tvg-logo="https://epg.112114.xyz/logo/精品导视.png" group-title="其他",精品导视
 http://192.168.100.1:4567/sxg.php?id=jpdsH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="沙湾融媒" tvg-logo="https://epg.112114.xyz/logo/沙湾融媒.png" group-title="其他",沙湾融媒
@@ -235,10 +219,6 @@ http://192.168.100.1:4567/sxg.php?id=ajxw_2000
 http://192.168.100.1:4567/sxg.php?id=ayxwzh_4000
 #EXTINF:-1,tvg-id="" tvg-name="安州综合频道" tvg-logo="https://epg.112114.xyz/logo/安州综合.png" group-title="其他",安州综合频道
 http://192.168.100.1:4567/sxg.php?id=azgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="巴中文旅生活" tvg-logo="https://epg.112114.xyz/logo/巴中文旅生活.png" group-title="其他",巴中文旅生活
-http://192.168.100.1:4567/sxg.php?id=bzetH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="巴中综合" tvg-logo="https://epg.112114.xyz/logo/巴中综合.png" group-title="其他",巴中综合
-http://192.168.100.1:4567/sxg.php?id=bzytH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="巴州电视" tvg-logo="https://epg.112114.xyz/logo/巴州电视.png" group-title="其他",巴州电视
 http://192.168.100.1:4567/sxg.php?id=bzxw_4000
 #EXTINF:-1,tvg-id="" tvg-name="宝兴综合" tvg-logo="https://epg.112114.xyz/logo/宝兴综合.png" group-title="其他",宝兴综合
@@ -283,12 +263,6 @@ http://192.168.100.1:4567/sxg.php?id=ebdst_2000
 http://192.168.100.1:4567/sxg.php?id=emsxw_2000
 #EXTINF:-1,tvg-id="" tvg-name="恩阳新闻" tvg-logo="https://epg.112114.xyz/logo/恩阳新闻.png" group-title="其他",恩阳新闻
 http://192.168.100.1:4567/sxg.php?id=eyxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="涪城综合" tvg-logo="https://epg.112114.xyz/logo/涪城综合.png" group-title="其他",涪城综合
-http://192.168.100.1:4567/sxg.php?id=fcgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="富顺综合" tvg-logo="https://epg.112114.xyz/logo/富顺综合.png" group-title="其他",富顺综合
-http://192.168.100.1:4567/sxg.php?id=fszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="甘洛" tvg-logo="https://epg.112114.xyz/logo/甘洛.png" group-title="其他",甘洛
-http://192.168.100.1:4567/sxg.php?id=glt_2000
 #EXTINF:-1,tvg-id="" tvg-name="甘孜综合" tvg-logo="https://epg.112114.xyz/logo/甘孜综合.png" group-title="其他",甘孜综合
 http://192.168.100.1:4567/sxg.php?id=gzxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="高县-1" tvg-logo="https://epg.112114.xyz/logo/高县1.png" group-title="其他",高县-1
@@ -357,8 +331,6 @@ http://192.168.100.1:4567/sxg.php?id=lcxw_2000
 http://192.168.100.1:4567/sxg.php?id=lszh_2000
 #EXTINF:-1,tvg-id="" tvg-name="罗江" tvg-logo="https://epg.112114.xyz/logo/罗江.png" group-title="其他",罗江
 http://192.168.100.1:4567/sxg.php?id=ljxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="马边综合" tvg-logo="https://epg.112114.xyz/logo/马边综合.png" group-title="其他",马边综合
-http://192.168.100.1:4567/sxg.php?id=mbxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="马尔康" tvg-logo="https://epg.112114.xyz/logo/马尔康.png" group-title="其他",马尔康
 http://192.168.100.1:4567/sxg.php?id=mekxwzhpd_2000
 #EXTINF:-1,tvg-id="" tvg-name="眉山综合" tvg-logo="https://epg.112114.xyz/logo/眉山综合.png" group-title="其他",眉山综合
@@ -373,8 +345,6 @@ http://192.168.100.1:4567/sxg.php?id=myytH265_4000
 http://192.168.100.1:4567/sxg.php?id=mzxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="冕宁综合" tvg-logo="https://epg.112114.xyz/logo/冕宁综合.png" group-title="其他",冕宁综合
 http://192.168.100.1:4567/sxg.php?id=mnxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="名山电视台" tvg-logo="https://epg.112114.xyz/logo/名山电视台.png" group-title="其他",名山电视台
-http://192.168.100.1:4567/sxg.php?id=msdstH265_2000
 #EXTINF:-1,tvg-id="" tvg-name="木里" tvg-logo="https://epg.112114.xyz/logo/木里.png" group-title="其他",木里
 http://192.168.100.1:4567/sxg.php?id=mltHD_4000
 #EXTINF:-1,tvg-id="" tvg-name="纳溪-1" tvg-logo="https://epg.112114.xyz/logo/纳溪1.png" group-title="其他",纳溪-1
@@ -399,8 +369,6 @@ http://192.168.100.1:4567/sxg.php?id=pgxwzh_2000
 http://192.168.100.1:4567/sxg.php?id=pzhytH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="彭山综合" tvg-logo="https://epg.112114.xyz/logo/彭山综合.png" group-title="其他",彭山综合
 http://192.168.100.1:4567/sxg.php?id=pszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="彭州综合" tvg-logo="https://epg.112114.xyz/logo/彭州综合.png" group-title="其他",彭州综合
-http://192.168.100.1:4567/sxg.php?id=pzxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="蓬安综合" tvg-logo="https://epg.112114.xyz/logo/蓬安综合.png" group-title="其他",蓬安综合
 http://192.168.100.1:4567/sxg.php?id=pazh_2000
 #EXTINF:-1,tvg-id="" tvg-name="蓬溪新闻综合" tvg-logo="https://epg.112114.xyz/logo/蓬溪新闻综合.png" group-title="其他",蓬溪新闻综合
@@ -425,8 +393,6 @@ http://192.168.100.1:4567/sxg.php?id=qcxwzhH265_4000
 http://192.168.100.1:4567/sxg.php?id=qszh_2000
 #EXTINF:-1,tvg-id="" tvg-name="渠县新闻综合" tvg-logo="https://epg.112114.xyz/logo/渠县新闻综合.png" group-title="其他",渠县新闻综合
 http://192.168.100.1:4567/sxg.php?id=qxxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="仁和新闻" tvg-logo="https://epg.112114.xyz/logo/仁和新闻.png" group-title="其他",仁和新闻
-http://192.168.100.1:4567/sxg.php?id=rhxwH264_2000
 #EXTINF:-1,tvg-id="" tvg-name="荣县综合" tvg-logo="https://epg.112114.xyz/logo/荣县综合.png" group-title="其他",荣县综合
 http://192.168.100.1:4567/sxg.php?id=rxzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="三台TV" tvg-logo="https://epg.112114.xyz/logo/三台TV.png" group-title="其他",三台TV
@@ -445,16 +411,12 @@ http://192.168.100.1:4567/sxg.php?id=spxwzhpdH264_2000
 http://192.168.100.1:4567/sxg.php?id=snxwzhHDH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="天全新闻" tvg-logo="https://epg.112114.xyz/logo/天全新闻.png" group-title="其他",天全新闻
 http://192.168.100.1:4567/sxg.php?id=tqzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="通川区" tvg-logo="https://epg.112114.xyz/logo/通川区.png" group-title="其他",通川区
-http://192.168.100.1:4567/sxg.php?id=xcxwzhH264_2000
 #EXTINF:-1,tvg-id="" tvg-name="通江综合" tvg-logo="https://epg.112114.xyz/logo/通江综合.png" group-title="其他",通江综合
 http://192.168.100.1:4567/sxg.php?id=tjxwH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="万源" tvg-logo="https://epg.112114.xyz/logo/万源.png" group-title="其他",万源
 http://192.168.100.1:4567/sxg.php?id=wyxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="旺苍新闻综合" tvg-logo="https://epg.112114.xyz/logo/旺苍新闻综合.png" group-title="其他",旺苍新闻综合
 http://192.168.100.1:4567/sxg.php?id=wcxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="温江综合频道" tvg-logo="https://epg.112114.xyz/logo/温江综合.png" group-title="其他",温江综合频道
-http://192.168.100.1:4567/sxg.php?id=wjytH264_2000
 #EXTINF:-1,tvg-id="" tvg-name="武胜综合" tvg-logo="https://epg.112114.xyz/logo/武胜综合.png" group-title="其他",武胜综合
 http://192.168.100.1:4567/sxg.php?id=wsxw_2000
 #EXTINF:-1,tvg-id="" tvg-name="五通桥" tvg-logo="https://epg.112114.xyz/logo/五通桥.png" group-title="其他",五通桥
@@ -477,24 +439,14 @@ http://192.168.100.1:4567/sxg.php?id=xyxw_2000
 http://192.168.100.1:4567/sxg.php?id=ybx_2000
 #EXTINF:-1,tvg-id="" tvg-name="宣汉综合" tvg-logo="https://epg.112114.xyz/logo/宣汉综合.png" group-title="其他",宣汉综合
 http://192.168.100.1:4567/sxg.php?id=xhxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="雅安公共" tvg-logo="https://epg.112114.xyz/logo/雅安公共.png" group-title="其他",雅安公共
-http://192.168.100.1:4567/sxg.php?id=yagg_2000
 #EXTINF:-1,tvg-id="" tvg-name="雅安新闻综合" tvg-logo="https://epg.112114.xyz/logo/雅安新闻综合.png" group-title="其他",雅安新闻综合
 http://192.168.100.1:4567/sxg.php?id=yazh_2000
-#EXTINF:-1,tvg-id="" tvg-name="雅安雨城" tvg-logo="https://epg.112114.xyz/logo/雅安雨城.png" group-title="其他",雅安雨城
-http://192.168.100.1:4567/sxg.php?id=ycpd_2000
 #EXTINF:-1,tvg-id="" tvg-name="盐边电视台" tvg-logo="https://epg.112114.xyz/logo/盐边电视台.png" group-title="其他",盐边电视台
 http://192.168.100.1:4567/sxg.php?id=ybtgq_2000
 #EXTINF:-1,tvg-id="" tvg-name="盐亭1" tvg-logo="https://epg.112114.xyz/logo/盐亭1.png" group-title="其他",盐亭1
 http://192.168.100.1:4567/sxg.php?id=ytzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="雁江" tvg-logo="https://epg.112114.xyz/logo/雁江.png" group-title="其他",雁江
-http://192.168.100.1:4567/sxg.php?id=yjxw_2000
 #EXTINF:-1,tvg-id="" tvg-name="仪陇新闻综合" tvg-logo="https://epg.112114.xyz/logo/仪陇新闻综合.png" group-title="其他",仪陇新闻综合
 http://192.168.100.1:4567/sxg.php?id=ylxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="宜宾公共" tvg-logo="https://epg.112114.xyz/logo/宜宾公共.png" group-title="其他",宜宾公共
-http://192.168.100.1:4567/sxg.php?id=ybetH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="宜宾新闻综合" tvg-logo="https://epg.112114.xyz/logo/宜宾新闻综合.png" group-title="其他",宜宾新闻综合
-http://192.168.100.1:4567/sxg.php?id=ybytH264_2000
 #EXTINF:-1,tvg-id="" tvg-name="营山" tvg-logo="https://epg.112114.xyz/logo/营山.png" group-title="其他",营山
 http://192.168.100.1:4567/sxg.php?id=ysxw_2000
 #EXTINF:-1,tvg-id="" tvg-name="越西综合" tvg-logo="https://epg.112114.xyz/logo/越西综合.png" group-title="其他",越西综合
@@ -525,8 +477,6 @@ http://192.168.100.1:4567/sxg.php?id=mcxw_2000
 http://192.168.100.1:4567/sxg.php?id=ldxw_4000
 #EXTINF:-1,tvg-id="" tvg-name="泸县综合" tvg-logo="https://epg.112114.xyz/logo/泸县综合.png" group-title="其他",泸县综合
 http://192.168.100.1:4567/sxg.php?id=lxxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="泸州公共" tvg-logo="https://epg.112114.xyz/logo/泸州公共.png" group-title="其他",泸州公共
-http://192.168.100.1:4567/sxg.php?id=lzgg_2000
 #EXTINF:-1,tvg-id="" tvg-name="珙县新闻" tvg-logo="https://epg.112114.xyz/logo/珙县新闻.png" group-title="其他",珙县新闻
 http://192.168.100.1:4567/sxg.php?id=gxzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="梓潼综合" tvg-logo="https://epg.112114.xyz/logo/梓潼综合.png" group-title="其他",梓潼综合
@@ -543,8 +493,6 @@ http://192.168.100.1:4567/sxg.php?id=fy_2000
 http://192.168.100.1:4567/sxg.php?id=xbyy_2000
 #EXTINF:-1,tvg-id="" tvg-name="CGTN-英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN-英语
 http://192.168.100.1:4567/sxg.php?id=CGTN_4000
-#EXTINF:-1,tvg-id="" tvg-name="风尚购物" tvg-logo="https://epg.112114.xyz/logo/风尚购物.png" group-title="其他",风尚购物
-http://192.168.100.1:4567/sxg.php?id=fsgw_4000
 #EXTINF:-1,tvg-id="" tvg-name="家家购物" tvg-logo="https://epg.112114.xyz/logo/家家购物.png" group-title="其他",家家购物
 http://192.168.100.1:4567/sxg.php?id=jjgw_4000
 #EXTINF:-1,tvg-id="" tvg-name="家有购物" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="其他",家有购物
