@@ -112,15 +112,15 @@ http://192.168.100.1:4567/sxg.php?id=zjwsH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
 http://192.168.100.1:4567/sxg.php?id=CETV-1H264_4000
 #EXTINF:-1,tvg-id="" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
-http://192.168.100.1:4567/sxg.php?id=CETV-4H264_2000
+http://192.168.100.1:4567/sxg.php?id=CETV-4H264_4000
 #EXTINF:-1,tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://epg.112114.xyz/logo/风尚生活.png" group-title="其他",CBN风尚生活
-http://192.168.100.1:4567/sxg.php?id=fssh_4000
+http://192.168.100.1:4567/sxg.php?id=fssh_2000
 #EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="其他",CBN每日影院
-http://192.168.100.1:4567/sxg.php?id=mryy_4000
+http://192.168.100.1:4567/sxg.php?id=mryy_2000
 #EXTINF:-1,tvg-id="" tvg-name="CBN幸福剧场" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="其他",CBN幸福剧场
-http://192.168.100.1:4567/sxg.php?id=xfjc_4000
+http://192.168.100.1:4567/sxg.php?id=xfjc_2000
 #EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="其他",CBN幸福娱乐
-http://192.168.100.1:4567/sxg.php?id=xfyl_4000
+http://192.168.100.1:4567/sxg.php?id=xfyl_2000
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
 http://192.168.100.1:4567/sxg.php?id=wqCHCdzdyH265_4000
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
@@ -150,7 +150,7 @@ http://192.168.100.1:4567/sxg.php?id=jykt_2000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="聚鲨环球精选" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
-http://192.168.100.1:4567/sxg.php?id=jshqjxHD_4000
+http://192.168.100.1:4567/sxg.php?id=jshqjxHD_2000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://192.168.100.1:4567/sxg.php?id=kkkt_4000
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
