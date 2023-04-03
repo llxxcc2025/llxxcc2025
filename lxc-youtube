@@ -22,7 +22,7 @@ http://192.168.100.1:35455/youtube/xL0ch83RAK8
 http://192.168.100.1:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾",东森新闻台
 http://192.168.100.1:35455/youtube/R2iMq5LKXco
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="鏡新聞" group-title="台湾",,鏡新聞
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/%E5%8F%B0%E6%A0%87/%E9%95%9C%E6%96%B0%E9%97%BB.jpg" tvg-id="6069" tvg-name="鏡新聞" group-title="台湾",,鏡新聞
 http://192.168.100.1:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV-4中文国际" group-title="央视",CCTV-4中文国际
 http://192.168.100.1:35455/youtube/QTz6avPD4Ns
@@ -38,9 +38,9 @@ http://192.168.100.1:35455/youtube/0ThMultL4PY
 http://192.168.100.1:35455/youtube/fsAEqdhgTQM
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" tvg-id="6140" tvg-name="彭博财经台" group-title="国外",彭博财经台
 http://192.168.100.1:35455/youtube/dp8PhLsUcFE
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/%E5%8F%B0%E6%A0%87/KBS.jpg" tvg-id="6141" tvg-name="韩国放送公社" group-title="国外",韩国放送公社
 http://192.168.100.1:35455/youtube/HnfpTMtfFk8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ann.png" tvg-id="6175" tvg-name="ANN" group-title="国外",ANN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/%E5%8F%B0%E6%A0%87/ANN.jpg" tvg-id="6175" tvg-name="ANN" group-title="国外",ANN
 http://192.168.100.1:35455/youtube/coYw-eVU0Ks
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24" group-title="国外",FRANCE 24
 http://192.168.100.1:35455/youtube/gxG3pdKvlIs
