@@ -22,7 +22,7 @@ http://192.168.100.1:35455/youtube/xL0ch83RAK8
 http://192.168.100.1:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/jing.jpg" tvg-id="6069" tvg-name="鏡新聞" group-title="台湾",,鏡新聞
 http://192.168.100.1:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台" group-title="国外",法国24台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
 http://192.168.100.1:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24 法语" group-title="国外",FRANCE 24 法语
 http://192.168.100.1:35455/youtube/gxG3pdKvlIs
