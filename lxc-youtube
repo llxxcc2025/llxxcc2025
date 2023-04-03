@@ -48,7 +48,7 @@ http://192.168.100.1:35455/youtube/gxG3pdKvlIs
 http://192.168.100.1:35455/youtube/pykpO5kQJ98
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" tvg-id="730" tvg-name="DW" group-title="国外",DW德国之声(ENGLISH)
 http://192.168.100.1:35455/youtube/pqabxBKzZ6M
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="331" tvg-name="TRT World" group-title="国外",TRT World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/%E5%8F%B0%E6%A0%87/TRT%20World.jpg" tvg-id="331" tvg-name="TRT World" group-title="国外",TRT World
 http://192.168.100.1:35455/youtube/5VF4aor94gw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/%E5%8F%B0%E6%A0%87/News%2012.jpg" tvg-id="50990" tvg-name="News 12"  group-title="国外",News 12
 http://192.168.100.1:35455/youtube/SBx677L7l3Q
