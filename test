@@ -3,8 +3,5 @@
 fashiontv 4k,
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 https://epg.pw/stream/0ea425144d3a6cef7f141b8c43eb217416fd6c8b382b6bfa7b26484d540b78c6.m3u8
-cctv-4k,http://183.238.66.1:9090/live/4005.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=myFStoJ2rU3ie1XpeMGG6A==&r=20230402125521&e=20230402185526&nc=WQsztVPqH4Oj&a=7&v=2&isSuma=1&hlsSessionID=17024452686039494528&srchost=172.16.149.181:8060&gid=7XGBOaMAwIHZy5TqCHOiLg%3D%3D
-cctv16-4k,http://183.238.66.1:9090/live/4010.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=PcLZSTmMnzgMSuVwWaIiGg==&r=20230402125705&e=20230402185710&nc=pkLlPdpvkdbb&a=7&v=2&isSuma=1&hlsSessionID=17024452686039494770&srchost=172.16.149.181:8060&gid=GSprhN3h8G%2B%2BqrKl1ocokw%3D%3D
-广东综艺4k,http://183.238.66.1:9090/live/GDZYHD4K_38000.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=Pd5Xoapp3M5NA4ELGCH2LA==&r=20230402125802&e=20230402185807&nc=o9LCaqXd4jXx&a=7&v=2&isSuma=1&hlsSessionID=17024452686039494916&srchost=172.16.149.181:8060&gid=RAX3Hz2l51aww5W5VFmlQg%3D%3D
 trt4k tr,https://epg.pw/stream/bd587bba969a412d13aff6735933ccf591f44d4048c66a135fc9c31a23107ffd.m3u8
-Bloomberg TV+ UHD,https://epg.pw/stream/6a3697a394157b4f7868b8f84cda6912580c3498b400515208a8ca7d0bd3b5f8.m3u8
+百视TV,https://epg.pw/stream/ede34179f29e5e9a86106f051120a8caf0d8c2f526663c94405b9ba331b7c355.m3u8
