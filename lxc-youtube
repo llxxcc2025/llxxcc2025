@@ -1,11 +1,11 @@
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV-4中文国际" group-title="央视",CCTV-4中文国际
+http://192.168.100.1:35455/youtube/QTz6avPD4Ns
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="香港",凤凰卫视资讯台
 http://192.168.100.1:35455/youtube/dmDg7NfUoSw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾",寰宇新闻
 http://192.168.100.1:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾",TVBS 新闻台
-http://192.168.100.1:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视" group-title="台湾",华视
-http://192.168.100.1:35455/youtube/wM0g8EoUZ_E
+http://192.168.100.1:35455/youtube/1KvxnCqMLEY
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台live" group-title="台湾",三立新闻台live
 http://192.168.100.1:35455/youtube/jlldIiGA5bU
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="CTI中天新聞" group-title="台湾",CTI中天新聞
@@ -24,8 +24,6 @@ http://192.168.100.1:35455/youtube/wM0g8EoUZ_E
 http://192.168.100.1:35455/youtube/R2iMq5LKXco
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/jing.jpg" tvg-id="6069" tvg-name="鏡新聞" group-title="台湾",,鏡新聞
 http://192.168.100.1:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV-4中文国际" group-title="央视",CCTV-4中文国际
-http://192.168.100.1:35455/youtube/QTz6avPD4Ns
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台" group-title="国外",法国24台
 http://192.168.100.1:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" tvg-id="7183" tvg-name="半岛国际新闻台" group-title="国外",半岛国际新闻台
