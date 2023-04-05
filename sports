@@ -4,6 +4,8 @@ https://epg.pw/stream/d031ac037537dcffca2a76c3dc53ef784a50d72bc43bb7a28d75270086
 https://epg.pw/stream/34305d99e98634e1c35478faaab0a17483b1485ebb03601674b6123882a5d709.m3u8
 #EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕足球
 https://epg.pw/stream/9ac0ac65d827d30d41a21c46a9a03e44e6ef4eea688829dbfff9d8499fa3db85.m3u8
+#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕篮球
+https://epg.pw/stream/07c38d363b642fea8acdebd157bf3ad61907b37597982d849627f6ad5ba8aadf.m3u8
 #EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="国内体育",CCTV-16 奥林匹克 4K
@@ -24,3 +26,5 @@ http://192.168.100.1:35455/huya/880214
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="国内体育",魅力足球 8M
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
