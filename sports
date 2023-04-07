@@ -3,7 +3,7 @@ https://epg.pw/stream/d031ac037537dcffca2a76c3dc53ef784a50d72bc43bb7a28d75270086
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台-备" group-title="台湾体育",纬来体育台-备
 https://epg.pw/stream/34305d99e98634e1c35478faaab0a17483b1485ebb03601674b6123882a5d709.m3u8
 #EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕足球
-https://epg.pw/stream/9ac0ac65d827d30d41a21c46a9a03e44e6ef4eea688829dbfff9d8499fa3db85.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 #EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕篮球
 https://epg.pw/stream/07c38d363b642fea8acdebd157bf3ad61907b37597982d849627f6ad5ba8aadf.m3u8
 #EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
@@ -13,18 +13,20 @@ http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="国内体育",CCTV5+
-https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
-https://epg.pw/stream/c3c6a98d6881a66dccb931bc0ce2952349b6ac3bf8f9b4616d3dd8800bb06dbc.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="国内体育",精品体育
-https://epg.pw/stream/9cc9eb332b565a5e7943f852e8f73c6d29cf0fa842a1aface9e5798e71d9977d.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="国内体育",北京体育休闲
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778" group-title="国内体育", 虎牙斯诺克
-http://192.168.100.1:35455/huya/880214
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育
-http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+https://zb.fanmingming.com/api/v4.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="国内体育",魅力足球 8M
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778" group-title="国内体育", 虎牙斯诺克
+http://192.168.100.1:35455/huya/880214
