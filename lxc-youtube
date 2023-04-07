@@ -4,14 +4,10 @@ http://192.168.100.1:35455/youtube/9sE12tg3CmA
 http://192.168.100.1:35455/youtube/dmDg7NfUoSw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾",寰宇新闻
 http://192.168.100.1:35455/youtube/B7Zp3d6xXWw
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾",TVBS 新闻台
-http://192.168.100.1:35455/youtube/1KvxnCqMLEY
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台live" group-title="台湾",三立新闻台live
 http://192.168.100.1:35455/youtube/jlldIiGA5bU
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="CTI中天新聞" group-title="台湾",CTI中天新聞
 http://192.168.100.1:35455/youtube/oIgbl7t0S_w
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-id="6057" tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
-http://192.168.100.1:35455/youtube/qN_qW6tmWDs
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="7176" tvg-name="中视新闻" group-title="台湾",中视新闻台
 http://192.168.100.1:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="台湾",民视新闻台
