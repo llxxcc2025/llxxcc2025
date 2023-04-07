@@ -1,53 +1,97 @@
-4k测试,https://epg.pw/stream/6250d50398f394eafb56b77509ceb4bb2db07d5cb3c351892b7a93a071d4f98a.m3u8
-北京iptv4k超清,https://epg.pw/stream/34c1fb2d4d690ff2bb61e1cd38bd5773cefc15483103110def0fa64e85f03a50.m3u8
-fashiontv 4k,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-fashiontv 4k,https://epg.pw/stream/0ea425144d3a6cef7f141b8c43eb217416fd6c8b382b6bfa7b26484d540b78c6.m3u8
-trt4k tr,https://epg.pw/stream/bd587bba969a412d13aff6735933ccf591f44d4048c66a135fc9c31a23107ffd.m3u8
-百视TV,https://epg.pw/stream/ede34179f29e5e9a86106f051120a8caf0d8c2f526663c94405b9ba331b7c355.m3u8
-湖南卫视超清1080P20M
-湖南卫视超清1080P20M-1,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308827/main.m3u8
-湖南卫视超清1080P20M-2,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
-湖南卫视超清1080P20M-3,http://[2409:8087:5011:1020::15]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
-湖南卫视超清1080P20M-4,http://[2409:8087:5011:1020::1c]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
-湖南卫视超清1080P20M-5,http://[2409:8087:5011:1020::1d]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
-湖南卫视超清1080P20M-6,http://[2409:8087:5011:1020::1e]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
-
-CCTV16
-CCTV16-4K-1,http://[2409:8087:5011:1020::1c]/180000001002/00000001000000000085000000178450/main.m3u8?IASHttpSessionId=OTT
-CCTV16-4K-2,http://[2409:8087:5011:1020::1d]/180000001002/00000001000000000085000000178450/main.m3u8?IASHttpSessionId=OTT
-CCTV16-4K-25M2160HEVC,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000085000000178450/index.m3u8
-CCTV-16-1,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
-CCTV-16-2,http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
-CCTV-16-3,http://[2409:8087:5011:1020::15]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
-
-地方台
-常德综合,http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000014000000153736/main.m3u8?IASHttpSessionId=OTT
-湘潭综合,http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000008000000047451/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::15]/180000001002/00000001000000000008000000047452/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-湘潭公共,http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
-张家界综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001017000000440370/main.m3u8?IASHttpSessionId=OTT
-张家界公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001017000000440409/main.m3u8?IASHttpSessionId=OTT
-浏阳综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000026/main.m3u8?IASHttpSessionId=OTT
-娄底综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394721/main.m3u8?IASHttpSessionId=OTT
-娄底公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
-娄底教育 ,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
-衡阳综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080268/main.m3u8?IASHttpSessionId=OTT
-衡阳公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080269/main.m3u8?IASHttpSessionId=OTT
-永州综合1,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000070000000360264/main.m3u8?IASHttpSessionId=OTT
-永州综合2,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000064000000298007/main.m3u8?IASHttpSessionId=OTT
-永州公共,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000070000000360265/main.m3u8?IASHttpSessionId=OTT
-邵阳新闻,http://[2409:8087:5011:1020::15]/180000001002/00000001000000000035000000442109/main.m3u8?IASHttpSessionId=OTT
-株洲综合,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000008000000047450/main.m3u8?IASHttpSessionId=OTT
-郴州综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001023000000052251/main.m3u8?IASHttpSessionId=OTT
-郴州综合2,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000031000000253555/main.m3u8?IASHttpSessionId=OTT
-益阳综合,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000187764/main.m3u8?IASHttpSessionId=OTT
-益阳公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000187766/main.m3u8?IASHttpSessionId=OTT
-湘西综合,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000016000000007222/main.m3u8?IASHttpSessionId=OTT
-湘西综合2,http://[2409:8087:5050:20::3023]/180000001002/00000001000000000016000000007222/main.m3u8?IASHttpSessionId=OTT
+#EXTM3U
+#EXTINF:-1,tvg-id="4k测试" tvg-name="4k测试" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="其他",4k测试
+https://epg.pw/stream/6250d50398f394eafb56b77509ceb4bb2db07d5cb3c351892b7a93a071d4f98a.m3u8
+#EXTINF:-1,tvg-id="北京iptv4k超清" tvg-name="北京iptv4k超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="北京",北京iptv4k超清
+https://epg.pw/stream/34c1fb2d4d690ff2bb61e1cd38bd5773cefc15483103110def0fa64e85f03a50.m3u8
+#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="其他",fashiontv 4k
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="其他",fashiontv 4k
+https://epg.pw/stream/0ea425144d3a6cef7f141b8c43eb217416fd6c8b382b6bfa7b26484d540b78c6.m3u8
+#EXTINF:-1,tvg-id="trt4k tr" tvg-name="trt4k tr" tvg-logo="https://epg.112114.xyz/logo/TRT4KTR.png" group-title="其他",trt4k tr
+https://epg.pw/stream/bd587bba969a412d13aff6735933ccf591f44d4048c66a135fc9c31a23107ffd.m3u8
+#EXTINF:-1,tvg-id="百视TV" tvg-name="百视TV" tvg-logo="https://epg.112114.xyz/logo/百视TV.png" group-title="其他",百视TV
+https://epg.pw/stream/ede34179f29e5e9a86106f051120a8caf0d8c2f526663c94405b9ba331b7c355.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-1
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308827/main.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-2
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-3
+http://[2409:8087:5011:1020::15]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-4
+http://[2409:8087:5011:1020::1c]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-5
+http://[2409:8087:5011:1020::1d]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视超清1080P20M-6
+http://[2409:8087:5011:1020::1e]/180000001002/00000001000000000064000000308827/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K-1
+http://[2409:8087:5011:1020::1c]/180000001002/00000001000000000085000000178450/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K-2
+http://[2409:8087:5011:1020::1d]/180000001002/00000001000000000085000000178450/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K-25M2160HEVC
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000085000000178450/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16-1
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16-2
+http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16-3
+http://[2409:8087:5011:1020::15]/180000001002/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="常德综合" tvg-name="常德综合" tvg-logo="https://epg.112114.xyz/logo/常德综合.png" group-title="其他",常德综合
+http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000014000000153736/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭综合" tvg-name="湘潭综合" tvg-logo="https://epg.112114.xyz/logo/湘潭综合.png" group-title="其他",湘潭综合
+http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000008000000047451/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::15]/180000001002/00000001000000000008000000047452/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::1b]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘潭公共" tvg-name="湘潭公共" tvg-logo="https://epg.112114.xyz/logo/湘潭公共.png" group-title="其他",湘潭公共
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="张家界综合" tvg-name="张家界综合" tvg-logo="https://epg.112114.xyz/logo/张家界综合.png" group-title="其他",张家界综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001017000000440370/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="张家界公共" tvg-name="张家界公共" tvg-logo="https://epg.112114.xyz/logo/张家界公共.png" group-title="其他",张家界公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001017000000440409/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="浏阳综合" tvg-name="浏阳综合" tvg-logo="https://epg.112114.xyz/logo/浏阳综合.png" group-title="其他",浏阳综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000026/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="娄底综合" tvg-name="娄底综合" tvg-logo="https://epg.112114.xyz/logo/娄底综合.png" group-title="其他",娄底综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394721/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="娄底公共" tvg-name="娄底公共" tvg-logo="https://epg.112114.xyz/logo/娄底公共.png" group-title="其他",娄底公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="娄底教育 " tvg-name="娄底教育 " tvg-logo="https://epg.112114.xyz/logo/娄底教育.png" group-title="其他",娄底教育 
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="衡阳综合" tvg-name="衡阳综合" tvg-logo="https://epg.112114.xyz/logo/衡阳综合.png" group-title="其他",衡阳综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080268/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="衡阳公共" tvg-name="衡阳公共" tvg-logo="https://epg.112114.xyz/logo/衡阳公共.png" group-title="其他",衡阳公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080269/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="永州综合1" tvg-name="永州综合1" tvg-logo="https://epg.112114.xyz/logo/永州综合1.png" group-title="其他",永州综合1
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000070000000360264/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="永州综合2" tvg-name="永州综合2" tvg-logo="https://epg.112114.xyz/logo/永州综合2.png" group-title="其他",永州综合2
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000064000000298007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="永州公共" tvg-name="永州公共" tvg-logo="https://epg.112114.xyz/logo/永州公共.png" group-title="其他",永州公共
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000070000000360265/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="邵阳新闻" tvg-name="邵阳新闻" tvg-logo="https://epg.112114.xyz/logo/邵阳新闻.png" group-title="其他",邵阳新闻
+http://[2409:8087:5011:1020::15]/180000001002/00000001000000000035000000442109/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="株洲综合" tvg-name="株洲综合" tvg-logo="https://epg.112114.xyz/logo/株洲综合.png" group-title="其他",株洲综合
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000008000000047450/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="郴州综合" tvg-name="郴州综合" tvg-logo="https://epg.112114.xyz/logo/郴州综合.png" group-title="其他",郴州综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001023000000052251/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="郴州综合2" tvg-name="郴州综合2" tvg-logo="https://epg.112114.xyz/logo/郴州综合2.png" group-title="其他",郴州综合2
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000031000000253555/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="益阳综合" tvg-name="益阳综合" tvg-logo="https://epg.112114.xyz/logo/益阳综合.png" group-title="其他",益阳综合
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000187764/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="益阳公共" tvg-name="益阳公共" tvg-logo="https://epg.112114.xyz/logo/益阳公共.png" group-title="其他",益阳公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000187766/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘西综合" tvg-name="湘西综合" tvg-logo="https://epg.112114.xyz/logo/湘西综合.png" group-title="其他",湘西综合
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000016000000007222/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="湘西综合2" tvg-name="湘西综合2" tvg-logo="https://epg.112114.xyz/logo/湘西综合2.png" group-title="其他",湘西综合2
+http://[2409:8087:5050:20::3023]/180000001002/00000001000000000016000000007222/main.m3u8?IASHttpSessionId=OTT
