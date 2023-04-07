@@ -11,3 +11,5 @@ http://192.168.100.1:35455/douyu/4360438
 http://192.168.100.1:35455/huya/11352914
 #EXTINF:-1,街景
 http://192.168.100.1:35455/bilibili/13353632
+#EXTINF:-1,抖音8K
+http://192.168.100.1:35455/douyin?url=v.douyin.com/xxxxxx
