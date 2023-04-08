@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1 tvg-id="" tvg-name="巴彦电视台 " tvg-logo="" group-title="哈尔滨",巴彦电视台 
 http://192.168.100.1:1155/tide.php?id=byzh
 
@@ -42,6 +40,9 @@ http://192.168.100.1:1155/tide.php?id=yazh
 #EXTINF:-1 tvg-id="" tvg-name="勃利综合" tvg-logo="" group-title="七台河",勃利综合 
 http://192.168.100.1:1155/tide.php?id=blzh
 
+#EXTINF:-1 tvg-id="" tvg-name="友谊综合" tvg-logo="" group-title="双鸭山",友谊综合
+http://192.168.100.1:1155/tide.php?id=yyzh
+
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="山西台",山西卫视
 http://192.168.100.1:1155/tide.php?id=sxiws
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视2" tvg-logo="" group-title="山西台",山西卫视2
@@ -70,6 +71,19 @@ http://192.168.100.1:1155/tide.php?id=dlse
 #EXTINF:-1 tvg-id="" tvg-name="大连天鹅购物" tvg-logo="" group-title="大连台",大连天鹅购物
 http://192.168.100.1:1155/tide.php?id=dlgw
 
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="陕西台",陕西卫视
+http://192.168.100.1:1155/tide.php?id=sxws
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="" group-title="陕西台",陕西新闻资讯
+http://192.168.100.1:1155/tide.php?id=sxxwzx
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="" group-title="陕西台",陕西都市青春
+http://192.168.100.1:1155/tide.php?id=sxdsqc
+#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="" group-title="陕西台",陕西体育休闲
+http://192.168.100.1:1155/tide.php?id=sxtyxx
+#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="" group-title="陕西台",陕西生活
+http://192.168.100.1:1155/tide.php?id=sxsh
+#EXTINF:-1 tvg-id="" tvg-name="陕西移动" tvg-logo="" group-title="陕西台",陕西移动
+http://192.168.100.1:1155/tide.php?id=sxyd
+
 #EXTINF:-1 tvg-id="" tvg-name="太原新闻综合" tvg-logo="" group-title="太原台",太原新闻综合 
 http://192.168.100.1:1155/tide.php?id=tyxwzh
 #EXTINF:-1 tvg-id="" tvg-name="太原经济生活" tvg-logo="" group-title="太原台",太原经济生活
@@ -82,6 +96,10 @@ http://192.168.100.1:1155/tide.php?id=tyys
 http://192.168.100.1:1155/tide.php?id=tywt
 #EXTINF:-1 tvg-id="" tvg-name="太原佰乐购" tvg-logo="" group-title="太原台",太原佰乐购
 http://192.168.100.1:1155/tide.php?id=tyblg
+#EXTINF:-1 tvg-id="" tvg-name="太原城市生活" tvg-logo="" group-title="太原台",太原城市生活
+http://192.168.100.1:1155/tide.php?id=tycssh
+#EXTINF:-1 tvg-id="" tvg-name="太原教育" tvg-logo="" group-title="太原台",太原教育
+http://192.168.100.1:1155/tide.php?id=tyjy
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="" group-title="汕头台",汕头新闻综合
 http://192.168.100.1:1155/tide.php?id=stxwzh
@@ -114,17 +132,18 @@ http://192.168.100.1:1155/tide.php?id=yhgw
 #EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="" group-title="深圳台",深圳体育健康
 http://192.168.100.1:1155/tide.php?id=sztyjk
 
+#EXTINF:-1 tvg-id="" tvg-name="合肥新闻" tvg-logo="" group-title="合肥台",合肥新闻
+http://192.168.100.1:1155/tide.php?id=hfxw
+#EXTINF:-1 tvg-id="" tvg-name="合肥财经" tvg-logo="" group-title="合肥台",合肥财经
+http://192.168.100.1:1155/tide.php?id=hfcj
+#EXTINF:-1 tvg-id="" tvg-name="合肥公共" tvg-logo="" group-title="合肥台",合肥公共
+http://192.168.100.1:1155/tide.php?id=hfgg
+#EXTINF:-1 tvg-id="" tvg-name="合肥故事休闲" tvg-logo="" group-title="合肥台",合肥故事休闲
+http://192.168.100.1:1155/tide.php?id=hfxx
+#EXTINF:-1 tvg-id="" tvg-name="合肥教育法治" tvg-logo="" group-title="合肥台",合肥教育法治
+http://192.168.100.1:1155/tide.php?id=hfjy
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="江门综合" tvg-logo="" group-title="江门台",江门综合
+http://192.168.100.1:1155/tide.php?id=jmzh
+#EXTINF:-1 tvg-id="" tvg-name="江门侨乡生活" tvg-logo="" group-title="江门台",江门侨乡生活
+http://192.168.100.1:1155/tide.php?id=jmqxsh
