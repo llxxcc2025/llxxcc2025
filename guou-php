@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=30&id=4005
-undefined
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=30&id=4005
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
