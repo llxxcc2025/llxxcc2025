@@ -121,3 +121,16 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
+CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
+CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
+CCTV-4 8M,http://cfss.cc/ds/bst.php?id=Cf-4
+CCTV-8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
+CCTV-9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
+CCTV-10 8M,http://cfss.cc/ds/bst.php?id=Cf-11
+CCTV-11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
+CCTV-13 8M,http://cfss.cc/ds/bst.php?id=Cf-14
+CCTV-15 8M,http://cfss.cc/ds/bst.php?id=Cf-16
+CCTV-16 8M,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV-17 8M,http://cfss.cc/ds/bst.php?id=Cf-18
+广电翡翠,http://chuangye168.gnway.org:56994/g8dyou.php?id=1350_4500
