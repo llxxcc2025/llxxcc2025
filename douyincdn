@@ -25,8 +25,6 @@ https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212214.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台 HD" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台 HD
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814462.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台
