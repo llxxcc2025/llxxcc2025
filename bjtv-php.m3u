@@ -8,7 +8,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225676/index.m3
 #EXTINF:-1 tvg-id="1875" tvg-name="北京影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
 http://192.168.100.1:4567/ghyx.php?id=BTV4HD_6000
 #EXTINF:-1 tvg-id="1876" tvg-name="北京财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
-https://epg.pw/stream/f50dd31163d4c6bb520c2a61e96d40d8ca8daa51f0647e8cb308a501d54a4e6d.m3u8
+http://192.168.100.1:4567/ghyx.php?id=BTVCaiJingHD_6000
 #EXTINF:-1 tvg-id="1873" tvg-name="北京文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
 http://192.168.100.1:4567/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1 tvg-id="1878" tvg-name="北京生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京",北京生活
