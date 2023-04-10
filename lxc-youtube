@@ -28,7 +28,7 @@ http://192.168.100.1:35455/youtube/WHEPzbFA3hw
 http://192.168.100.1:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻55台" group-title="台湾",TVBS 新闻55台
 http://192.168.100.1:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="新唐人亚太台" group-title="台湾",新唐人亚太台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/tang.jpg" tvg-id="6073" tvg-name="新唐人亚太台" group-title="台湾",新唐人亚太台
 http://192.168.100.1:35455/youtube/WIhgU_mc05A
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
 http://192.168.100.1:35455/youtube/h3MuIUNCCzI
