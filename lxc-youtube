@@ -34,13 +34,13 @@ http://192.168.100.1:35455/youtube/WIhgU_mc05A
 http://192.168.100.1:35455/youtube/hR07Rb6M5l4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/music.jpg" tvg-id="6114" tvg-name="Music Brokers" group-title="音乐",Music Brokers
 http://192.168.100.1:35455/youtube/VsgWgDyC84c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/music.jpg" tvg-id="6114" tvg-name="Summer Music Deep" group-title="音乐",Summer Music Deep
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Summer Music Deep.jpg" tvg-id="6114" tvg-name="Summer Music Deep" group-title="音乐",Summer Music Deep
 http://192.168.100.1:35455/youtube/RbJg7YLqJk8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/music.jpg" tvg-id="6114" tvg-name="Green Sound" group-title="音乐",Green Sound
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Green%20Sound.jpg" tvg-id="6114" tvg-name="Green Sound" group-title="音乐",Green Sound
 http://192.168.100.1:35455/youtube/qHqOJpsXW-0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Queen House.jpg" tvg-id="6114" tvg-name="Queen House" group-title="音乐",Queen House
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/channels4_profile.jpg" tvg-id="6114" tvg-name="Queen House" group-title="音乐",Queen House
 http://192.168.100.1:35455/youtube/R4mqSk5Ci3c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Queen House.jpg" tvg-id="6114" tvg-name="The Deep Sound" group-title="音乐",The Deep Sound
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/deep.jpg" tvg-id="6114" tvg-name="The Deep Sound" group-title="音乐",The Deep Sound
 http://192.168.100.1:35455/youtube/zXG6jwinb7M
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="国外",国家地理野生频道
 http://192.168.100.1:35455/youtube/6zGV59Ldp3s
