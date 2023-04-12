@@ -5,12 +5,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
-http://chuangye168.gnway.org:56994/g8dyou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u8
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",J2
-https://epg.pw/stream/2465b51c6cdc5905840494254f3054c2d4b1d0e3de9e69a4e9fe5ea938fea17d.m3u8
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="澳门",澳门莲花
 http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="Viu TV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",Viu TV
@@ -29,5 +25,4 @@ https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814462.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台
 http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" tvg-id="6049" tvg-name="卫视中文台" group-title="台湾",卫视中文台
-https://pull-l3-cny.douyincdn.com/live/stream-1121752023010618376.m3u8
+
