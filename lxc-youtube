@@ -28,8 +28,6 @@ http://192.168.100.1:35455/youtube/YvdcZ_jpLXE
 http://192.168.100.1:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/tang.jpg" tvg-id="6073" tvg-name="新唐人亚太台" group-title="台湾",新唐人亚太台
 http://192.168.100.1:35455/youtube/WIhgU_mc05A
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" tvg-id="6114" tvg-name="PMB Music" group-title="音乐",PMB Music
-http://192.168.100.1:35455/youtube/hR07Rb6M5l4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/music.jpg" tvg-id="6114" tvg-name="Music Brokers" group-title="音乐",Music Brokers
 http://192.168.100.1:35455/youtube/VsgWgDyC84c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Summer Music Deep.jpg" tvg-id="6114" tvg-name="Summer Music Deep" group-title="音乐",Summer Music Deep
