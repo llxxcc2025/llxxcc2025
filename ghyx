@@ -32,6 +32,10 @@ http://192.168.100.1:4567/ghyx.php?id=CCTV14HD_6000
 http://192.168.100.1:4567/ghyx.php?id=CCTV15HD_6000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://192.168.100.1:4567/ghyx.php?id=CCTV16HD_6000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16UHD" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 UHD
+http://192.168.100.1:4567/ghyx.php?id=CCTV16UHD_25000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K UHD" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K UHD
+http://192.168.100.1:4567/ghyx.php?id=CCTV4K_25000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://192.168.100.1:4567/ghyx.php?id=CCTV17HD_6000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
