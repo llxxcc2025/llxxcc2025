@@ -5,42 +5,13 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
-https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u8
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="澳门",澳门莲花
 http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="Viu TV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",Viu TV
-https://epg.pw/stream/4670b1b542f1f3a07586c8621a722742ae723acc3f77c3d560fd3dad7b795b69.m3u8
 #EXTINF:-1,tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="台湾",中天综合
 http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS HD
-https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS亚洲" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亚洲
-http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台 HD" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台 HD
-https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814462.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台
 http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
-http://2023.stream-link.org/live/401131254
-#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="其他",民視新聞
-http://2023.stream-link.org/live/1637144344
-#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="其他",三立新聞
-http://2023.stream-link.org/live/1803236734
-#EXTINF:-1,tvg-id="三立財經" tvg-name="三立財經" tvg-logo="https://epg.112114.xyz/logo/三立財經.png" group-title="其他",三立財經
-http://2023.stream-link.org/live/172551145
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="其他",中天新聞
-http://2023.stream-link.org/live/1552993665
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="其他",東森新聞
-http://2023.stream-link.org/live/1793825065
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="其他",東森財經
-http://2023.stream-link.org/live/249006034
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="其他",華視新聞
-http://2023.stream-link.org/live/215730961
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="其他",中視新聞
-http://2023.stream-link.org/live/926790469
-#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="其他",台視新聞
-http://2023.stream-link.org/live/966381653
+
 
