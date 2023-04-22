@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯IPV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文IPV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台IPV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="4k测试" tvg-name="4k测试" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="其他",4k测试
 https://epg.pw/stream/6250d50398f394eafb56b77509ceb4bb2db07d5cb3c351892b7a93a071d4f98a.m3u8
 #EXTINF:-1,tvg-id="北京iptv4k超清" tvg-name="北京iptv4k超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="北京",北京iptv4k超清
