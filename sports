@@ -62,8 +62,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="新疆体育健康" tvg-name="新疆体育健康" tvg-logo="https://upload.112114.xyz/logo/新疆体育.png" group-title="国内体育",新疆体育
 http://livehyw5.chinamcache.com/hyw/zb10.m3u8?txSecret=d091dfc5816b7d292a3857c717d16a66&txTime=95A66658
-#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="国内体育",辽宁体育
-http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1,tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="国内体育",天津体育
 http://117.14.55.102:18080/hls/46/index.m3u8
 #EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="国内体育",安徽综艺体育
