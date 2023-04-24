@@ -5,8 +5,6 @@ http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台
 http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 https://pull-l3-cny.douyincdn.com/live/stream-14672782023042400513.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
