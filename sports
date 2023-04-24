@@ -92,8 +92,6 @@ http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=80
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=76
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN2
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=77
-#EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="台湾体育",博斯魅力
-http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=81
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="台湾体育",爱尔达体育1
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=79
 
