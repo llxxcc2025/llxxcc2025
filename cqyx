@@ -223,6 +223,7 @@ http://113.207.84.199:8090/__cl/cg:live/__c/fazhi/__op/default/__f/index.m3u8
 http://113.207.84.199:8090/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="其他",财富天下
 http://113.207.84.199:8090/__cl/cg:live/__c/caifu/__op/default/__f/index.m3u8
+
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="央视",中学生
 http://113.207.84.199:8090/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
