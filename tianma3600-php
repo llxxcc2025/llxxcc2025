@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="合肥新闻" tvg-name="合肥新闻" tvg-logo="https://epg.112114.xyz/logo/合肥新闻.png" group-title="其他",合肥新闻
+http://192.168.100.1:4567/tianma3600.php?id=hfxw
+#EXTINF:-1,tvg-id="合肥生活" tvg-name="合肥生活" tvg-logo="https://epg.112114.xyz/logo/合肥生活.png" group-title="其他",合肥生活
+http://192.168.100.1:4567/tianma3600.php?id=hfsh
+#EXTINF:-1,tvg-id="合肥财经" tvg-name="合肥财经" tvg-logo="https://epg.112114.xyz/logo/合肥财经.png" group-title="其他",合肥财经
+http://192.168.100.1:4567/tianma3600.php?id=hfcj
+#EXTINF:-1,tvg-id="合肥教育法制" tvg-name="合肥教育法制" tvg-logo="https://epg.112114.xyz/logo/合肥教育法制.png" group-title="其他",合肥教育法制
+http://192.168.100.1:4567/tianma3600.php?id=hfjy
+#EXTINF:-1,tvg-id="合肥故事休闲" tvg-name="合肥故事休闲" tvg-logo="https://epg.112114.xyz/logo/合肥故事休闲.png" group-title="其他",合肥故事休闲
+http://192.168.100.1:4567/tianma3600.php?id=hfgs
+#EXTINF:-1,tvg-id="合肥公共" tvg-name="合肥公共" tvg-logo="https://epg.112114.xyz/logo/合肥公共.png" group-title="其他",合肥公共
+http://192.168.100.1:4567/tianma3600.php?id=hfgg
+#EXTINF:-1,tvg-id="桐城综合" tvg-name="桐城综合" tvg-logo="https://epg.112114.xyz/logo/桐城综合.png" group-title="其他",桐城综合
+http://192.168.100.1:4567/tianma3600.php?id=tczh
+#EXTINF:-1,tvg-id="北京怀柔" tvg-name="北京怀柔" tvg-logo="https://epg.112114.xyz/logo/北京怀柔.png" group-title="北京",北京怀柔
+http://192.168.100.1:4567/tianma3600.php?id=bjhr
+#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合
+http://192.168.100.1:4567/tianma3600.php?id=gzzh
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="其他",广州新闻
+http://192.168.100.1:4567/tianma3600.php?id=gzxw
+#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="其他",广州影视
+http://192.168.100.1:4567/tianma3600.php?id=gzys
+#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="其他",广州南国都市
+http://192.168.100.1:4567/tianma3600.php?id=gzngds
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="其他",广州法治
+http://192.168.100.1:4567/tianma3600.php?id=gzfz
+#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="其他",广州竞赛
+http://192.168.100.1:4567/tianma3600.php?id=gzjs
+#EXTINF:-1,tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" group-title="其他",湛江新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=zjxwzh
+#EXTINF:-1,tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" group-title="其他",湛江公共
+http://192.168.100.1:4567/tianma3600.php?id=zjgg
+#EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="其他",云浮综合
+http://192.168.100.1:4567/tianma3600.php?id=yfzh
+#EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png" group-title="其他",云浮文旅
+http://192.168.100.1:4567/tianma3600.php?id=yfwl
+#EXTINF:-1,tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="https://epg.112114.xyz/logo/玉林新闻综合.png" group-title="其他",玉林新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=ylxwzh
+#EXTINF:-1,tvg-id="玉林公共" tvg-name="玉林公共" tvg-logo="https://epg.112114.xyz/logo/玉林公共.png" group-title="其他",玉林公共
+http://192.168.100.1:4567/tianma3600.php?id=ylgg
+#EXTINF:-1,tvg-id="贵阳新闻综合" tvg-name="贵阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/贵阳新闻综合.png" group-title="其他",贵阳新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=gyxwzh
+#EXTINF:-1,tvg-id="贵阳经济生活" tvg-name="贵阳经济生活" tvg-logo="https://epg.112114.xyz/logo/贵阳经济生活.png" group-title="其他",贵阳经济生活
+http://192.168.100.1:4567/tianma3600.php?id=gyjjsh
+#EXTINF:-1,tvg-id="贵阳都市" tvg-name="贵阳都市" tvg-logo="https://epg.112114.xyz/logo/贵阳都市.png" group-title="其他",贵阳都市
+http://192.168.100.1:4567/tianma3600.php?id=gyds
+#EXTINF:-1,tvg-id="思南" tvg-name="思南" tvg-logo="https://epg.112114.xyz/logo/思南.png" group-title="其他",思南
+http://192.168.100.1:4567/tianma3600.php?id=sinan
+#EXTINF:-1,tvg-id="信阳综合" tvg-name="信阳综合" tvg-logo="https://epg.112114.xyz/logo/信阳综合.png" group-title="其他",信阳综合
+http://192.168.100.1:4567/tianma3600.php?id=xyzh
+#EXTINF:-1,tvg-id="信阳公共" tvg-name="信阳公共" tvg-logo="https://epg.112114.xyz/logo/信阳公共.png" group-title="其他",信阳公共
+http://192.168.100.1:4567/tianma3600.php?id=xygg
+#EXTINF:-1,tvg-id="信阳浉河" tvg-name="信阳浉河" tvg-logo="https://epg.112114.xyz/logo/信阳浉河.png" group-title="其他",信阳浉河
+http://192.168.100.1:4567/tianma3600.php?id=xysh
+#EXTINF:-1,tvg-id="信阳平桥" tvg-name="信阳平桥" tvg-logo="https://epg.112114.xyz/logo/信阳平桥.png" group-title="其他",信阳平桥
+http://192.168.100.1:4567/tianma3600.php?id=xypq
+#EXTINF:-1,tvg-id="盘锦新闻综合" tvg-name="盘锦新闻综合" tvg-logo="https://epg.112114.xyz/logo/盘锦新闻综合.png" group-title="其他",盘锦新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=pjxwzh
+#EXTINF:-1,tvg-id="盘锦都市" tvg-name="盘锦都市" tvg-logo="https://epg.112114.xyz/logo/盘锦都市.png" group-title="其他",盘锦都市
+http://192.168.100.1:4567/tianma3600.php?id=pjds
+#EXTINF:-1,tvg-id="盘锦影视" tvg-name="盘锦影视" tvg-logo="https://epg.112114.xyz/logo/盘锦影视.png" group-title="其他",盘锦影视
+http://192.168.100.1:4567/tianma3600.php?id=pjys
+#EXTINF:-1,tvg-id="巴彦淖尔新闻综合" tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.112114.xyz/logo/巴彦淖尔新闻综合.png" group-title="其他",巴彦淖尔新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=bynrxw
+#EXTINF:-1,tvg-id="巴彦淖尔经济生活" tvg-name="巴彦淖尔经济生活" tvg-logo="https://epg.112114.xyz/logo/巴彦淖尔经济生活.png" group-title="其他",巴彦淖尔经济生活
+http://192.168.100.1:4567/tianma3600.php?id=bynrjj
+#EXTINF:-1,tvg-id="巴彦淖尔影视娱乐" tvg-name="巴彦淖尔影视娱乐" tvg-logo="https://epg.112114.xyz/logo/巴彦淖尔影视娱乐.png" group-title="其他",巴彦淖尔影视娱乐
+http://192.168.100.1:4567/tianma3600.php?id=bynrys
+#EXTINF:-1,tvg-id="克旗综合" tvg-name="克旗综合" tvg-logo="https://epg.112114.xyz/logo/克旗综合.png" group-title="其他",克旗综合
+http://192.168.100.1:4567/tianma3600.php?id=keqizh
+#EXTINF:-1,tvg-id="准格尔综合" tvg-name="准格尔综合" tvg-logo="https://epg.112114.xyz/logo/准格尔综合.png" group-title="其他",准格尔综合
+http://192.168.100.1:4567/tianma3600.php?id=zhungeer
+#EXTINF:-1,tvg-id="察右前旗综合" tvg-name="察右前旗综合" tvg-logo="https://epg.112114.xyz/logo/察右前旗综合.png" group-title="其他",察右前旗综合
+http://192.168.100.1:4567/tianma3600.php?id=cyqqzh
+#EXTINF:-1,tvg-id="达茂综合" tvg-name="达茂综合" tvg-logo="https://epg.112114.xyz/logo/达茂综合.png" group-title="其他",达茂综合
+http://192.168.100.1:4567/tianma3600.php?id=damao
+#EXTINF:-1,tvg-id="固阳综合" tvg-name="固阳综合" tvg-logo="https://epg.112114.xyz/logo/固阳综合.png" group-title="其他",固阳综合
+http://192.168.100.1:4567/tianma3600.php?id=guyang
+#EXTINF:-1,tvg-id="鄂温克综合" tvg-name="鄂温克综合" tvg-logo="https://epg.112114.xyz/logo/鄂温克综合.png" group-title="其他",鄂温克综合
+http://192.168.100.1:4567/tianma3600.php?id=ewkqzh
+#EXTINF:-1,tvg-id="库伦" tvg-name="库伦" tvg-logo="https://epg.112114.xyz/logo/库伦.png" group-title="其他",库伦
+http://192.168.100.1:4567/tianma3600.php?id=kulun
+#EXTINF:-1,tvg-id="奈曼" tvg-name="奈曼" tvg-logo="https://epg.112114.xyz/logo/奈曼.png" group-title="其他",奈曼
+http://192.168.100.1:4567/tianma3600.php?id=naiman
+#EXTINF:-1,tvg-id="海东综合" tvg-name="海东综合" tvg-logo="https://epg.112114.xyz/logo/海东综合.png" group-title="其他",海东综合
+http://192.168.100.1:4567/tianma3600.php?id=haidong
+#EXTINF:-1,tvg-id="安康综合" tvg-name="安康综合" tvg-logo="https://epg.112114.xyz/logo/安康综合.png" group-title="其他",安康综合
+http://192.168.100.1:4567/tianma3600.php?id=akzh
+#EXTINF:-1,tvg-id="安康公共" tvg-name="安康公共" tvg-logo="https://epg.112114.xyz/logo/安康公共.png" group-title="其他",安康公共
+http://192.168.100.1:4567/tianma3600.php?id=akgg
+#EXTINF:-1,tvg-id="安康教育" tvg-name="安康教育" tvg-logo="https://epg.112114.xyz/logo/安康教育.png" group-title="其他",安康教育
+http://192.168.100.1:4567/tianma3600.php?id=akjy
+#EXTINF:-1,tvg-id="宜宾新闻综合" tvg-name="宜宾新闻综合" tvg-logo="https://epg.112114.xyz/logo/宜宾新闻综合.png" group-title="其他",宜宾新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=ybxwzh
+#EXTINF:-1,tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://epg.112114.xyz/logo/宜宾公共.png" group-title="其他",宜宾公共
+http://192.168.100.1:4567/tianma3600.php?id=ybgg
+#EXTINF:-1,tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://epg.112114.xyz/logo/自贡综合.png" group-title="其他",自贡综合
+http://192.168.100.1:4567/tianma3600.php?id=zgzh
+#EXTINF:-1,tvg-id="自贡公共" tvg-name="自贡公共" tvg-logo="https://epg.112114.xyz/logo/自贡公共.png" group-title="其他",自贡公共
+http://192.168.100.1:4567/tianma3600.php?id=zggg
+#EXTINF:-1,tvg-id="珙县新闻" tvg-name="珙县新闻" tvg-logo="https://epg.112114.xyz/logo/珙县新闻.png" group-title="其他",珙县新闻
+http://192.168.100.1:4567/tianma3600.php?id=gongxian
+#EXTINF:-1,tvg-id="茂县新闻综合" tvg-name="茂县新闻综合" tvg-logo="https://epg.112114.xyz/logo/茂县新闻综合.png" group-title="其他",茂县新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=maoxian
+#EXTINF:-1,tvg-id="乌鲁木齐汉语综合" tvg-name="乌鲁木齐汉语综合" tvg-logo="https://epg.112114.xyz/logo/乌鲁木齐汉语综合.png" group-title="其他",乌鲁木齐汉语综合
+http://192.168.100.1:4567/tianma3600.php?id=utvhyzh
+#EXTINF:-1,tvg-id="乌鲁木齐维语综合" tvg-name="乌鲁木齐维语综合" tvg-logo="https://epg.112114.xyz/logo/乌鲁木齐维语综合.png" group-title="其他",乌鲁木齐维语综合
+http://192.168.100.1:4567/tianma3600.php?id=utvwyzh
+#EXTINF:-1,tvg-id="昆明教育" tvg-name="昆明教育" tvg-logo="https://epg.112114.xyz/logo/昆明教育.png" group-title="其他",昆明教育
+http://192.168.100.1:4567/tianma3600.php?id=kmjy
+#EXTINF:-1,tvg-id="师宗" tvg-name="师宗" tvg-logo="https://epg.112114.xyz/logo/师宗.png" group-title="其他",师宗
+http://192.168.100.1:4567/tianma3600.php?id=shizong
+#EXTINF:-1,tvg-id="东阳新闻综合" tvg-name="东阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/东阳新闻综合.png" group-title="其他",东阳新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=dyxwzh
+#EXTINF:-1,tvg-id="东阳影视生活" tvg-name="东阳影视生活" tvg-logo="https://epg.112114.xyz/logo/东阳影视生活.png" group-title="其他",东阳影视生活
+http://192.168.100.1:4567/tianma3600.php?id=dyyssh
+#EXTINF:-1,tvg-id="泰顺新闻综合" tvg-name="泰顺新闻综合" tvg-logo="https://epg.112114.xyz/logo/泰顺新闻综合.png" group-title="其他",泰顺新闻综合
+http://192.168.100.1:4567/tianma3600.php?id=tsxwzh
+#EXTINF:-1,tvg-id="兰铁TV" tvg-name="兰铁TV" tvg-logo="https://epg.112114.xyz/logo/兰铁TV.png" group-title="其他",兰铁TV
+http://192.168.100.1:4567/tianma3600.php?id=lantie
+#EXTINF:-1,tvg-id="人民铁道" tvg-name="人民铁道" tvg-logo="https://epg.112114.xyz/logo/人民铁道.png" group-title="其他",人民铁道
+http://192.168.100.1:4567/tianma3600.php?id=rmtd
+#EXTINF:-1,tvg-id="琼中" tvg-name="琼中" tvg-logo="https://epg.112114.xyz/logo/琼中.png" group-title="其他",琼中
+http://192.168.100.1:4567/tianma3600.php?id=qiongzhong
