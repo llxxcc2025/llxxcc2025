@@ -1,18 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教8K
 http://192.168.100.1:1155/bjtv.php?id=brtv8k
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="北京",北京卫视
+http://192.168.100.1:4567/bjsj.php?id=bjws
 #EXTINF:-1 tvg-id="1874" tvg-name="北京纪实科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225676/index.m3u8
+http://192.168.100.1:4567/bjsj.php?id=btvkj
 #EXTINF:-1 tvg-id="1875" tvg-name="北京影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
-http://192.168.100.1:4567/ghyx.php?id=BTV4HD_6000
+http://192.168.100.1:4567/bjsj.php?id=btvys
 #EXTINF:-1 tvg-id="1876" tvg-name="北京财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
-http://192.168.100.1:4567/ghyx.php?id=BTVCaiJingHD_6000
+http://192.168.100.1:4567/bjsj.php?id=btvcj
 #EXTINF:-1 tvg-id="1873" tvg-name="北京文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
-http://192.168.100.1:4567/ghyx.php?id=BTVwenyiHD_6000
+http://192.168.100.1:4567/bjsj.php?id=btvwy
 #EXTINF:-1 tvg-id="1878" tvg-name="北京生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京",北京生活
-http://192.168.100.1:4567/ghyx.php?id=BTVShengHuoHD_6000
+http://192.168.100.1:4567/bjsj.php?id=btvsh
 #EXTINF:-1 tvg-id="1880" tvg-name="北京新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻
-http://192.168.100.1:4567/ghyx.php?id=BTV9HD_6000
+http://192.168.100.1:4567/bjsj.php?id=btvxw
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://192.168.100.1:4567/bjsj.php?id=kaku
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" tvg-id="1877" tvg-name="北京体育休闲" group-title="北京",北京体育休闲
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
