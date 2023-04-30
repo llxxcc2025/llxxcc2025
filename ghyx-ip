@@ -9,7 +9,7 @@ http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
 http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
-http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/CCTV5plusHD_6000
+http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/CCTV5plusHD_6000.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
 http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/CCTV6HD_6000.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
