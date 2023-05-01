@@ -64,12 +64,12 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
 #EXTINF:-1,tvg-id="咪咕-7" tvg-name="咪咕-7" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="国内体育",咪咕-6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226243/index.m3u8
-#EXTINF:-1,tvg-id="咪咕-7" tvg-name="咪咕-CBA直播" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="国内体育",咪咕-CBA直播
-http://192.168.100.1:4567/migu.php?id=mgzb
-#EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/ebfdaa542323d8af8fca0feeb367f8759c7f9b30.jpg" group-title="国内体育", 哔哩哔哩足球赛事
+http://192.168.10.1:35455/bilibili/22?line=first
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾体育",纬来体育
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+#EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="国内体育",BesTV-4K
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 
 
 
