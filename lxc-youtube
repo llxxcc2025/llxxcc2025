@@ -30,8 +30,6 @@ http://192.168.100.1:35455/youtube/2mCSYvcfhtc
 http://192.168.100.1:35455/youtube/6zGV59Ldp3s
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" tvg-id="691" tvg-name="国家地理频道" group-title="国外",国家地理频道
 http://192.168.100.1:35455/youtube/9HhhFKxfqUk
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" tvg-id="6039" tvg-name="动物星球" group-title="国外",动物星球
-http://192.168.100.1:35455/youtube/Maw4B8cFJd0
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
 http://192.168.100.1:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24 法语" group-title="国外",FRANCE 24 法语
