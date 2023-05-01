@@ -61,3 +61,5 @@ http://113.207.84.199:8090/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
 https://live.v1.mk/api/cqyx.php?id=shuhua
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画3
 https://epg.pw/stream/6153560d32002a76db2f632231052256574bc0612b40d024af7963586e3e7c0d.m3u8
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道 ghyx
+http://1.189.99.196/yfsv.vsd.gehua.net.cn/live/ShuHuaPinDaoHD_2000.m3u8
