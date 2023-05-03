@@ -222,7 +222,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-10
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv17/1.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="安徽江西IPV6" tvg-name="安徽江西IPV6" tvg-logo="https://epg.112114.xyz/logo/安徽江西IPV6.png" group-title="江西IPV6",安徽江西IPV6HD
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-anhuistv/1.m3u8?blog.ntnas.top
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="北京",北京冬奥纪实HD
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="江西IPV6",北京冬奥纪实HD
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-beijingjishi/1.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="北京江西IPV6" tvg-name="北京江西IPV6" tvg-logo="https://epg.112114.xyz/logo/北京江西IPV6.png" group-title="江西IPV6",北京江西IPV6HD
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/1.m3u8?blog.ntnas.top
