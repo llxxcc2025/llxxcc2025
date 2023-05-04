@@ -32,6 +32,8 @@ http://cntv.sbs/ipv6?id=emdy4k_8000
 http://cntv.sbs/ipv6?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD-IPV6",CCTV16-4K
 http://cntv.sbs/ipv6?id=CCTV-16-4K_8000
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD-IPV6",CCTV16-4K 34M2160HDR
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV16 4K 「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD-IPV6",河南卫视 4K 「IPV6」•支持回看
@@ -53,5 +55,7 @@ http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/ind
 
 #EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏移动8K测试.png" group-title="8K-IPV6",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏移动8K测试.png" group-title="8K-IPV6",江苏移动8K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="8K-IPV4",北京纪实科教8K
 http://192.168.100.1:1155/bjtv.php?id=brtv8k
