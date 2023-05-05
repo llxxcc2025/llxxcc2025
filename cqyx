@@ -171,7 +171,7 @@ http://113.207.84.199:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 http://113.207.84.199:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/重庆科教.png" group-title="重庆",重庆科教高清
 http://113.207.84.199:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="爱看导视高清" tvg-name="爱看导视高清" tvg-logo="https://epg.112114.xyz/logo/爱看导视.png" group-title="其他",爱看导视高清
+#EXTINF:-1,tvg-id="爱看导视高清" tvg-name="爱看导视高清" tvg-logo="https://upload.112114.xyz/logo/CHONGQING.png" group-title="其他",爱看导视高清
 http://113.207.84.199:8090/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="重庆",重庆汽摩高清
 http://113.207.84.199:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
