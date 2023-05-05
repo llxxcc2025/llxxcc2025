@@ -7,9 +7,9 @@ http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=GDZYHD4K_38000
 #EXTINF:-1,tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=GHDdaoshi_7500
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/FEICUI.png" group-title="港澳台",翡翠台
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=1350_4500
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/MINGZHU.png" group-title="港澳台",明珠台
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=1351_4500
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=1402_4500
