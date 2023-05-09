@@ -8,3 +8,5 @@ http://192.168.100.1:4567/cctv4k.php
 http://192.168.100.1:4567/sencond-cctv4k.php
 #EXTINF:-1 tvg-id="33" tvg-name="广东清远电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东清远电视台
 http://192.168.100.1:1155/gdqy.php
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
+http://192.168.100.1:4567/amlh.php
