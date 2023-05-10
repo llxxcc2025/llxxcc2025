@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-IPV6",CCTV-4K 超高清1
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清1
 http://192.168.100.1:4567/cctv4k.php
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-IPV6",CCTV-4K 超高清2
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清2
 http://192.168.100.1:4567/sencond-cctv4k.php
 #EXTINF:-1 tvg-id="33" tvg-name="广东清远电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="其他",广东清远电视台
 http://192.168.100.1:1155/gdqy.php
@@ -13,7 +13,7 @@ http://192.168.100.1:4567/fh.php?id=fhzx
 http://192.168.100.1:4567/fh.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台
 http://192.168.100.1:4567/fh.php?id=fhhk
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",  贵州卫视 HD
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",  贵州卫视 HD
 http://192.168.100.1:4567/gz.php?id=1
 #EXTINF:-1,tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",  贵州公共频道 HD
 http://192.168.100.1:4567/gz.php?id=2
