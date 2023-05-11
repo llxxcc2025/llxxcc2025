@@ -65,6 +65,11 @@ https://live.goodiptv.club/aishang/cctv164k
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="CCTV-16",CCTV-16 奥林匹克超高清5
 https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-4",CCTV4中文国际高清1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="CCTV-4",CCTV4中文国际高清2
@@ -183,5 +188,5 @@ http://113.207.84.199:8090/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
 https://live.goodiptv.club/api/cqyx.php?id=shuhua
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="书画",书画频道3
 https://epg.pw/stream/6153560d32002a76db2f632231052256574bc0612b40d024af7963586e3e7c0d.m3u8
-#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="UHD-IPV6",CCTV-8K
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
