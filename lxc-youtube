@@ -52,13 +52,4 @@ http://192.168.100.1:35455/youtube/pqabxBKzZ6M
 http://192.168.100.1:35455/youtube/5VF4aor94gw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="7100" tvg-name="ABCAustralia 720p" group-title="国外",ABCAustralia 720p
 http://192.168.100.1:35455/youtube/w_Ma8oQLmSM
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/music.jpg" tvg-id="6114" tvg-name="Music Brokers" group-title="音乐",Music Brokers
-http://192.168.100.1:35455/youtube/VsgWgDyC84c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Summer Music Deep.jpg" tvg-id="6114" tvg-name="Summer Music Deep" group-title="音乐",Summer Music Deep
-http://192.168.100.1:35455/youtube/RbJg7YLqJk8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/Green%20Sound.jpg" tvg-id="6114" tvg-name="Green Sound" group-title="音乐",Green Sound
-http://192.168.100.1:35455/youtube/qHqOJpsXW-0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/channels4_profile.jpg" tvg-id="6114" tvg-name="Queen House" group-title="音乐",Queen House
-http://192.168.100.1:35455/youtube/R4mqSk5Ci3c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/deep.jpg" tvg-id="6114" tvg-name="The Deep Sound" group-title="音乐",The Deep Sound
-http://192.168.100.1:35455/youtube/zXG6jwinb7M
+
