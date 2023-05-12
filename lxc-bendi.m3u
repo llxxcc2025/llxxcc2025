@@ -28,3 +28,17 @@ http://192.168.100.1:4567/gz.php?id=6
 #EXTINF:-1,tvg-id="  贵州移动电视 HD" tvg-name="  贵州移动电视 HD" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",  贵州移动电视 HD
 http://192.168.100.1:4567/gz.php?id=13
 
+#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京新闻综合
+http://192.168.100.1:4567/nj.php?id=xw
+#EXTINF:-1,tvg-id="南京科教频道" tvg-name="南京科教频道" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京科教频道
+http://192.168.100.1:4567/nj.php?id=kj
+#EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京生活频道
+http://192.168.100.1:4567/nj.php?id=sh
+#EXTINF:-1,tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京娱乐频道
+http://192.168.100.1:4567/nj.php?id=yl
+#EXTINF:-1,tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京十八频道
+http://192.168.100.1:4567/nj.php?id=sb
+#EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京少儿频道
+http://192.168.100.1:4567/nj.php?id=se
+#EXTINF:-1,tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京信息频道
+http://192.168.100.1:4567/nj.php?id=xx
