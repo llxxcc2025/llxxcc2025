@@ -271,3 +271,16 @@ http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=2070_1500
 #EXTINF:-1,tvg-id="广州共享课堂高二" tvg-name="广州共享课堂高二" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高二.png" group-title="其他",广州共享课堂高二
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=2071_1500
+#EXTINF:-1,tvg-id="茂名综合HD" tvg-name="茂名综合HD" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名综合HD
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3012_4500
+#EXTINF:-1,tvg-id="茂名公共HD" tvg-name="茂名公共HD" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名公共HD
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3013_4500
+#EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名综合
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3012_1500
+#EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名综合
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3012_800
+#EXTINF:-1,tvg-id="茂名公共" tvg-name="茂名公共" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名公共
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3013_1500
+#EXTINF:-1,tvg-id="茂名公共" tvg-name="茂名公共" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名公共
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=3013_800
+
