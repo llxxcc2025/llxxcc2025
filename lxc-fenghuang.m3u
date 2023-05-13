@@ -29,7 +29,7 @@ http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台1
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
