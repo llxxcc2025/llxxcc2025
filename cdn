@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.hklive.tv"
 #EXTINF:-1,tvg-id="RNOW" tvg-name="RNOW" tvg-logo="https://upload.112114.xyz/logo/NOWNEWS.png" group-title="其他",RNOW
 https://reuters-reutersnow-1.plex.wurl.com/manifest/c0c0829237382f291cc46a0368586aa7.m3u8
+#EXTINF:-1,tvg-id="Cum4k" tvg-name="Cum4k" tvg-logo="https://upload.112114.xyz/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="UHD-IPV4",Cum4k UHD -18+  
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hklive.tv/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 http://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hklive.tv/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
