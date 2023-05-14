@@ -58,7 +58,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u
 http://192.168.100.1:1155/tide.php?id=sztyjk
 
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾体育",纬来体育
-http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+rtmp://9sv2.mine.nu/sat/tv721
 
 
 
