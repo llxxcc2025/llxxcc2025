@@ -11,13 +11,9 @@ http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="国内体育",CCTV5+
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
+http://cntv.sbs/ipv6?id=CCTV-5plusH265
 #EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="国内体育",南国都市4K
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="国内体育",精品体育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="上海",劲爆体育
@@ -28,8 +24,6 @@ http://cntv.sbs/ipv6?id=ycxsjH265
 http://cntv.sbs/ipv6?id=mlyy
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="国内体育",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="国内体育",咪咕足球
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育1
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育2
@@ -50,6 +44,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3
 http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="国内体育",广东体育
 http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育 gudou
+http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=1413
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/ebfdaa542323d8af8fca0feeb367f8759c7f9b30.jpg" group-title="国内体育", 哔哩哔哩足球赛事
 http://192.168.100.1:35455/bilibili/22?line=first
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾体育",纬来体育
