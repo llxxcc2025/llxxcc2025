@@ -7,12 +7,6 @@ http://192.168.100.1:4567/sencond-cctv4k.php
 http://192.168.100.1:1155/gdqy.php
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
 http://192.168.100.1:4567/amlh.php
-#EXTINF:-1,tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="香港",凤凰资讯台
-http://192.168.100.1:4567/fh.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文天
-http://192.168.100.1:4567/fh.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台
-http://192.168.100.1:4567/fh.php?id=fhhk
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",  贵州卫视 HD
 http://192.168.100.1:4567/gz.php?id=1
 #EXTINF:-1,tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="贵州",  贵州公共频道 HD
