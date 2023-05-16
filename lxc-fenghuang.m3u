@@ -30,7 +30,6 @@ http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
 http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
 
-
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台1
 https://cntv.sbs/fs?id=fhhk
 
