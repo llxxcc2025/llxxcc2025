@@ -9,7 +9,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰资讯",凤凰资讯台5
 http://cntv.sbs/ipv6?id=test2
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台6
-http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+http://124.236.64.76/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台7
 http://xcm13.f3322.net:4000/udp/239.93.1.4:2191
 
@@ -26,7 +26,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台6
 http://cntv.sbs/ipv6?id=test1
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台7
-http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+http://124.236.64.76/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
 http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
 
