@@ -37,33 +37,33 @@ http://192.168.100.1:4567/nj.php?id=se
 #EXTINF:-1,tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://upload.112114.xyz/logo/TV6.png" group-title="南京",南京信息频道
 http://192.168.100.1:4567/nj.php?id=xx
 
-#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="其他",杭州综合
+#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="杭州源",杭州综合
 http://192.168.100.1:4567/hlw.php?id=zh
-#EXTINF:-1,tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="港澳台",西湖明珠
+#EXTINF:-1,tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="杭州源",西湖明珠
 http://192.168.100.1:4567/hlw.php?id=xh
-#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="其他",杭州生活
+#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="杭州源",杭州生活
 http://192.168.100.1:4567/hlw.php?id=sh
-#EXTINF:-1,tvg-id="青少体育" tvg-name="青少体育" tvg-logo="https://epg.112114.xyz/logo/青少体育.png" group-title="其他",青少体育
+#EXTINF:-1,tvg-id="青少体育" tvg-name="青少体育" tvg-logo="https://epg.112114.xyz/logo/青少体育.png" group-title="杭州源",青少体育
 http://192.168.100.1:4567/hlw.php?id=qt
-#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="其他",杭州影视
+#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="杭州源",杭州影视
 http://192.168.100.1:4567/hlw.php?id=ys
-#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="其他",杭州导视
+#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="杭州源",杭州导视
 http://192.168.100.1:4567/hlw.php?id=ds
-#EXTINF:-1,tvg-id="富阳综合" tvg-name="富阳综合" tvg-logo="https://epg.112114.xyz/logo/富阳综合.png" group-title="其他",富阳综合
+#EXTINF:-1,tvg-id="富阳综合" tvg-name="富阳综合" tvg-logo="https://epg.112114.xyz/logo/富阳综合.png" group-title="杭州源",富阳综合
 http://192.168.100.1:4567/hlw.php?id=fy
-#EXTINF:-1,tvg-id="Hoolo综合" tvg-name="Hoolo综合" tvg-logo="https://epg.112114.xyz/logo/HOOLO综合.png" group-title="其他",Hoolo综合
+#EXTINF:-1,tvg-id="Hoolo综合" tvg-name="Hoolo综合" tvg-logo="https://epg.112114.xyz/logo/HOOLO综合.png" group-title="杭州源",Hoolo综合
 http://192.168.100.1:4567/hlw.php?id=hl
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM90.7MHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",FM90.7MHz
 http://192.168.100.1:4567/hlw.php?id=r1
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM89.0MHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",FM89.0MHz
 http://192.168.100.1:4567/hlw.php?id=r2
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM105.4MHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",FM105.4MHz
 http://192.168.100.1:4567/hlw.php?id=r3
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM91.8MHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",FM91.8MHz
 http://192.168.100.1:4567/hlw.php?id=r4
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",AM954KHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",AM954KHz
 http://192.168.100.1:4567/hlw.php?id=r5
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM100.4MHz
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="杭州广播",FM100.4MHz
 http://192.168.100.1:4567/hlw.php?id=r6
 
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁源",辽宁体育
