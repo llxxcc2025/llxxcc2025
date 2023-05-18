@@ -4,7 +4,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u
 #EXTINF:-1,tvg-id="解密" tvg-name="解密" tvg-logo="https://epg.112114.xyz/logo/解密.png" group-title="其他",解密
 http://113.62.253.19/live.aishang.ctlcdn.com/00000110240348_1/playlist.m3u8?CONTENTID=00000110240348_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 http://192.168.100.1:4567/gudou.php?phone=13389247903&ptoken=cD0H6NAos3Lt2iE1hyg5ZA%3D%3D&pserialnumber=a6cafa9caf5510c6&cid=370&id=GHDdaoshi_7500
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/FEICUI.png" group-title="港澳台",翡翠台1
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/FEICUI.png" group-title="港澳台",翡翠台
 http://162.19.247.76:22222/live/tvbfc/index.m3u8
 http://r.jdshipin.com/qrfbg
 https://live.astradamy.com/tvbfc/index.m3u8
