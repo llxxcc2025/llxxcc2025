@@ -68,8 +68,6 @@ http://192.168.100.1:4567/hlw.php?id=r6
 
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁源",辽宁体育
 http://192.168.100.1:2345/lny.php
-#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁源",辽宁体育
-http://192.168.100.1:2345/lny.php?id=typd
 #EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁源",辽宁生活
 http://192.168.100.1:2345/lny.php?id=shpd
 #EXTINF:-1,tvg-id="宜佳购物" tvg-name="宜佳购物" tvg-logo="https://epg.112114.xyz/logo/宜佳购物.png" group-title="辽宁源",宜佳购物
