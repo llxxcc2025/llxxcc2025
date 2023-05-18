@@ -65,3 +65,33 @@ http://192.168.100.1:4567/hlw.php?id=r4
 http://192.168.100.1:4567/hlw.php?id=r5
 #EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",FM100.4MHz
 http://192.168.100.1:4567/hlw.php?id=r6
+
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁源",辽宁体育
+http://192.168.100.1:2345/lny.php
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁源",辽宁体育
+http://192.168.100.1:2345/lny.php?id=typd
+#EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁源",辽宁生活
+http://192.168.100.1:2345/lny.php?id=shpd
+#EXTINF:-1,tvg-id="宜佳购物" tvg-name="宜佳购物" tvg-logo="https://epg.112114.xyz/logo/宜佳购物.png" group-title="辽宁源",宜佳购物
+http://192.168.100.1:2345/lny.php?id=yjgw
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="辽宁源",新动漫
+http://192.168.100.1:2345/lny.php?id=xdm
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="辽宁源",家庭理财
+http://192.168.100.1:2345/lny.php?id=jtlc
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="辽宁源",CCTV2经济频道
+http://192.168.100.1:2345/lny.php?id=cctv2
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="辽宁源",CCTV4中文国际
+http://192.168.100.1:2345/lny.php?id=cctv4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="辽宁源",CCTV4国防军事
+http://192.168.100.1:2345/lny.php?id=cctv7
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="辽宁源",CCTV10科教频道
+http://192.168.100.1:2345/lny.php?id=cctv10
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="辽宁源",CCTV11戏曲频道
+http://192.168.100.1:2345/lny.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="辽宁源",CCTV12社会与法
+http://192.168.100.1:2345/lny.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="辽宁源",CCTV13新闻频道
+http://192.168.100.1:2345/lny.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="辽宁源",CCTV15音乐频道
+http://192.168.100.1:2345/lny.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="辽宁源",CCTV17农业农村
