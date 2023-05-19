@@ -15,7 +15,8 @@ http://cntv.sbs/ipv6?id=CCTV-5plusH265
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="国内体育",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
-http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225715/index.m3u8?世界杯WorldCup
+http://39.134.136.205:6610/200000001898/460000089800010063/1.m3u8?IAS=
+http://39.134.136.134:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&livemode=1&stbId=3&Contentid=1000000001000009601
 #EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="国内体育",南国都市4K
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
