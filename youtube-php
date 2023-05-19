@@ -24,6 +24,10 @@ http://192.168.100.1:3456/youtube.php?id=R2iMq5LKXco
 http://192.168.100.1:3456/youtube.php?id=YvdcZ_jpLXE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻55台" group-title="台湾",TVBS 新闻55台
 http://192.168.100.1:3456/youtube.php?id=2mCSYvcfhtc
+#EXTINF:-1,tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png.png" group-title="其他",LIVE三立
+http://192.168.100.1:3456/youtube.php?id=FoBfXvlOR6I
+#EXTINF:-1,tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png.png" group-title="其他",LIVE三立+
+http://192.168.100.1:3456/youtube.php?id=oZdzzvxTfUY
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
 http://192.168.100.1:3456/youtube.php?id=h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24 法语" group-title="国外",FRANCE 24 法语
