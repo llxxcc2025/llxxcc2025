@@ -10,6 +10,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929
 http://cntv.sbs/ipv6?id=test2
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台6
 http://124.236.64.76/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台7
+http://110.72.101.233:808/hls/1/index.m3u8
+http://110.72.77.31:808/hls/83/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台1
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -25,12 +28,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/
 http://cntv.sbs/ipv6?id=test1
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台7
 http://124.236.64.76/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
+http://110.72.101.233:808/hls/83/index.m3u8
+http://110.72.77.31:808/hls/132/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰香港",凤凰香港台1
 https://cntv.sbs/fs?id=fhhk
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台2
-https://17186.eu.org/php/phtv/fhhk.flv
+http://110.72.101.233:808/hls/333/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台3
+https://17186.eu.org/php/phtv/fhhk.flv
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台4
 http://r.jdshipin.com/NfC0f
 
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K
