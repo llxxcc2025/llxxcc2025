@@ -24,7 +24,7 @@ http://192.168.100.1:3456/youtube.php?id=YvdcZ_jpLXE
 http://192.168.100.1:3456/youtube.php?id=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台live" group-title="台湾",LIVE三立
 http://192.168.100.1:3456/youtube.php?id=FoBfXvlOR6I
-#EXTINF:-1,tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png.png" group-title="台湾",LIVE三立+
+#EXTINF:-1,tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png" group-title="台湾",LIVE三立+
 http://192.168.100.1:3456/youtube.php?id=oZdzzvxTfUY
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
 http://192.168.100.1:3456/youtube.php?id=h3MuIUNCCzI
