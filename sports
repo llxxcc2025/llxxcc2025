@@ -11,7 +11,7 @@ http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="国内体育",CCTV5+
-http://cntv.sbs/ipv6?id=CCTV-5plusH265
+https://cntv.sbs/v605?id=CCTV-5plusH265
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="国内体育",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
@@ -22,11 +22,11 @@ https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
 http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="国内体育",劲爆体育
-http://cntv.sbs/ipv6?id=lqhxjcHDH265
+https://cntv.sbs/v605?id=lqhxjcHDH265
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="国内体育",SITV新视觉
-http://cntv.sbs/ipv6?id=ycxsjH265
+https://cntv.sbs/v605?id=ycxsjH265
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="国内体育",SITV魅力足球
-http://cntv.sbs/ipv6?id=mlyy
+https://cntv.sbs/v605?id=mlyy
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="国内体育",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育1
