@@ -154,3 +154,5 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="书画",书画频道4
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8?blog.ntnas.top
 
+#EXTINF:-1,tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://epg.112114.xyz/logo/墨宝.png" group-title="墨宝",墨宝
+http://live.aishang.ctlcdn.com/00000110240342_1/playlist.m3u8?CONTENTID=00000110240342_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
