@@ -137,8 +137,6 @@ http://192.168.100.1:2345/as.php?id=hinws
 http://192.168.100.1:2345/as.php?id=ssws
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://192.168.100.1:2345/as.php?id=kkse
-#EXTINF:-1,tvg-id="体育赛事高清" tvg-name="体育赛事高清" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="其他",体育赛事高清
-http://192.168.100.1:2345/as.php?id=tyss
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
 http://192.168.100.1:2345/as.php?id=xdm
 #EXTINF:-1,tvg-id="网络棋牌" tvg-name="网络棋牌" tvg-logo="https://epg.112114.xyz/logo/网络棋牌.png" group-title="其他",网络棋牌
