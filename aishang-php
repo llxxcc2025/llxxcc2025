@@ -139,8 +139,6 @@ http://192.168.100.1:2345/as.php?id=ssws
 http://192.168.100.1:2345/as.php?id=kkse
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
 http://192.168.100.1:2345/as.php?id=xdm
-#EXTINF:-1,tvg-id="网络棋牌" tvg-name="网络棋牌" tvg-logo="https://epg.112114.xyz/logo/网络棋牌.png" group-title="其他",网络棋牌
-http://192.168.100.1:2345/as.php?id=wlqp  
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育
 http://192.168.100.1:2345/as.php?id=sdjy  
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实高清
