@@ -7,6 +7,8 @@ http://192.168.100.1:2345/as.php?id=cctv2hd
 http://192.168.100.1:2345/as.php?id=cctv3hd
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4高清
 http://192.168.100.1:2345/as.php?id=cctv4hd
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4中文国际欧洲
+http://192.168.100.1:2345/as.php?id=cctv4hdo
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
 http://192.168.100.1:2345/as.php?id=cctv5hd
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+高清
