@@ -1,17 +1,11 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,tvg-id="Clarity4K-1" tvg-name="Clarity4K-1" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD-IPV4",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+http://77.72.23.28/iptv/ADYDWLKVER8U7V/5001/index.m3u8
+http://77.72.23.28/iptv/Y5FM5K6GMY4RPT/5001/index.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="Fashion2K" tvg-name="Fashion2K" tvg-logo="https://upload.112114.xyz/logo/FASHINN.png" group-title="UHD-IPV4",Fashion2K
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1,tvg-id="LOUPE 4K" tvg-name="LOUPE 4K" tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/LOUPE.jpg" group-title="UHD-IPV4",LOUPE 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://upload.112114.xyz/logo/BBC%20Earth.png" group-title="UHD-IPV4",earthtv
 http://192.168.100.1:2345/earthtv.php
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
