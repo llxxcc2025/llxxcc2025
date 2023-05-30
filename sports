@@ -2,6 +2,8 @@
 http://192.168.100.1:35455/huya/880625
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778" group-title="虎牙斯诺克", 虎牙斯诺克24小时直播2
 http://192.168.100.1:35455/huya/880214
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/huyalogo.png" group-title="虎牙网球", 虎牙网球直播
+http://192.168.100.1:35455/huya/880275
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="国内体育",CCTV-16 奥林匹克 4K
 http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
