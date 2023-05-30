@@ -93,3 +93,30 @@ http://192.168.100.1:2345/lny.php?id=cctv13
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="辽宁源",CCTV15音乐频道
 http://192.168.100.1:2345/lny.php?id=cctv15
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="辽宁源",CCTV17农业农村
+http://192.168.100.1:2345/lny.php?id=cctv17
+
+#EXTM3U
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="江西源",江西卫视
+http://192.168.100.1:4567/jxgw.php?id=jxws
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西源",江西都市
+http://192.168.100.1:4567/jxgw.php?id=jxds
+#EXTINF:-1,tvg-id="江西经视" tvg-name="江西经视" tvg-logo="https://epg.112114.xyz/logo/江西经视.png" group-title="江西源",江西经视
+http://192.168.100.1:4567/jxgw.php?id=jxjs
+#EXTINF:-1,tvg-id="江西经视高清" tvg-name="江西经视高清" tvg-logo="https://epg.112114.xyz/logo/江西经视.png" group-title="江西源",江西经视高清
+http://192.168.100.1:4567/jxgw.php?id=jxjshd
+#EXTINF:-1,tvg-id="江西影视娱乐" tvg-name="江西影视娱乐" tvg-logo="https://epg.112114.xyz/logo/江西影视娱乐.png" group-title="江西源",江西影视
+http://192.168.100.1:4567/jxgw.php?id=jxys
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西源",江西公共
+http://192.168.100.1:4567/jxgw.php?id=jxgg
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西源",江西少儿
+http://192.168.100.1:4567/jxgw.php?id=jxse
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西源",江西新闻
+http://192.168.100.1:4567/jxgw.php?id=jxxw
+#EXTINF:-1,tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西源",江西移动
+http://192.168.100.1:4567/jxgw.php?id=jxyd
+#EXTINF:-1,tvg-id="江西风尚购物" tvg-name="江西风尚购物" tvg-logo="https://epg.112114.xyz/logo/江西风尚购物.png" group-title="江西源",江西风尚购物
+http://192.168.100.1:4567/jxgw.php?id=fsgw
+#EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="江西源",江西陶瓷
+http://192.168.100.1:4567/jxgw.php?id=jxtc
+
+
