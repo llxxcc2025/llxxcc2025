@@ -6,11 +6,9 @@ https://php.whoiskb.fun:1022/sxg.php?id=test2_4000
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰资讯",凤凰资讯台4
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰资讯",凤凰资讯台5
-https://cntv.sbs/v605?id=test2
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台6
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台5
 http://xcm13.f3322.net:4000/udp/239.93.1.4:2191
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台7
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台6
 http://129fy28039.zicp.fun:8181/tsfile/live/1221_1.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台1
@@ -23,19 +21,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/32
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台5
 http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台6
-https://cntv.sbs/v605?id=test1
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台7
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台6
 http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台7
 http://129fy28039.zicp.fun:8181/tsfile/live/1214_1.m3u8
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰香港",凤凰香港台1
-https://cntv.sbs/fs?id=fhhk
+http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台2
 https://17186.eu.org/php/phtv/fhhk.flv
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰香港",凤凰香港台3
-http://113.117.74.20:8081/hls/38/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
