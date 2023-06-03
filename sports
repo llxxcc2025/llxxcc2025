@@ -44,7 +44,57 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u
 
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾体育",纬来体育
 rtmp://9sv2.mine.nu/sat/tv721
+http://awei.beimua.com/iptv.php?id=73
+rtmp://9wv7.mine.nu/sat/tv721
+http://cloud.yumixiu768.com/tmp/123.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",Tennis chanel
+http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",中文国际信号
+http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/6079/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",Super TennisHD
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",CCTV高尔夫.网球
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$1080p8mipv6
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
+http://111.20.40.160/PLTV/88888893/224/3221226978/index.m3u8
+http://111.20.40.160:80/PLTV/88888893/224/3221226978/index.m3u8
+http://111.20.40.174/PLTV/88888893/224/3221226978/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELTA体育
+rtmp://9sv2.mine.nu/sat/md031
+rtmp://9sv2.mine.nu/sat/md021
+rtmp://9sv2.mine.nu/sat/md041
+rtmp://9wv7.mine.nu/sat/md011
+rtmp://119.81.124.89/sat/md031.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELEVEN1
+http://129fy28039.zicp.fun:8181/tsfile/live/1204_1.m3u8
+rtmp://119.81.124.89/sat/tv731
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELEVEN2
+http://129fy28039.zicp.fun:8181/tsfile/live/1216_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",MBC体育
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",俄罗斯体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",天空体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",欧洲体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",BEIN体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2500/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/124/index.m3u8
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 
 
 
