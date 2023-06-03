@@ -168,7 +168,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3
 http://113.207.84.195:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清3
 https://php.whoiskb.fun:1022/sxg.php?id=CCTV-17_4000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清5
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清4
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=CCTV17HD
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="书画",书画频道1 
