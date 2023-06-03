@@ -1,52 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",Tennis chanel
-http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",张之臻vs鲁德
+https://gdctyunct.inter.71edge.com/tslive/l1/c62_ssports_20230603_1kic5lga_1080p_chst2_t4/oy09WqKL60pc1pve9JuJ4tx5tW4UqSN4F6Yy_pid1o9AmzcWhscda2nWGyCeAFenE8--oLYSFd1z4aJxbLqFDldrfLRPWDhVqyn_HyrINmCcnpXUNKDDfRQ1P0bTWi-Jk_12VTKRsO2qRiFqtT0rrgIv4Cwt74A7tD2D-2z3LuqSHiSz9kGMwcXNAm8x8XW6lmqsTe3dmEXZvedJAE9ayf6okGeltw5S3Al7C9FFeW_JMOjEaxIJmitnorMkksF4oFtZuMrDjLzmEb27fote9w/1d5ae6b62e7affe0be48d1099fb732697/c62_ssports_20230603_1kic5lga_1080p_chst2_t4.m3u8?key=063a042dbbd2849ec6a847870d3c50334&dis_t=1685782223&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782223
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",中文国际信号
-http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/6079/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",Super TennisHD
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",CCTV高尔夫.网球
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$1080p8mipv6
-http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
-http://111.20.40.160/PLTV/88888893/224/3221226978/index.m3u8
-http://111.20.40.160:80/PLTV/88888893/224/3221226978/index.m3u8
-http://111.20.40.174/PLTV/88888893/224/3221226978/index.m3u8
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELTA体育
-rtmp://9sv2.mine.nu/sat/md031
-rtmp://9sv2.mine.nu/sat/md021
-rtmp://9sv2.mine.nu/sat/md041
-rtmp://9wv7.mine.nu/sat/md011
-rtmp://119.81.124.89/sat/md031.flv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELEVEN1
-http://129fy28039.zicp.fun:8181/tsfile/live/1204_1.m3u8
-rtmp://119.81.124.89/sat/tv731
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",ELEVEN2
-http://129fy28039.zicp.fun:8181/tsfile/live/1216_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",纬来体育
-http://awei.beimua.com/iptv.php?id=73
-rtmp://9wv7.mine.nu/sat/tv721
-http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",MBC体育
-http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",俄罗斯体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",天空体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",欧洲体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",BEIN体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2500/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/124/index.m3u8
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",菲利普·夏蒂埃球场
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",苏珊·郎格伦球场
+https://verycloudct.inter.71edge.com/tslive/l1/c65_ssports_20230603_j3muqdsd_1080p_chst2_t4/UggHDgx_dN-K3G2JgKuB6NxUOrbBe5El3wndSFFaKxgN0ldKNBMYy9si5GpfpvO70wZaM2mN2_zOWuuVeL4d60E_wT-6dpS_PHIT7g8gzqqK57BcBanCwjk5RokYpvlKQtgKM50rSeofA59Ud6kkAmseTdmdrLuM1KgTVt9bk8VX-qdlHnlaDDtbLeZW6fovWMEMBpFl2ReexHhZddMAZHZSZP25EgUTbhNuAjKO0uyhKgKrqMpqTkZypqLSw51GrXQsuTIcIO13SKj_vJre0A/137d157d2535da61846bbb5f934dfdbae/c65_ssports_20230603_j3muqdsd_1080p_chst2_t4.m3u8?key=00ad5acf41fb89859e3fce17594c69e12&dis_t=1685782841&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782841
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",西蒙·马蒂厄球场
+https://qncdnct.inter.71edge.com/tslive/l1/c61_ssports_20230603_3krqez3m_1080p_chst1_t4/T1OIws6cLFQuYNe_1G7K9lAMjZkvCcaTKPHHaTb0biqOsibTbsDU5doBhg5ljE_IK4sW2SseDBr1rCYRF35Qj4XWGe2N1LpFZ3al7z5siW6TQrvHHDt0W-qVGPn14CdjtfdrLBcrp2iOGOVJ6YnX4LQsNGu-qLeb6g7LlJVVPSol-b3cn85fEYkK9QClrzJeWIQDHRScZlgQo2OZPIe-L2t_KMQNNJ50LC5lvDVlBC9yy8B5zVDdVIGWoCXxVl6bioaxsXbCOWDCNNrTPhe1XQ/151462f32e1eadee3f0ba3548367931ec/c61_ssports_20230603_3krqez3m_1080p_chst1_t4.m3u8?key=0d348728098fd89deb850dd757a849bf4&dis_t=1685782860&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782860
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",法网6号球场
+https://qncdnct.inter.71edge.com/tslive/l1/c61_ssports_20230603_qblnksbt_1080p_chst1_t4/cgDyTgvAz3UgwV3dArvOjxbfJpZhztSLqqCEYQXiqZrgOiqxORRjTTN3p2TYBM7gjSyTO4t0y2BQYbmI8u2Cipu1FYMOuWUzWrxb1Ev1WCAPpuElVZ6oyqX-z1jgP6HkgBChFYhUQ_X9LaPF62uheXznD6wOmVcHmBWX6K2YIu_WNNuxm-HQr93wecDWAszAniK9n-9MKxrb8YP00ZixYD9YMipNXb32K5tV3XAmWEiWoZh3Fl-qMSQ_kXU1Bb56rKVimKsyNKZ2cRuZsB8YMw/1ca968f22fee5ff8979c179e3a3c10a0d/c61_ssports_20230603_qblnksbt_1080p_chst1_t4.m3u8?key=0d348728098fd89de98256c618de71326&dis_t=1685782905&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782905
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",法网7号球场
+https://alicoccdnct-hz.inter.71edge.com/tslive/l1/c69_ssports_20230603_bngmffk4_1080p_chst1_t4/ssaUx5B1kXOgVYnHak16Mg1_VGo5TYU1VY7HuFJDq_8SHk4BjN-MX9BxUAKz0BrV58AAN0Dna8GwPqm_aDGjxFieLEjiBc1CkONYomAD4yNcU--DF5iI95P14svBWVPoYmVxhLOlWlY-C9JJDAaGlmPUdeHqfhu5849__Bu3zWvM6MJS4Ysx7v3qppUSoWjvpl0wT9geG_j4aDc4HKOxXX_rBAAoZMTTH-HqQAH3IlmzIvNVTCWnllqTsIkuneLo2lWgand-PJ8QEKm-LuwGGg/16b0a2100c89f10516a45653a62651ced/c69_ssports_20230603_bngmffk4_1080p_chst1_t4.m3u8?key=0d348728098fd89ded3a343eea1f46116&dis_t=1685782889&random=1&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782889
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",法网9号球场
+https://rh878n.jomodns.com/r/lvbdcdnct.inter.71edge.com/tslive/l1/c64_ssports_20230603_ugxda1zu_1080p_chst1_t4/2m1tMIvTUlMHrTC8Ov-PUBC1me3tP9qUDIapiOpoStMfhocw1Er0YtuGwISBIARpCQziNklERXw6aMoB7bdlT776BO4gWZdvEEqvi1kFvOYBv3YocF7tBLXBMfXOTaMiKzI6nwP46-7W8wxNZSz-UMbm6jvuMG_eF-XzoBeIMe4Wqva4a-h2yjrfTLQpZlMZY1492RJCGyR-vZvmfyfMDbKo-3gM_Q_4APgvvB_p_8j28nneabhrh71aJCo82MkHSBD84lv42TqOFRXBHg0CDA/199abda61929db574d86e5a3075bb42aa/c64_ssports_20230603_ugxda1zu_1080p_chst1_t4.m3u8?key=0d348728098fd89ded2d41725be263acc&dis_t=1685782915&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782915
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",法网13号球场
+https://qncdnct.inter.71edge.com/tslive/l1/c66_ssports_20230603_jux5ig3u_1080p_chst1_t4/X1g_1-iLHik-YTUwlBATxt4eg1vHxx65dhQukXet5kEuHXh2X5Sx1mPNWZ8ZreAHAfOMt0xXWmUgQv5QCGAAaB8o6ch5MqnWi29_y-1twY6OdRB6aMvszLYX2JxJUywGPERRh4FXcekfyX5mCi9NIpJJifEru2U0pnRlJIfasZ8725sRa_NjSoR7RVJZZ8hd5lZZOYOHdMWU8nEL5OBJ5gA4XUi0J0kGWgncPFZx1UcF2NwYqsfSRb8STtcQ0bVc3JsbHpN54bJieUJ1jcPcXw/1216a88bac5faa255d2811794dcba45e9/c66_ssports_20230603_jux5ig3u_1080p_chst1_t4.m3u8?key=0d348728098fd89deef43d383837f3bd6&dis_t=1685782927&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782927
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM4b6NYf/FW.png" group-title="网球",法网14号球场
+https://qncdnct.inter.71edge.com/tslive/l1/c70_ssports_20230603_zqgmq33t_1080p_chst1_t4/7yCfog8nA2cg97GAUF32LOBE3G2drP5IvM7IuS5XFx0lF0LhOo0uNdlFqUyu04qZyfQKLu_Lad4Q38Qt_N1ALXosiFyPr6bMmrp8vIzhtON1XoHqofDVA2sLQCBhsOMOsLGofIuwBBwoYS2JtZkPRxUsZph1-ADGmvvn-s8zbr4GVnn6SoOY419_WHid8cEt7nVHB-KujMGHF7CRwbhQ0KyzT3MPVu8VWvM9RWYn7iV3wgDz0mzCcz9zmr7-qTBX3Z-2l9zculqL1B3FG5Ujkg/19406f4654630da8134d268d2df14696d/c70_ssports_20230603_zqgmq33t_1080p_chst1_t4.m3u8?key=0d348728098fd89de3e01240318b2656b&dis_t=1685782873&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=1432550438&random=1685782873
