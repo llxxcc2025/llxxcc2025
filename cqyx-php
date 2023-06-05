@@ -171,7 +171,7 @@ http://192.168.100.1:4567/cqyx.php?id=cqggncHD
 http://192.168.100.1:4567/cqyx.php?id=cqseHD
 #EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/重庆科教.png" group-title="重庆",重庆科教高清
 http://192.168.100.1:4567/cqyx.php?id=CQTVkejiaoHD
-#EXTINF:-1,tvg-id="爱看导视高清" tvg-name="爱看导视高清" tvg-logo="https://epg.112114.xyz/logo/爱看导视.png" group-title="其他",爱看导视高清
+#EXTINF:-1,tvg-id="爱看导视高清" tvg-name="爱看导视高清" tvg-logo="https://upload.112114.xyz/logo/CHONGQING.png" group-title="其他",爱看导视高清
 http://192.168.100.1:4567/cqyx.php?id=aikanHD
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="重庆",重庆汽摩高清
 http://192.168.100.1:4567/cqyx.php?id=cqcarSD
