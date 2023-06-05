@@ -6,3 +6,131 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
 
 #EXTINF:-1,tvg-id="阳城台" tvg-name="阳城台" tvg-logo="https://epg.112114.xyz/logo/阳城台.png" group-title="其他",阳城台
 http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
+
+#EXTM3U
+#EXTINF:-1,tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="香港",凤凰资讯台
+http://103.112.191.9:880/LAOSAT1068.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视",星空卫视
+http://103.112.191.9:880/LAOSAT1016.m3u8		
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="其他",10
+http://103.112.191.9:880/LAOSAT1010.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="其他",11
+http://103.112.191.9:880/LAOSAT1011.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="其他",12
+http://103.112.191.9:880/LAOSAT1012.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="其他",13
+http://103.112.191.9:880/LAOSAT1013.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="其他",14
+http://103.112.191.9:880/LAOSAT1014.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="其他",15
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="其他",17
+http://103.112.191.9:880/LAOSAT1017.m3u8
+#EXTINF:-1,tvg-id="18" tvg-name="18" tvg-logo="https://epg.112114.xyz/logo/18.png" group-title="其他",18
+http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1,tvg-id="19" tvg-name="19" tvg-logo="https://epg.112114.xyz/logo/19.png" group-title="其他",19
+http://103.112.191.9:880/LAOSAT1019.m3u8
+#EXTINF:-1,tvg-id="20" tvg-name="20" tvg-logo="https://epg.112114.xyz/logo/20.png" group-title="其他",20
+http://103.112.191.9:880/LAOSAT1020.m3u8
+#EXTINF:-1,tvg-id="21" tvg-name="21" tvg-logo="https://epg.112114.xyz/logo/21.png" group-title="其他",21
+http://103.112.191.9:880/LAOSAT1021.m3u8
+#EXTINF:-1,tvg-id="22" tvg-name="22" tvg-logo="https://epg.112114.xyz/logo/22.png" group-title="其他",22
+http://103.112.191.9:880/LAOSAT1022.m3u8
+#EXTINF:-1,tvg-id="23" tvg-name="23" tvg-logo="https://epg.112114.xyz/logo/23.png" group-title="其他",23
+http://103.112.191.9:880/LAOSAT1023.m3u8
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="其他",24
+http://103.112.191.9:880/LAOSAT1024.m3u8
+#EXTINF:-1,tvg-id="25" tvg-name="25" tvg-logo="https://epg.112114.xyz/logo/25.png" group-title="其他",25
+http://103.112.191.9:880/LAOSAT1025.m3u8
+#EXTINF:-1,tvg-id="26" tvg-name="26" tvg-logo="https://epg.112114.xyz/logo/26.png" group-title="其他",26
+http://103.112.191.9:880/LAOSAT1026.m3u8
+#EXTINF:-1,tvg-id="27" tvg-name="27" tvg-logo="https://epg.112114.xyz/logo/27.png" group-title="其他",27
+http://103.112.191.9:880/LAOSAT1027.m3u8
+#EXTINF:-1,tvg-id="28" tvg-name="28" tvg-logo="https://epg.112114.xyz/logo/28.png" group-title="其他",28
+http://103.112.191.9:880/LAOSAT1028.m3u8
+#EXTINF:-1,tvg-id="29" tvg-name="29" tvg-logo="https://epg.112114.xyz/logo/29.png" group-title="其他",29
+http://103.112.191.9:880/LAOSAT1029.m3u8
+#EXTINF:-1,tvg-id="30" tvg-name="30" tvg-logo="https://epg.112114.xyz/logo/30.png" group-title="其他",30
+http://103.112.191.9:880/LAOSAT1030.m3u8
+#EXTINF:-1,tvg-id="31" tvg-name="31" tvg-logo="https://epg.112114.xyz/logo/31.png" group-title="其他",31
+http://103.112.191.9:880/LAOSAT1031.m3u8
+#EXTINF:-1,tvg-id="32" tvg-name="32" tvg-logo="https://epg.112114.xyz/logo/32.png" group-title="其他",32
+http://103.112.191.9:880/LAOSAT1032.m3u8
+#EXTINF:-1,tvg-id="33" tvg-name="33" tvg-logo="https://epg.112114.xyz/logo/33.png" group-title="其他",33
+http://103.112.191.9:880/LAOSAT1033.m3u8
+#EXTINF:-1,tvg-id="34" tvg-name="34" tvg-logo="https://epg.112114.xyz/logo/34.png" group-title="其他",34
+http://103.112.191.9:880/LAOSAT1034.m3u8
+#EXTINF:-1,tvg-id="35" tvg-name="35" tvg-logo="https://epg.112114.xyz/logo/35.png" group-title="其他",35
+http://103.112.191.9:880/LAOSAT1035.m3u8
+#EXTINF:-1,tvg-id="36" tvg-name="36" tvg-logo="https://epg.112114.xyz/logo/36.png" group-title="其他",36
+http://103.112.191.9:880/LAOSAT1036.m3u8
+#EXTINF:-1,tvg-id="37" tvg-name="37" tvg-logo="https://epg.112114.xyz/logo/37.png" group-title="其他",37
+http://103.112.191.9:880/LAOSAT1037.m3u8
+#EXTINF:-1,tvg-id="38" tvg-name="38" tvg-logo="https://epg.112114.xyz/logo/38.png" group-title="其他",38
+http://103.112.191.9:880/LAOSAT1038.m3u8
+#EXTINF:-1,tvg-id="39" tvg-name="39" tvg-logo="https://epg.112114.xyz/logo/39.png" group-title="其他",39
+http://103.112.191.9:880/LAOSAT1039.m3u8
+#EXTINF:-1,tvg-id="40" tvg-name="40" tvg-logo="https://epg.112114.xyz/logo/40.png" group-title="其他",40
+http://103.112.191.9:880/LAOSAT1040.m3u8
+#EXTINF:-1,tvg-id="41" tvg-name="41" tvg-logo="https://epg.112114.xyz/logo/41.png" group-title="其他",41
+http://103.112.191.9:880/LAOSAT1041.m3u8
+#EXTINF:-1,tvg-id="42" tvg-name="42" tvg-logo="https://epg.112114.xyz/logo/42.png" group-title="其他",42
+http://103.112.191.9:880/LAOSAT1042.m3u8
+#EXTINF:-1,tvg-id="43" tvg-name="43" tvg-logo="https://epg.112114.xyz/logo/43.png" group-title="其他",43
+http://103.112.191.9:880/LAOSAT1043.m3u8
+#EXTINF:-1,tvg-id="44" tvg-name="44" tvg-logo="https://epg.112114.xyz/logo/44.png" group-title="其他",44
+http://103.112.191.9:880/LAOSAT1044.m3u8
+#EXTINF:-1,tvg-id="45" tvg-name="45" tvg-logo="https://epg.112114.xyz/logo/45.png" group-title="其他",45
+http://103.112.191.9:880/LAOSAT1045.m3u8
+#EXTINF:-1,tvg-id="46" tvg-name="46" tvg-logo="https://epg.112114.xyz/logo/46.png" group-title="其他",46
+http://103.112.191.9:880/LAOSAT1046.m3u8
+#EXTINF:-1,tvg-id="47" tvg-name="47" tvg-logo="https://epg.112114.xyz/logo/47.png" group-title="其他",47
+http://103.112.191.9:880/LAOSAT1047.m3u8
+#EXTINF:-1,tvg-id="SNH48剧场公演" tvg-name="SNH48剧场公演" tvg-logo="https://epg.112114.xyz/logo/SNH48剧场公演.png" group-title="其他",48
+http://103.112.191.9:880/LAOSAT1048.m3u8
+#EXTINF:-1,tvg-id="49" tvg-name="49" tvg-logo="https://epg.112114.xyz/logo/49.png" group-title="其他",49
+http://103.112.191.9:880/LAOSAT1049.m3u8
+#EXTINF:-1,tvg-id="50" tvg-name="50" tvg-logo="https://epg.112114.xyz/logo/50.png" group-title="其他",50
+http://103.112.191.9:880/LAOSAT1050.m3u8
+#EXTINF:-1,tvg-id="51" tvg-name="51" tvg-logo="https://epg.112114.xyz/logo/51.png" group-title="其他",51
+http://103.112.191.9:880/LAOSAT1051.m3u8
+#EXTINF:-1,tvg-id="52" tvg-name="52" tvg-logo="https://epg.112114.xyz/logo/52.png" group-title="其他",52
+http://103.112.191.9:880/LAOSAT1052.m3u8
+#EXTINF:-1,tvg-id="53" tvg-name="53" tvg-logo="https://epg.112114.xyz/logo/53.png" group-title="其他",53
+http://103.112.191.9:880/LAOSAT1053.m3u8
+#EXTINF:-1,tvg-id="54" tvg-name="54" tvg-logo="https://epg.112114.xyz/logo/54.png" group-title="其他",54
+http://103.112.191.9:880/LAOSAT1054.m3u8
+#EXTINF:-1,tvg-id="55" tvg-name="55" tvg-logo="https://epg.112114.xyz/logo/55.png" group-title="其他",55
+http://103.112.191.9:880/LAOSAT1055.m3u8
+#EXTINF:-1,tvg-id="56" tvg-name="56" tvg-logo="https://epg.112114.xyz/logo/56.png" group-title="其他",56
+http://103.112.191.9:880/LAOSAT1056.m3u8
+#EXTINF:-1,tvg-id="57" tvg-name="57" tvg-logo="https://epg.112114.xyz/logo/57.png" group-title="其他",57
+http://103.112.191.9:880/LAOSAT1057.m3u8
+#EXTINF:-1,tvg-id="58" tvg-name="58" tvg-logo="https://epg.112114.xyz/logo/58.png" group-title="其他",58
+http://103.112.191.9:880/LAOSAT1058.m3u8
+#EXTINF:-1,tvg-id="59" tvg-name="59" tvg-logo="https://epg.112114.xyz/logo/59.png" group-title="其他",59
+http://103.112.191.9:880/LAOSAT1059.m3u8
+#EXTINF:-1,tvg-id="香港603" tvg-name="香港603" tvg-logo="https://epg.112114.xyz/logo/香港603.png" group-title="其他",60
+http://103.112.191.9:880/LAOSAT1060.m3u8
+#EXTINF:-1,tvg-id="61" tvg-name="61" tvg-logo="https://epg.112114.xyz/logo/61.png" group-title="其他",61
+http://103.112.191.9:880/LAOSAT1061.m3u8
+#EXTINF:-1,tvg-id="62" tvg-name="62" tvg-logo="https://epg.112114.xyz/logo/62.png" group-title="其他",62
+http://103.112.191.9:880/LAOSAT1062.m3u8
+#EXTINF:-1,tvg-id="63" tvg-name="63" tvg-logo="https://epg.112114.xyz/logo/63.png" group-title="其他",63
+http://103.112.191.9:880/LAOSAT1063.m3u8
+#EXTINF:-1,tvg-id="64" tvg-name="64" tvg-logo="https://epg.112114.xyz/logo/64.png" group-title="其他",64
+http://103.112.191.9:880/LAOSAT1064.m3u8
+#EXTINF:-1,tvg-id="65" tvg-name="65" tvg-logo="https://epg.112114.xyz/logo/65.png" group-title="其他",65
+http://103.112.191.9:880/LAOSAT1065.m3u8
+#EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://epg.112114.xyz/logo/66.png" group-title="其他",66
+http://103.112.191.9:880/LAOSAT1066.m3u8
+#EXTINF:-1,tvg-id="67" tvg-name="67" tvg-logo="https://epg.112114.xyz/logo/67.png" group-title="其他",67
+http://103.112.191.9:880/LAOSAT1067.m3u8
+#EXTINF:-1,tvg-id="68" tvg-name="68" tvg-logo="https://epg.112114.xyz/logo/68.png" group-title="其他",68
+http://103.112.191.9:880/LAOSAT1068.m3u8
+#EXTINF:-1,tvg-id="69" tvg-name="69" tvg-logo="https://epg.112114.xyz/logo/69.png" group-title="其他",69
+http://103.112.191.9:880/LAOSAT1069.m3u8
+#EXTINF:-1,tvg-id="70" tvg-name="70" tvg-logo="https://epg.112114.xyz/logo/70.png" group-title="其他",70
+http://103.112.191.9:880/LAOSAT1070.m3u8
