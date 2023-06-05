@@ -77,7 +77,7 @@ https://php.whoiskb.fun:1022/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清4
 https://db.xxray.cc/cbn1.php?id=cctv1HD
 
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="CCTV-2",CCTV2财经2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="CCTV-2",CCTV2财经1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="CCTV-2",CCTV2财经2
 https://db.xxray.cc/cbn1.php?id=cctv2HD
