@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
 http://77.72.23.28/iptv/ADYDWLKVER8U7V/5001/index.m3u8
-http://77.72.23.28/iptv/Y5FM5K6GMY4RPT/5001/index.m3u8
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 http://77.72.23.28/iptv/XP2DFA2ML2YEFG/4005/index.m3u8
@@ -13,7 +12,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
-https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist_b7000000_sleng_t64MTA4MHBAN21iaXQ=.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://upload.112114.xyz/logo/BBC%20Earth.png" group-title="UHD-IPV4",earthtv
 http://192.168.100.1:2345/earthtv.php
