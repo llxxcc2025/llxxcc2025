@@ -20,7 +20,7 @@ http://192.168.100.1:2345/earthtv.php
 http://139.203.9.161:9550/udp/239.93.59.33:5140
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://epg.112114.xyz/logo/斗鱼4K影院.png" group-title="UHD-IPV4",斗鱼4K影院
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/f713cbce051f4314ad5fb530d2ab4931_big.jpg" group-title="UHD-IPV4",斗鱼4K影院
 https://www.goodiptv.club/douyu/9249162
 #EXTINF:-1,tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="UHD-IPV4",峨眉电影
 http://r.jdshipin.com/XIjta
