@@ -40,11 +40,9 @@ http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台9
 http://www.372583307.top:4022/udp/233.50.200.191:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台10
-https://db.xxray.cc/cbn1.php?id=xfjcHD
+http://103.112.191.9:880/LAOSAT1015.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台11
 http://139.203.9.161:9550/udp/239.93.32.9:2192
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台12
-http://103.112.191.9:880/LAOSAT1015.m3u8
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰香港",凤凰香港台1
 http://113.117.74.20:8081/hls/38/index.m3u8
