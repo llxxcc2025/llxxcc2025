@@ -3,9 +3,7 @@
 http://77.72.23.28/iptv/ADYDWLKVER8U7V/5001/index.m3u8
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
-http://77.72.23.28/iptv/XP2DFA2ML2YEFG/4005/index.m3u8
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="Fashion2K" tvg-name="Fashion2K" tvg-logo="https://upload.112114.xyz/logo/FASHINN.png" group-title="UHD-IPV4",Fashion2K
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
