@@ -10,3 +10,27 @@ http://192.168.100.1:3456/amlh.php
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1,tvg-id="KBS1高画质" tvg-name="KBS1高画质" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质.png" group-title="KBS",KBS1高画质
+http://192.168.100.1:3456/kbs.php?id=11&p=0
+#EXTINF:-1,tvg-id="KBS1高画质韩语字幕" tvg-name="KBS1高画质韩语字幕" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质韩语字幕.png" group-title="KBS",KBS1高画质韩语字幕
+http://192.168.100.1:3456/kbs.php?id=11&p=1
+#EXTINF:-1,tvg-id="KBS2高画质" tvg-name="KBS2高画质" tvg-logo="https://epg.112114.xyz/logo/KBS2高画质.png" group-title="KBS",KBS2高画质
+http://192.168.100.1:3456/kbs.php?id=12&p=0
+#EXTINF:-1,tvg-id="KBS2高画质韩语字幕" tvg-name="KBS2高画质韩语字幕" tvg-logo="https://epg.112114.xyz/logo/KBS2高画质韩语字幕.png" group-title="KBS",KBS2高画质韩语字幕
+http://192.168.100.1:3456/kbs.php?id=12&p=1
+#EXTINF:-1,tvg-id="KBS NEWS D" tvg-name="KBS NEWS D" tvg-logo="https://epg.112114.xyz/logo/KBSNEWSD.png" group-title="KBS",KBS NEWS D
+http://192.168.100.1:3456/kbs.php?id=81&p=0
+#EXTINF:-1,tvg-id="KBS drama" tvg-name="KBS drama" tvg-logo="https://epg.112114.xyz/logo/KBSDRAMA.png" group-title="KBS",KBS drama
+http://192.168.100.1:3456/kbs.php?id=N92&p=0
+#EXTINF:-1,tvg-id="KBS joy" tvg-name="KBS joy" tvg-logo="https://epg.112114.xyz/logo/KBSJOY.png" group-title="KBS",KBS joy
+http://192.168.100.1:3456/kbs.php?id=N94&p=0
+#EXTINF:-1,tvg-id="KBS story" tvg-name="KBS story" tvg-logo="https://epg.112114.xyz/logo/KBSSTORY.png" group-title="KBS",KBS story
+http://192.168.100.1:3456/kbs.php?id=N93&p=0
+#EXTINF:-1,tvg-id="KBS LIFE" tvg-name="KBS LIFE" tvg-logo="https://epg.112114.xyz/logo/KBSLIFE.png" group-title="KBS",KBS LIFE
+http://192.168.100.1:3456/kbs.php?id=N96&p=0
+#EXTINF:-1,tvg-id="KBS kids" tvg-name="KBS kids" tvg-logo="https://epg.112114.xyz/logo/KBSKIDS.png" group-title="KBS",KBS kids
+http://192.168.100.1:3456/kbs.php?id=N91&p=0
+#EXTINF:-1,tvg-id="孤岛直播" tvg-name="孤岛直播" tvg-logo="https://epg.112114.xyz/logo/孤岛直播.png" group-title="KBS",孤岛直播
+http://192.168.100.1:3456/kbs.php?id=cctv01&p=0
+#EXTINF:-1,tvg-id="KBS WORLD" tvg-name="KBS WORLD" tvg-logo="https://epg.112114.xyz/logo/KBSWORLD.png" group-title="KBS",KBS WORLD
+http://192.168.100.1:3456/kbs.php?id=14&p=0
