@@ -211,8 +211,8 @@ http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=shaoguangonggong_1500
 #EXTINF:-1,tvg-id="始兴综合.576" tvg-name="始兴综合.576" tvg-logo="https://epg.112114.xyz/logo/始兴综合..png" group-title="其他",始兴综合.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=2641
-#EXTINF:-1,tvg-id="江门综合.576" tvg-name="江门综合.576" tvg-logo="https://epg.112114.xyz/logo/江门综合..png" group-title="其他",江门综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=3712_1500
+#EXTINF:-1,tvg-id="江门综合.576" tvg-name="江门综合.576" tvg-logo="https://epg.112114.xyz/logo/江门综合..png" group-title="其他",江门综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jiangmenzongheHD
 #EXTINF:-1,tvg-id="江门侨乡生活.576" tvg-name="江门侨乡生活.576" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活..png" group-title="其他",江门侨乡生活.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jiangmenyitao_1500
 #EXTINF:-1,tvg-id="新会综合.576" tvg-name="新会综合.576" tvg-logo="https://epg.112114.xyz/logo/新会综合..png" group-title="其他",新会综合.576
@@ -221,34 +221,34 @@ http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=2405
 #EXTINF:-1,tvg-id="怀集综合.576" tvg-name="怀集综合.576" tvg-logo="https://epg.112114.xyz/logo/怀集综合..png" group-title="其他",怀集综合.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=2805
-#EXTINF:-1,tvg-id="云浮综合.576" tvg-name="云浮综合.576" tvg-logo="https://epg.112114.xyz/logo/云浮综合..png" group-title="其他",云浮综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=yunfuyitao_1500
+#EXTINF:-1,tvg-id="云浮综合.576" tvg-name="云浮综合.576" tvg-logo="https://epg.112114.xyz/logo/云浮综合..png" group-title="其他",云浮综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=yunfuzongheHD
 #EXTINF:-1,tvg-id="云浮文旅.576" tvg-name="云浮文旅.576" tvg-logo="https://epg.112114.xyz/logo/云浮文旅..png" group-title="其他",云浮文旅.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=yunfuertao_1500
 #EXTINF:-1,tvg-id="珠海1.576" tvg-name="珠海1.576" tvg-logo="https://epg.112114.xyz/logo/珠海1..png" group-title="其他",珠海1
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=zhuhaiHD1_4500
 #EXTINF:-1,tvg-id="珠海2.576" tvg-name="珠海2.576" tvg-logo="https://epg.112114.xyz/logo/珠海2..png" group-title="其他",珠海2
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=zhuhaiHD2_4500
-#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="其他",河源综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=heyuanyitao_1500
+#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="其他",河源综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=heyuanzongheHD
 #EXTINF:-1,tvg-id="河源公共.576" tvg-name="河源公共.576" tvg-logo="https://epg.112114.xyz/logo/河源公共..png" group-title="其他",河源公共.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=heyuanertao_1500
 #EXTINF:-1,tvg-id="肇庆综合.576" tvg-name="肇庆综合.576" tvg-logo="https://epg.112114.xyz/logo/肇庆综合..png" group-title="其他",肇庆综合.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=zhaoqingyitao_1500
 #EXTINF:-1,tvg-id="肇庆生活服务.576" tvg-name="肇庆生活服务.576" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务..png" group-title="其他",肇庆生活服务.576
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=zhaoqingertao_1500
-#EXTINF:-1,tvg-id="揭阳综合.576" tvg-name="揭阳综合.576" tvg-logo="https://epg.112114.xyz/logo/揭阳综合..png" group-title="其他",揭阳综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jieyangyitao_1500
-#EXTINF:-1,tvg-id="揭阳生活.576" tvg-name="揭阳生活.576" tvg-logo="https://epg.112114.xyz/logo/揭阳生活..png" group-title="其他",揭阳生活.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jieyangertao_1500
-#EXTINF:-1,tvg-id="清远新闻综合.576" tvg-name="清远新闻综合.576" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合..png" group-title="其他",清远新闻综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=qingyuanzonghe_1500
-#EXTINF:-1,tvg-id="清远文旅生活.576" tvg-name="清远文旅生活.576" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活..png" group-title="其他",清远文旅生活.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=qingyuangongong_1500
-#EXTINF:-1,tvg-id="汕尾新闻综合.576" tvg-name="汕尾新闻综合.576" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合..png" group-title="其他",汕尾新闻综合.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=shanweiyitao_1500
-#EXTINF:-1,tvg-id="汕尾文化生活.576" tvg-name="汕尾文化生活.576" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活..png" group-title="其他",汕尾文化生活.576
-http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=shanweiertao_1500
+#EXTINF:-1,tvg-id="揭阳综合.576" tvg-name="揭阳综合.576" tvg-logo="https://epg.112114.xyz/logo/揭阳综合..png" group-title="其他",揭阳综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jieyangzongheHD
+#EXTINF:-1,tvg-id="揭阳生活.576" tvg-name="揭阳生活.576" tvg-logo="https://epg.112114.xyz/logo/揭阳生活..png" group-title="其他",揭阳生活
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jieyanggonggongHD
+#EXTINF:-1,tvg-id="清远新闻综合.576" tvg-name="清远新闻综合.576" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合..png" group-title="其他",清远新闻综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=qingyuanzongheHD
+#EXTINF:-1,tvg-id="清远文旅生活.576" tvg-name="清远文旅生活.576" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活..png" group-title="其他",清远文旅生活
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=qingyuangonggongHD
+#EXTINF:-1,tvg-id="汕尾新闻综合.576" tvg-name="汕尾新闻综合.576" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合..png" group-title="其他",汕尾新闻综合
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=shanweizongheHD
+#EXTINF:-1,tvg-id="汕尾文化生活.576" tvg-name="汕尾文化生活.576" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活..png" group-title="其他",汕尾文化生活
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=shanweigonggongHD
 #EXTINF:-1,tvg-id="广州共享课堂一年级" tvg-name="广州共享课堂一年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png" group-title="其他",广州共享课堂一年级
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=2061_1500
 #EXTINF:-1,tvg-id="广州共享课堂二年级" tvg-name="广州共享课堂二年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png" group-title="其他",广州共享课堂二年级
@@ -283,4 +283,34 @@ http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=3013_1500
 #EXTINF:-1,tvg-id="茂名公共" tvg-name="茂名公共" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名公共
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=3013_800
+#EXTINF:-1,tvg-id="潮安综合高清" tvg-name="潮安综合高清" tvg-logo="https://epg.112114.xyz/logo/潮安综合.png" group-title="其他",潮安综合高清
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=chaoanzongheHD
+#EXTINF:-1,tvg-id="信宜" tvg-name="信宜" tvg-logo="https://epg.112114.xyz/logo/信宜.png" group-title="其他",信宜
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=xinyigaoqing
+#EXTINF:-1,tvg-id="英德综合 360" tvg-name="英德综合 360" tvg-logo="https://epg.112114.xyz/logo/英德综合.png" group-title="其他",英德综合 360
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=yingdezonghe
+#EXTINF:-1,tvg-id="梅州导视" tvg-name="梅州导视" tvg-logo="https://epg.112114.xyz/logo/梅州导视.png" group-title="其他",梅州导视
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=meizhoudaoshiHD
+#EXTINF:-1,tvg-id="海丰综合 576" tvg-name="海丰综合 576" tvg-logo="https://epg.112114.xyz/logo/海丰综合.png" group-title="其他",海丰综合 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=haifengzonghe
+#EXTINF:-1,tvg-id="化州综合 360" tvg-name="化州综合 360" tvg-logo="https://epg.112114.xyz/logo/化州综合.png" group-title="其他",化州综合 360
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=huazhoutai
+#EXTINF:-1,tvg-id="惠东" tvg-name="惠东" tvg-logo="https://epg.112114.xyz/logo/惠东.png" group-title="其他",惠东
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=huidongHD
+#EXTINF:-1,tvg-id="惠阳台 576" tvg-name="惠阳台 576" tvg-logo="https://epg.112114.xyz/logo/惠阳台.png" group-title="其他",惠阳台 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=huiyangtai
+#EXTINF:-1,tvg-id="揭东综合 576" tvg-name="揭东综合 576" tvg-logo="https://epg.112114.xyz/logo/揭东综合.png" group-title="其他",揭东综合 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=jiedongzonghe
+#EXTINF:-1,tvg-id="梅县综合 576" tvg-name="梅县综合 576" tvg-logo="https://epg.112114.xyz/logo/梅县综合.png" group-title="其他",梅县综合 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=meixian1
+#EXTINF:-1,tvg-id="梅县综合	" tvg-name="梅县综合	" tvg-logo="https://epg.112114.xyz/logo/梅县综合.png" group-title="其他",梅县综合	
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=meixianHD
+#EXTINF:-1,tvg-id="平远综合 576" tvg-name="平远综合 576" tvg-logo="https://epg.112114.xyz/logo/平远综合.png" group-title="其他",平远综合 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=pingyuan1
+#EXTINF:-1,tvg-id="饶平台高清" tvg-name="饶平台高清" tvg-logo="https://epg.112114.xyz/logo/饶平台.png" group-title="其他",饶平台高清
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=raopingtaiHD
+#EXTINF:-1,tvg-id="五华 576" tvg-name="五华 576" tvg-logo="https://epg.112114.xyz/logo/五华.png" group-title="其他",五华 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=wuhua1HD
+#EXTINF:-1,tvg-id="兴宁市 576" tvg-name="兴宁市 576" tvg-logo="https://epg.112114.xyz/logo/兴宁市.png" group-title="其他",兴宁市 576
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=xingning1
 
