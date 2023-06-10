@@ -5,28 +5,27 @@ http://192.168.100.1:35455/huya/880214
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/huyalogo.png" group-title="虎牙网球", 虎牙网球直播
 http://192.168.100.1:35455/huya/880275
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="国内体育",CCTV-16 奥林匹克 4K
-http://192.168.100.1:4567/sxg.php?id=CCTV-16-4K_8000
+http://192.168.100.1:5678/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="国内体育",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="国内体育",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="国内体育",超级体育
-http://39.134.136.205:6610/200000001898/460000089800010063/1.m3u8?IAS=
-http://39.134.136.134:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&livemode=1&stbId=3&Contentid=1000000001000009601
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://39.134.136.135:6610/200000001898/460000089800010063/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
+http://192.168.100.1:5678/sxg.php?id=lqhxjcHDH265_4000
+#EXTINF:-1,tvg-id="BesTV体育" tvg-name="BesTV体育" tvg-logo="https://epg.112114.xyz/logo/BesTV体育.png" group-title="国内体育",BesTV体育
+http://39.134.61.219/PLTV/88888888/224/3221226979/index.m3u8
 #EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="国内体育",南国都市4K
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育sxg" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="国内体育",劲爆体育sxg
-http://192.168.100.1:4567/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="国内体育",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育1
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="国内体育",五星体育2
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="国内体育",北京体育休闲1
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="国内体育",北京体育休闲2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
 #EXTINF:-1,tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="国内体育",黑龙江文体
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 #EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="国内体育",山东体育
