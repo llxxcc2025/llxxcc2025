@@ -193,6 +193,22 @@ http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=28&id=zhuhaiHD1_4500
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",珠海2
 http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=28&id=zhuhaiHD2_4500
+#EXTINF:-1,tvg-id="茂名综合HD" tvg-name="茂名综合HD" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名综合HD
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=3012_4500
+#EXTINF:-1,tvg-id="茂名公共HD" tvg-name="茂名公共HD" tvg-logo="https://upload.112114.xyz/logo/gemmifa.png" group-title="其他",茂名公共HD
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=3013_4500
+#EXTINF:-1,tvg-id="潮安综合高清" tvg-name="潮安综合高清" tvg-logo="https://epg.112114.xyz/logo/潮安综合.png" group-title="其他",潮安综合高清
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=chaoanzongheHD
+#EXTINF:-1,tvg-id="信宜" tvg-name="信宜" tvg-logo="https://epg.112114.xyz/logo/信宜.png" group-title="其他",信宜
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=xinyigaoqing
+#EXTINF:-1,tvg-id="梅州导视" tvg-name="梅州导视" tvg-logo="https://epg.112114.xyz/logo/梅州导视.png" group-title="其他",梅州导视
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=meizhoudaoshiHD
+#EXTINF:-1,tvg-id="惠东" tvg-name="惠东" tvg-logo="https://epg.112114.xyz/logo/惠东.png" group-title="其他",惠东
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=huidongHD
+#EXTINF:-1,tvg-id="梅县综合	" tvg-name="梅县综合	" tvg-logo="https://epg.112114.xyz/logo/梅县综合.png" group-title="其他",梅县综合	
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=meixianHD
+#EXTINF:-1,tvg-id="饶平台高清" tvg-name="饶平台高清" tvg-logo="https://epg.112114.xyz/logo/饶平台.png" group-title="其他",饶平台高清
+http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=30&id=raopingtaiHD
 
 
 
