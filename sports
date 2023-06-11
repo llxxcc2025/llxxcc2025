@@ -50,14 +50,14 @@ http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育1台
 http://9sv2.mine.nu/sat/md021
 #EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育2台
-http://9sv2.mine.nu/sat/md031
-http://119.81.124.89/sat/md031
+rtmp://9sv2.mine.nu/sat/md031
+rtmp://119.81.124.89/sat/md031.flv
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN1
 http://129fy28039.zicp.fun:8181/tsfile/live/1204_1.m3u8
 rtmp://119.81.124.89/sat/tv731
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN2
 http://129fy28039.zicp.fun:8181/tsfile/live/1216_1.m3u8
-rtmp://9sv2.mine.nu/sat/md041
+
 
 #EXTINF:-1,tvg-id="sky sports prcmicr" tvg-name="sky sports prcmicr" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports prcmicr
  http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
