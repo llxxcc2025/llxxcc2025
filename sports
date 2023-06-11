@@ -47,9 +47,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3
 rtmp://9sv2.mine.nu/sat/tv721
 http://awei.beimua.com/iptv.php?id=73
 http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育1台.png" group-title="台湾体育",ELTA体育1台
+#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育1台
 http://9sv2.mine.nu/sat/md021
-#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育2台.png" group-title="台湾体育",ELTA体育2台
+#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育2台
 http://9sv2.mine.nu/sat/md031
 http://119.81.124.89/sat/md031
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN1
@@ -59,39 +59,38 @@ rtmp://119.81.124.89/sat/tv731
 http://129fy28039.zicp.fun:8181/tsfile/live/1216_1.m3u8
 rtmp://9sv2.mine.nu/sat/md041
 
-#EXTINF:-1,tvg-id="sky sports prcmicr" tvg-name="sky sports prcmicr" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSPRCMICR.png" group-title="国外体育",sky sports prcmicr
+#EXTINF:-1,tvg-id="sky sports prcmicr" tvg-name="sky sports prcmicr" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports prcmicr
  http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-#EXTINF:-1,tvg-id="sky sports arena" tvg-name="sky sports arena" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSARENA.png" group-title="国外体育",sky sports arena
+#EXTINF:-1,tvg-id="sky sports arena" tvg-name="sky sports arena" tvg-logo="https://upload.112114.xyz/logo/SKYTV.png" group-title="国外体育",sky sports arena
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-#EXTINF:-1,tvg-id="sky sports F1" tvg-name="sky sports F1" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSF1.png" group-title="国外体育",sky sports F1
+#EXTINF:-1,tvg-id="sky sports F1" tvg-name="sky sports F1" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports F1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-#EXTINF:-1,tvg-id="sky sports football" tvg-name="sky sports football" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSFOOTBALL.png" group-title="国外体育",sky sports football
+#EXTINF:-1,tvg-id="sky sports football" tvg-name="sky sports football" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports football
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
 #EXTINF:-1,tvg-id="BEIN SPORTS 1" tvg-name="BEIN SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS1.png" group-title="国外体育",BEIN SPORTS 1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-#EXTINF:-1,tvg-id="BEIN SPORTS 1" tvg-name="BEIN SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS1.png" group-title="国外体育",BEIN SPORTS 1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
-#EXTINF:-1,tvg-id="BEIN SPORTS 3" tvg-name="BEIN SPORTS 3" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS3.png" group-title="国外体育",BEIN SPORTS 3
+#EXTINF:-1,tvg-id="BEIN SPORTS 3" tvg-name="BEIN SPORTS 3" tvg-logo="https://upload.112114.xyz/logo/beIN%20SPORTS%20Max%203.png" group-title="国外体育",BEIN SPORTS 3
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
-#EXTINF:-1,tvg-id="BT SPORTS" tvg-name="BT SPORTS" tvg-logo="https://epg.112114.xyz/logo/BTSPORTS.png" group-title="国外体育",BT SPORTS
+#EXTINF:-1,tvg-id="BT SPORTS" tvg-name="BT SPORTS" tvg-logo="https://epg.112114.xyz/logo/BTSPORTS.png" group-title="国外体育",BT SPORTS 1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
 #EXTINF:-1,tvg-id="BT SPORTS 3" tvg-name="BT SPORTS 3" tvg-logo="https://epg.112114.xyz/logo/BTSPORTS3.png" group-title="国外体育",BT SPORTS 3
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
 #EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.112114.xyz/logo/EUROSPORT.png" group-title="国外体育",EUROSPORT
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1,tvg-id="Tennis chanel" tvg-name="Tennis chanel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANEL.png" group-title="国外体育",Tennis chanel
+#EXTINF:-1,tvg-id="Tennis chanel" tvg-name="Tennis chanel" tvg-logo="https://upload.112114.xyz/logo/GINX%20Esports%20TV.png" group-title="国外体育",Tennis chanel
 http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,tvg-id="SUPER TennisHD" tvg-name="SUPER TennisHD" tvg-logo="https://epg.112114.xyz/logo/SUPERTENNIS.png" group-title="国外体育",SUPER TennisHD
+#EXTINF:-1,tvg-id="SUPER TennisHD" tvg-name="SUPER TennisHD" tvg-logo="https://upload.112114.xyz/logo/GINX%20Esports%20TV.png" group-title="国外体育",SUPER TennisHD
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/6079/index.m3u8
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-#EXTINF:-1,tvg-id="中yT60 1台" tvg-name="中yT60 1台" tvg-logo="https://epg.112114.xyz/logo/中YT601台.png" group-title="国外体育",中yT60 1台
+#EXTINF:-1,tvg-id="中yT60 1台" tvg-name="中yT60 1台" tvg-logo="https://upload.112114.xyz/logo/KBSNSports.png" group-title="国外体育",中yT60 1台
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/124/index.m3u8
-#EXTINF:-1,tvg-id="中yT60 2台" tvg-name="中yT60 2台" tvg-logo="https://epg.112114.xyz/logo/中YT602台.png" group-title="国外体育",中yT60 2台
+#EXTINF:-1,tvg-id="中yT60 2台" tvg-name="中yT60 2台" tvg-logo="https://upload.112114.xyz/logo/KBSNSports.png" group-title="国外体育",中yT60 2台
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-#EXTINF:-1,tvg-id="中yT60 3台" tvg-name="中yT60 3台" tvg-logo="https://epg.112114.xyz/logo/中YT603台.png" group-title="国外体育",中yT60 3台
+#EXTINF:-1,tvg-id="中yT60 3台" tvg-name="中yT60 3台" tvg-logo="https://upload.112114.xyz/logo/KBSNSports.png" group-title="国外体育",中yT60 3台
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-#EXTINF:-1,tvg-id="MBC体育" tvg-name="MBC体育" tvg-logo="https://epg.112114.xyz/logo/MBC体育.png" group-title="国外体育",MBC体育
+#EXTINF:-1,tvg-id="MBC体育" tvg-name="MBC体育" tvg-logo="https://upload.112114.xyz/logo/MBC.png" group-title="国外体育",MBC体育
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
 
