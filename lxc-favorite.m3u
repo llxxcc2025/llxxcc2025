@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVBRICS中文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/CGTN.png" group-title="国际",金砖中文
+#EXTINF:-1 tvg-id="TVBRICS中文" tvg-name="CGTN" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="国际",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TVBRICS英文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/CGTN.png" group-title="国际",金砖英文
+#EXTINF:-1 tvg-id="TVBRICS英文" tvg-name="CGTN" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="国际",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="江苏移动4K影视" tvg-name="江苏移动4K影视" tvg-logo="https://upload.112114.xyz/logo/JIANGSU.png" group-title="UHD-IPV6",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
