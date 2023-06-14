@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="其他",金砖中文
+#EXTINF:-1 tvg-id="TVBRICS中文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/CGTN.png" group-title="国际",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-id="金砖英文" tvg-name="金砖英文" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="其他",金砖英文
+#EXTINF:-1 tvg-id="TVBRICS英文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/CGTN.png" group-title="国际",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,tvg-id="Fashion2K" tvg-name="Fashion2K" tvg-logo="https://upload.112114.xyz/logo/FASHINN.png" group-title="UHD-IPV4",Fashion2K
