@@ -8,8 +8,9 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
 #EXTINF:-1,tvg-id="阳城台" tvg-name="阳城台" tvg-logo="https://epg.112114.xyz/logo/阳城台.png" group-title="其他",阳城台
 http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
+#EXTINF:-1,tvg-id="百视通4K" tvg-name="百视通4K" tvg-logo="https://upload.112114.xyz/logo/BESTV4K.png" group-title="UHD-IPV6",百视通4K
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 
-#EXTM3U
 #EXTINF:-1,tvg-id="16号[1920*1080]" tvg-name="16号[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/16号.png" group-title="其他",16号[1920*1080]
 http://103.112.191.9:880/LAOSAT1015.m3u8
 #EXTINF:-1,tvg-id="7号[1920*1080]" tvg-name="7号[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/7号.png" group-title="其他",7号[1920*1080]
