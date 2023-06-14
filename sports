@@ -38,6 +38,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3
 http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="国内体育",广东体育
 http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="国内体育",爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="CCTV 高尔夫.网球" tvg-name="CCTV 高尔夫.网球" tvg-logo="https://upload.112114.xyz/logo/CCTVBQKJ.png" group-title="国内体育",CCTV 高尔夫.网球
