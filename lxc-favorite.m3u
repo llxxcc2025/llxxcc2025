@@ -1,3 +1,9 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="其他",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-id="金砖英文" tvg-name="金砖英文" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E7%A0%96%E7%94%B5%E8%A7%86.png" group-title="其他",金砖英文
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,tvg-id="Fashion2K" tvg-name="Fashion2K" tvg-logo="https://upload.112114.xyz/logo/FASHINN.png" group-title="UHD-IPV4",Fashion2K
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
