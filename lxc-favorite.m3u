@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/FEICUI.png" group-title="港澳台",翡翠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/MINGZHU.png" group-title="港澳台",明珠台
+https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
 #EXTINF:-1 tvg-id="TVBRICS中文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/jzds.png" group-title="国际",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICS英文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/jzds.png" group-title="国际",金砖英文
