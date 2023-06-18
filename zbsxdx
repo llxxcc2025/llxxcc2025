@@ -69,20 +69,14 @@ rtp://239.111.205.75:5140
 rtp://239.111.205.1:5140
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="rtps://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
 rtp://239.111.205.2:5140
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="rtps://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="rtps://epg.112114.xyz/logo/全纪实.png" group-title="其他",乐游
 rtp://239.111.205.3:5140
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="rtps://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
 rtp://239.111.205.4:5140
-#EXTINF:-1,tvg-id="悦美生活" tvg-name="悦美生活" tvg-logo="rtps://epg.112114.xyz/logo/悦美生活.png" group-title="其他",悦美生活
-rtp://239.111.205.7:5140
 #EXTINF:-1,tvg-id="曲艺大观" tvg-name="曲艺大观" tvg-logo="rtps://epg.112114.xyz/logo/曲艺大观.png" group-title="其他",曲艺大观
 rtp://239.111.205.31:5140
 #EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="rtps://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
 rtp://239.111.205.14:5140
-#EXTINF:-1,tvg-id="圆点生活" tvg-name="圆点生活" tvg-logo="rtps://epg.112114.xyz/logo/圆点生活.png" group-title="其他",圆点生活
-rtp://239.111.205.15:5140
-#EXTINF:-1,tvg-id="圆点影视" tvg-name="圆点影视" tvg-logo="rtps://epg.112114.xyz/logo/圆点影视.png" group-title="其他",圆点影视
-rtp://239.111.205.64:5140
 #EXTINF:-1,tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="rtps://epg.112114.xyz/logo/西乡融媒.png" group-title="其他",西乡融媒
 rtp://239.111.205.17:5140
 #EXTINF:-1,tvg-id="宁强-1" tvg-name="宁强-1" tvg-logo="rtps://epg.112114.xyz/logo/宁强1.png" group-title="其他",宁强-1
