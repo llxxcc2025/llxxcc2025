@@ -21,6 +21,8 @@ http://192.168.100.1:4022/udp/239.109.205.156:9102
 http://192.168.100.1:4022/udp/239.109.205.77:8552
 #EXTINF:-1,tvg-id="圆点影视高清" tvg-name="圆点影视高清" tvg-logo="https://epg.112114.xyz/logo/圆点影视.png" group-title="其他",圆点影视高清
 http://192.168.100.1:4022/udp/239.110.205.77:8016
+#EXTINF:-1,tvg-id="圆点生活高清" tvg-name="圆点生活高清" tvg-logo="https://epg.112114.xyz/logo/圆点生活.png" group-title="其他",圆点生活高清
+http://192.168.100.1:4022/udp/239.109.205.192:9608   
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实高清
 http://192.168.100.1:4022/udp/239.109.205.52:8352
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
@@ -106,17 +108,13 @@ http://192.168.100.1:4022/udp/239.109.205.190:9604
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视高清
 http://192.168.100.1:4022/udp/239.109.205.165:9006               
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视高清
-http://192.168.100.1:4022/udp/239.109.205.191:9606               
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实高清
-http://192.168.100.1:4022/udp/239.109.205.52:8352                
+http://192.168.100.1:4022/udp/239.109.205.191:9606                            
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视高清
 http://192.168.100.1:4022/udp/239.110.205.11:9790                            
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
 http://192.168.100.1:4022/udp/239.110.205.12:9794               
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视高清
-http://192.168.100.1:4022/udp/239.109.205.158:9106                
-#EXTINF:-1,tvg-id="圆点生活高清" tvg-name="圆点生活高清" tvg-logo="https://epg.112114.xyz/logo/圆点生活.png" group-title="其他",圆点生活高清
-http://192.168.100.1:4022/udp/239.109.205.192:9608                
+http://192.168.100.1:4022/udp/239.109.205.158:9106                             
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视高清
 http://192.168.100.1:4022/udp/239.109.205.70:8496               
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视高清
