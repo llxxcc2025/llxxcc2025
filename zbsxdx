@@ -89,7 +89,7 @@ rtp://239.111.205.71:5140
 rtp://239.111.205.72:5140
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="rtps://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球高清
 rtp://239.111.205.73:5140
-#EXTINF:-1,tvg-id="兵器合计高清" tvg-name="兵器合计高清" tvg-logo="rtps://epg.112114.xyz/logo/兵器合计.png" group-title="其他",兵器合计高清
+#EXTINF:-1,tvg-id="兵器合计高清" tvg-name="兵器合计高清" tvg-logo="rtps://epg.112114.xyz/logo/兵器合计.png" group-title="其他",兵器科技高清
 rtp://239.111.205.74:5140
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="rtps://epg.112114.xyz/logo/文化精品.png" group-title="央视",央视文化精品高清
 rtp://239.111.205.75:5140
