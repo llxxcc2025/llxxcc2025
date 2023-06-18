@@ -14,17 +14,11 @@ rtp://239.109.205.97:8712
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实高清
 rtp://239.109.205.59:8408
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云高清
-rtp://239.109.205.195:9642               
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实高清
-rtp://239.109.205.156:9102                
+rtp://239.109.205.195:9642                             
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场高清
 rtp://239.109.205.77:8552
-#EXTINF:-1,tvg-id="圆点影视高清" tvg-name="圆点影视高清" tvg-logo="https://epg.112114.xyz/logo/圆点影视.png" group-title="其他",圆点影视高清
-rtp://239.110.205.77:8016
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实高清
-rtp://239.109.205.52:8352
-#EXTINF:-1,tvg-id="圆点生活高清" tvg-name="圆点生活高清" tvg-logo="https://epg.112114.xyz/logo/圆点生活.png" group-title="其他",圆点生活高清
-rtp://239.109.205.192:9608    
+rtp://239.109.205.52:8352 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
 rtp://239.109.205.118:8880                
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2高清
