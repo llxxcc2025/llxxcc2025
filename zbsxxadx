@@ -129,8 +129,8 @@ udp://239.109.205.8:9168
 udp://239.109.205.193:9628
 #EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="udps://epg.112114.xyz/logo/陕西农林卫视.png" group-title="卫视",农林卫视
 udp://239.109.205.133:8998
-#EXTINF:-1,tvg-id="家有购物udp://239.110.205.31:9788" tvg-name="家有购物udp://239.110.205.31:9788" tvg-logo="udps://epg.112114.xyz/logo/家有购物udp://...31:.png" group-title="其他",家有购物udp://239.110.205.31:9788
-undefined
+#EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" tvg-logo="udps://epg.112114.xyz/logo/家有购物.png" group-title="其他",家有购物
+udp://239.110.205.31:9788
 #EXTINF:-1,tvg-id="好享购物" tvg-name="好享购物" tvg-logo="udps://epg.112114.xyz/logo/好享购物.png" group-title="其他",好享购物
 udp://239.110.205.32:9792
 #EXTINF:-1,tvg-id="三秦好购" tvg-name="三秦好购" tvg-logo="udps://epg.112114.xyz/logo/三秦好购.png" group-title="其他",三秦好购
