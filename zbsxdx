@@ -11,8 +11,6 @@ rtp://239.112.205.206:5140
 rtp://239.112.205.205:5140
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="rtps://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影高清
 rtp://239.112.205.207:5140
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="rtps://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K测试
-rtp://239.111.205.1:5140
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="rtps://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场高清
 rtp://239.111.205.2:5140
 #EXTINF:-1,tvg-id="乐游高清测试" tvg-name="乐游高清测试" tvg-logo="rtps://epg.112114.xyz/logo/乐游高清测试.png" group-title="其他",乐游高清测试
