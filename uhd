@@ -26,15 +26,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
 http://tvzx.top:9550/udp/239.93.59.33:5140
-http://xcm13.f3322.net:4000/udp/239.93.42.33:5140
+http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%BA%AF%E4%BA%AB4K.png" group-title="UHD-IPV4",4K乐享超清专区
-http://xcm13.f3322.net:4000/udp/239.93.0.43:5140
+http://zhaomeng.ddns.net:4000/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/4K%E8%8A%B1%E5%9B%AD.jpg" group-title="UHD-IPV4",亲子趣学4k专区
-http://xcm13.f3322.net:4000/udp/239.93.1.191:5140
+http://zhaomeng.ddns.net:4000/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://upload.112114.xyz/logo/%E7%88%B1%E4%B8%8A4k.png" group-title="UHD-IPV4",津津悦读4K专区
-http://xcm13.f3322.net:4000/udp/239.93.1.197:5140
+http://zhaomeng.ddns.net:4000/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://upload.112114.xyz/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="UHD-IPV4",中录动漫4K专区
-http://xcm13.f3322.net:4000/udp/239.93.1.188:5140
+http://zhaomeng.ddns.net:4000/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
 http://www.happyspace.party:4022/udp/239.45.3.107:5140
