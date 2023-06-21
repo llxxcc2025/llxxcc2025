@@ -171,11 +171,9 @@ rtp://239.111.205.18:5140
 rtp://239.111.205.19:5140
 #EXTINF:-1,tvg-id="宝鸡1高清" tvg-name="宝鸡1高清" tvg-logo="https://epg.112114.xyz/logo/宝鸡1.png" group-title="其他",宝鸡1高清
 rtp://239.112.205.143:5140
-#EXTINF:-1,tvg-id="宝鸡2高清" tvg-name="宝鸡2高清" tvg-logo="https://epg.112114.xyz/logo/宝鸡2.png" group-title="其他",宝鸡2高清
-rtp://239.112.205.144:5140
-#EXTINF:-1,tvg-id="宝鸡1高清" tvg-name="宝鸡1高清" tvg-logo="https://epg.112114.xyz/logo/宝鸡1.png" group-title="其他",宝鸡1高清
 rtp://239.112.205.147:5140
 #EXTINF:-1,tvg-id="宝鸡2高清" tvg-name="宝鸡2高清" tvg-logo="https://epg.112114.xyz/logo/宝鸡2.png" group-title="其他",宝鸡2高清
+rtp://239.112.205.144:5140
 rtp://239.112.205.148:5140
 #EXTINF:-1,tvg-id="洋县电视台高清" tvg-name="洋县电视台高清" tvg-logo="https://epg.112114.xyz/logo/洋县电视台.png" group-title="其他",洋县电视台高清
 rtp://239.111.205.77:5140
