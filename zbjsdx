@@ -64,8 +64,6 @@ http://abcabc123.ml:4022/udp/239.49.1.234:6000
 #EXTINF:-1,tvg-id="江苏导视高清" tvg-name="江苏导视高清" tvg-logo="https://epg.112114.xyz/logo/江苏导视.png" group-title="江苏",江苏导视高清
 http://abcabc123.ml:4022/udp/239.49.8.150:6000
 #EXTINF:-1,tvg-id="电竞直播高清" tvg-name="电竞直播高清" tvg-logo="https://epg.112114.xyz/logo/电竞直播.png" group-title="其他",电竞直播高清
-http://abcabc123.ml:4022/udp/239.49.8.151:6000
-#EXTINF:-1,tvg-id="电竞直播高清" tvg-name="电竞直播高清" tvg-logo="https://epg.112114.xyz/logo/电竞直播.png" group-title="其他",电竞直播高清
 http://abcabc123.ml:4022/udp/239.49.8.152:6000
 #EXTINF:-1,tvg-id="水韵江苏高清" tvg-name="水韵江苏高清" tvg-logo="https://epg.112114.xyz/logo/水韵江苏.png" group-title="江苏",水韵江苏高清
 http://abcabc123.ml:4022/udp/239.49.8.155:6000
