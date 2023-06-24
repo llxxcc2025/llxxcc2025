@@ -24,6 +24,7 @@ rtp://239.112.205.186:5140
 http://192.168.100.1:5678/sxg.php?id=emdy4k_8000
 http://xcm13.f3322.net:4000/udp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="UHD-IPV6",SITV欢笑剧场4K
+rtp://239.112.205.236:5140
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://upload.112114.xyz/logo/4K%E4%BF%AE%E5%A4%8D.png" group-title="UHD-IPV6",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
