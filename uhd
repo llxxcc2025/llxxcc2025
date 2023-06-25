@@ -7,6 +7,8 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://upload.112114.xyz/logo/BBC%20Earth.png" group-title="UHD-IPV4",earthtv
 http://192.168.100.1:2345/earthtv.php
 
+#EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="北京",北京IPTV4K超清
+http://api01.zhoufan.net:8000/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="4K花园高清" tvg-name="4K花园高清" tvg-logo="https://epg.112114.xyz/logo/4K花园.png" group-title="UHD-IPV4",4K花园高清
 http://abcabc123.ml:4022/udp/239.49.8.205:6000
 http://abcabc123.ml:4022/udp/239.49.8.207:6000
