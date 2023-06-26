@@ -3,11 +3,11 @@
 https://reuters-reutersnow-1.plex.wurl.com/manifest/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1,tvg-id="Cum4k" tvg-name="Cum4k" tvg-logo="https://upload.112114.xyz/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="UHD-IPV4",Cum4k UHD -18+  
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
-#EXTINF:-1,tvg-id="Jenny Live" tvg-name="Jenny Live" tvg-logo="https://epg.112114.xyz/logo/JENNYLIVE.png" group-title="其他",Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
 #EXTINF:-1,tvg-id="阳城台" tvg-name="阳城台" tvg-logo="https://epg.112114.xyz/logo/阳城台.png" group-title="其他",阳城台
 http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
 #EXTINF:-1,tvg-id="百视通4K" tvg-name="百视通4K" tvg-logo="https://upload.112114.xyz/logo/BESTV4K.png" group-title="UHD-IPV6",百视通4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/PLTV/1/224/3221230961/1.m3u8
 
