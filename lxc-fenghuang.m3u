@@ -13,7 +13,7 @@ http://113.117.74.20:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台7
 http://182.150.110.153:8888/udp/239.93.1.4:2191
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台9
-http://tvzx.top:9550/udp/239.93.32.4:2191
+http://182.148.69.159:8800/udp/239.93.32.4:2191
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-info.png" group-title="凤凰资讯",凤凰资讯台10
 http://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台11
@@ -39,7 +39,7 @@ http://113.117.74.20:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
 http://182.150.110.153:8888/udp/239.93.1.9:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台9
-http://tvzx.top:9550/udp/239.93.32.9:2192
+http://182.148.69.159:8800/udp/239.93.32.9:2192
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視中文台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-live.png" group-title="凤凰中文",凤凰中文台10
 http://sc2022.stream-link.org/tv2306.php?id=h16
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台11
@@ -213,6 +213,6 @@ http://abcabc123.ml:4022/udp/239.49.1.227:6000
 http://125.82.171.210:8888/udp/235.254.198.199:7980
 
 #EXTINF:-1,tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://upload.112114.xyz/logo/ytndmb.png" group-title="墨宝",墨宝1
-http://tvzx.top:9550/udp/239.93.32.215:9132
+http://182.148.69.159:8800/udp/239.93.32.215:9132
 #EXTINF:-1,tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://upload.112114.xyz/logo/ytndmb.png" group-title="墨宝",墨宝2
 http://live.aishang.ctlcdn.com/00000110240342_1/playlist.m3u8?CONTENTID=00000110240342_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
