@@ -35,15 +35,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=GDZYHD4K_38000
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
-http://182.148.69.159:8800/udp/239.93.42.33:5140
+http://182.150.110.153:8888/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%BA%AF%E4%BA%AB4K.png" group-title="UHD-IPV4",4K乐享超清专区
-http://182.148.69.159:8800/udp/239.93.0.43:5140
+http://182.150.110.153:8888/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64K.png" group-title="UHD-IPV4",亲子趣学4k专区
-http://182.148.69.159:8800/udp/239.93.1.191:5140
+http://182.150.110.153:8888/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://upload.112114.xyz/logo/%E6%B4%A5%E6%B4%A5%E6%82%A6%E8%AF%BB4K.png" group-title="UHD-IPV4",津津悦读4K专区
-http://182.148.69.159:8800/udp/239.93.1.197:5140
+http://182.150.110.153:8888/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB4K.png" group-title="UHD-IPV4",中录动漫4K专区
-http://182.148.69.159:8800/udp/239.93.1.188:5140
+http://182.150.110.153:8888/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
 http://218.82.119.104:10000//239.45.3.107:5140
