@@ -51,8 +51,12 @@ http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視香港台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-hk.png" group-title="凤凰香港",凤凰香港台2
 http://sc2022.stream-link.org/tv2306.php?id=h17
 
-#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K-1
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K-2
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="8k-IPV6",CCTV-8K-3
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?$2160P
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="CCTV-4K",CCTV-4K 超高清1
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
@@ -70,6 +74,8 @@ http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="CCTV-16",CCTV-16 奥林匹克超高清3
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清1
