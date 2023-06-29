@@ -10,11 +10,11 @@ http://192.168.100.1:2345/earthtv.php
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://123.120.4.107:4022/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="4K花园高清" tvg-name="4K花园高清" tvg-logo="https://epg.112114.xyz/logo/4K花园.png" group-title="UHD-IPV4",4K花园高清
-http://221.225.52.173:4022/udp/239.49.8.205:6000
-http://221.225.52.173:4022/udp/239.49.8.207:6000
-http://221.225.52.173:4022/udp/239.49.8.208:6000
+http://180.116.172.19:4022/udp/239.49.8.205:6000
+http://180.116.172.19:4022/udp/239.49.8.207:6000
+http://180.116.172.19:4022/udp/239.49.8.208:6000
 #EXTINF:-1,tvg-id="4K现场高清" tvg-name="4K现场高清" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E7%9C%8B4K.png" group-title="UHD-IPV4",4K现场高清
-http://221.225.52.173:4022/udp/239.49.8.222:6000
+http://180.116.172.19:4022/udp/239.49.8.222:6000
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://upload.112114.xyz/logo/HUASHU4K.png" group-title="UHD-IPV6",华数4K影视
