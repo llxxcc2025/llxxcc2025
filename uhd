@@ -17,12 +17,8 @@ http://180.116.172.19:4022/udp/239.49.8.208:6000
 http://180.116.172.19:4022/udp/239.49.8.222:6000
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://upload.112114.xyz/logo/HUASHU4K.png" group-title="UHD-IPV6",华数4K影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4KCGQ.png" group-title="UHD-IPV6",4K超高清电影
-http://118.113.159.11:4022/udp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="UHD-IPV6",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://upload.112114.xyz/logo/4K%E4%BF%AE%E5%A4%8D.png" group-title="UHD-IPV6",4K修复
@@ -33,10 +29,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://113.87.225.57:5000/udp/239.77.0.246:5146
 http://60.208.16.27:1505/gudou.php?id=GDZYHD4K_38000
 
+#EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://upload.112114.xyz/logo/HUASHU4K.png" group-title="UHD-IPV6",华数4K影视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+http://118.113.159.11:4022/udp/239.93.0.43:5140
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4KCGQ.png" group-title="UHD-IPV6",4K超高清电影
+http://118.113.159.11:4022/udp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
 http://118.113.159.11:4022/udp/239.93.42.33:5140
-#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%BA%AF%E4%BA%AB4K.png" group-title="UHD-IPV4",4K乐享超清专区
-http://118.113.159.11:4022/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64K.png" group-title="UHD-IPV4",亲子趣学4k专区
 http://118.113.159.11:4022/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://upload.112114.xyz/logo/%E6%B4%A5%E6%B4%A5%E6%82%A6%E8%AF%BB4K.png" group-title="UHD-IPV4",津津悦读4K专区
