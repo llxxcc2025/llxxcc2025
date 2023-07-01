@@ -33,7 +33,7 @@ http://125.41.223.191:8181/udp/225.1.4.226:2506
 http://125.41.223.191:8181/udp/225.1.4.75:1104
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
 http://125.41.223.191:8181/udp/225.1.4.162:1204
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视4K
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="卫视",河南卫视4K
 http://125.41.223.191:8181/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 http://125.41.223.191:8181/udp/225.1.4.52:1081
