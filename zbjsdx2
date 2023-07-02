@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://221.225.52.173:4022/udp/239.49.8.231:6000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16%281%29.png" group-title="UHD-IPV6",CCTV16-4K
+http://221.225.52.173:4022/udp/239.49.9.59:6000
+http://221.225.52.173:4022/udp/239.49.9.60:6000
 #EXTINF:-1,tvg-id="4K花园高清" tvg-name="4K花园高清" tvg-logo="https://epg.112114.xyz/logo/4K花园.png" group-title="其他",4K花园高清
 http://221.225.52.173:4022/udp/239.49.8.205:6000
 #EXTINF:-1,tvg-id="4K花园高清" tvg-name="4K花园高清" tvg-logo="https://epg.112114.xyz/logo/4K花园.png" group-title="其他",4K花园高清
