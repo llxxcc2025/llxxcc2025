@@ -35,17 +35,17 @@ http://192.168.100.1:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA
 
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://upload.112114.xyz/logo/HUASHU4K.png" group-title="UHD-IPV6",华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-http://118.113.159.11:4022/udp/239.93.0.43:5140
+http://182.138.160.182:8888/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4KCGQ.png" group-title="UHD-IPV6",4K超高清电影
-http://118.113.159.11:4022/udp/239.93.1.156:5140
+http://182.138.160.182:8888/udp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
-http://118.113.159.11:4022/udp/239.93.42.33:5140
+http://182.138.160.182:8888/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64K.png" group-title="UHD-IPV4",亲子趣学4k专区
-http://118.113.159.11:4022/udp/239.93.1.191:5140
+http://182.138.160.182:8888/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://upload.112114.xyz/logo/%E6%B4%A5%E6%B4%A5%E6%82%A6%E8%AF%BB4K.png" group-title="UHD-IPV4",津津悦读4K专区
-http://118.113.159.11:4022/udp/239.93.1.197:5140
+http://182.138.160.182:8888/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB4K.png" group-title="UHD-IPV4",中录动漫4K专区
-http://118.113.159.11:4022/udp/239.93.1.188:5140
+http://182.138.160.182:8888/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
 http://218.82.119.104:10000/udp/239.45.3.107:5140
