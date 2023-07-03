@@ -8,7 +8,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://192.168.100.1:2345/earthtv.php
 
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
-http://123.113.104.204:4022/rtp/239.3.1.249:8001
+http://123.113.100.240:20001/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
 http://42.236.162.35:8888/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
