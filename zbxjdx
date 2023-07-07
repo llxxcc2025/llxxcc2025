@@ -1,0 +1,1083 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://49.113.120.76:7890/udp/238.125.1.1:5140
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://49.113.120.76:7890/udp/238.125.3.212:5140
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://49.113.120.76:7890/udp/238.125.5.1:5140
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://49.113.120.76:7890/udp/238.125.5.96:5140
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://220.171.75.48:888:888/udp/238.125.0.1:5140
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+http://49.113.120.76:7890/udp/238.125.1.27:5140
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+http://49.113.120.76:7890/udp/238.125.5.27:5140
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
+http://49.113.120.76:7890/udp/238.125.4.83:5140
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+http://49.113.120.76:7890/udp/238.125.1.28:5140
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+http://49.113.120.76:7890/udp/238.125.5.28:5140
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+http://49.113.120.76:7890/udp/238.125.5.31:5140
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+http://49.113.120.76:7890/udp/238.125.1.66:5140
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+http://49.113.120.76:7890/udp/238.125.4.198:5140
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+http://49.113.120.76:7890/udp/238.125.5.66:5140
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+http://49.113.120.76:7890/udp/238.125.3.213:5140
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+http://49.113.120.76:7890/udp/238.125.4.84:5140
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
+http://49.113.120.76:7890/udp/238.125.5.34:5140
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+http://49.113.120.76:7890/udp/238.125.3.153:5140
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+http://49.113.120.76:7890/udp/238.125.5.74:5140
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+http://49.113.120.76:7890/udp/238.125.1.20:5140
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+http://49.113.120.76:7890/udp/238.125.5.20:5140
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://49.113.120.76:7890/udp/238.125.1.21:5140
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://49.113.120.76:7890/udp/238.125.5.21:5140
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://49.113.120.76:7890/udp/238.125.1.35:5140
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://49.113.120.76:7890/udp/238.125.1.67:5140
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+http://49.113.120.76:7890/udp/238.125.1.22:5140
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+http://49.113.120.76:7890/udp/238.125.5.22:5140
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://49.113.120.76:7890/udp/238.125.1.29:5140
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://49.113.120.76:7890/udp/238.125.5.29:5140
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://49.113.120.76:7890/udp/238.125.1.23:5140
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://49.113.120.76:7890/udp/238.125.5.23:5140
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+http://49.113.120.76:7890/udp/238.125.1.24:5140
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+http://49.113.120.76:7890/udp/238.125.5.24:5140
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+http://49.113.120.76:7890/udp/238.125.1.25:5140
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+http://49.113.120.76:7890/udp/238.125.5.25:5140
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+http://49.113.120.76:7890/udp/238.125.1.26:5140
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+http://49.113.120.76:7890/udp/238.125.5.26:5140
+#EXTINF:-1,tvg-id="嘉丽购物" tvg-name="嘉丽购物" tvg-logo="https://epg.112114.xyz/logo/嘉丽购物.png" group-title="央视",CCTV购物
+http://49.113.120.76:7890/udp/238.125.1.40:5140
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+http://49.113.120.76:7890/udp/238.125.1.51:5140
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+http://49.113.120.76:7890/udp/238.125.3.124:5140
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+http://49.113.120.76:7890/udp/238.125.5.51:5140
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+http://49.113.120.76:7890/udp/238.125.3.92:5140
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+http://49.113.120.76:7890/udp/238.125.4.98:5140
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+http://220.171.75.48:888:888/udp/238.125.3.92:5140
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
+http://220.171.75.48:888:888/udp/238.125.4.98:5140
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
+http://49.113.120.76:7890/udp/238.125.3.119:5140
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
+http://49.113.120.76:7890/udp/238.125.3.134:5140
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
+http://49.113.120.76:7890/udp/238.125.5.69:5140
+#EXTINF:-1,tvg-id="WJQ" tvg-name="WJQ" tvg-logo="https://epg.112114.xyz/logo/WJQ.png" group-title="其他",WJQ
+http://49.113.120.76:7890/udp/238.125.3.166:5140
+#EXTINF:-1,tvg-id="阿克苏" tvg-name="阿克苏" tvg-logo="https://epg.112114.xyz/logo/阿克苏.png" group-title="其他",阿克苏
+http://49.113.120.76:7890/udp/238.125.3.84:5140
+#EXTINF:-1,tvg-id="阿克苏" tvg-name="阿克苏" tvg-logo="https://epg.112114.xyz/logo/阿克苏.png" group-title="其他",阿克苏
+http://49.113.120.76:7890/udp/238.125.3.85:5140
+#EXTINF:-1,tvg-id="阿克苏" tvg-name="阿克苏" tvg-logo="https://epg.112114.xyz/logo/阿克苏.png" group-title="其他",阿克苏
+http://49.113.120.76:7890/udp/238.125.3.86:5140
+#EXTINF:-1,tvg-id="阿拉尔" tvg-name="阿拉尔" tvg-logo="https://epg.112114.xyz/logo/阿拉尔.png" group-title="其他",阿拉尔
+http://49.113.120.76:7890/udp/238.125.3.54:5140
+#EXTINF:-1,tvg-id="阿勒泰" tvg-name="阿勒泰" tvg-logo="https://epg.112114.xyz/logo/阿勒泰.png" group-title="其他",阿勒泰
+http://49.113.120.76:7890/udp/238.125.3.151:5140
+#EXTINF:-1,tvg-id="阿勒泰1" tvg-name="阿勒泰1" tvg-logo="https://epg.112114.xyz/logo/阿勒泰1.png" group-title="其他",阿勒泰1
+http://49.113.120.76:7890/udp/238.125.3.150:5140
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://49.113.120.76:7890/udp/238.125.1.9:5140
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://49.113.120.76:7890/udp/238.125.5.9:5140
+#EXTINF:-1,tvg-id="巴音郭楞" tvg-name="巴音郭楞" tvg-logo="https://epg.112114.xyz/logo/巴音郭楞.png" group-title="其他",巴音郭楞
+http://49.113.120.76:7890/udp/238.125.3.38:5140
+#EXTINF:-1,tvg-id="巴音郭楞" tvg-name="巴音郭楞" tvg-logo="https://epg.112114.xyz/logo/巴音郭楞.png" group-title="其他",巴音郭楞
+http://49.113.120.76:7890/udp/238.125.3.39:5140
+#EXTINF:-1,tvg-id="巴音郭楞" tvg-name="巴音郭楞" tvg-logo="https://epg.112114.xyz/logo/巴音郭楞.png" group-title="其他",巴音郭楞
+http://49.113.120.76:7890/udp/238.125.3.40:5140
+#EXTINF:-1,tvg-id="巴音郭楞" tvg-name="巴音郭楞" tvg-logo="https://epg.112114.xyz/logo/巴音郭楞.png" group-title="其他",巴音郭楞
+http://49.113.120.76:7890/udp/238.125.3.43:5140
+#EXTINF:-1,tvg-id="包头" tvg-name="包头" tvg-logo="https://epg.112114.xyz/logo/包头.png" group-title="其他",包头
+http://49.113.120.76:7890/udp/238.125.3.12:5140
+#EXTINF:-1,tvg-id="包头" tvg-name="包头" tvg-logo="https://epg.112114.xyz/logo/包头.png" group-title="其他",包头
+http://49.113.120.76:7890/udp/238.125.3.13:5140
+#EXTINF:-1,tvg-id="包头" tvg-name="包头" tvg-logo="https://epg.112114.xyz/logo/包头.png" group-title="其他",包头
+http://49.113.120.76:7890/udp/238.125.3.14:5140
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+http://49.113.120.76:7890/udp/238.125.3.121:5140
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+http://49.113.120.76:7890/udp/238.125.5.70:5140
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://49.113.120.76:7890/udp/238.125.1.3:5140
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://49.113.120.76:7890/udp/238.125.5.3:5140
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
+http://49.113.120.76:7890/udp/238.125.5.101:5140
+#EXTINF:-1,tvg-id="昌吉" tvg-name="昌吉" tvg-logo="https://epg.112114.xyz/logo/昌吉.png" group-title="其他",昌吉
+http://49.113.120.76:7890/udp/238.125.3.27:5140
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育
+http://49.113.120.76:7890/udp/238.125.3.65:5140
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="其他",第一财经
+http://49.113.120.76:7890/udp/238.125.1.59:5140
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
+http://49.113.120.76:7890/udp/238.125.4.54:5140
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
+http://220.171.75.48:888:888/udp/238.125.4.54:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://49.113.120.76:7890/udp/238.125.1.5:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://49.113.120.76:7890/udp/238.125.5.5:5140
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://49.113.120.76:7890/udp/238.125.1.49:5140
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://49.113.120.76:7890/udp/238.125.5.49:5140
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
+http://49.113.120.76:7890/udp/238.125.1.33:5140
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
+http://49.113.120.76:7890/udp/238.125.5.33:5140
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
+http://49.113.120.76:7890/udp/238.125.1.60:5140
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
+http://49.113.120.76:7890/udp/238.125.5.60:5140
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地
+http://49.113.120.76:7890/udp/238.125.5.116:5140
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://49.113.120.76:7890/udp/238.125.5.121:5140
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://49.113.120.76:7890/udp/238.125.1.12:5140
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://49.113.120.76:7890/udp/238.125.5.12:5140
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://49.113.120.76:7890/udp/238.125.5.105:5140
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://49.113.120.76:7890/udp/238.125.1.65:5140
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://49.113.120.76:7890/udp/238.125.5.65:5140
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="其他",哈哈炫动
+http://49.113.120.76:7890/udp/238.125.5.106:5140
+#EXTINF:-1,tvg-id="哈密1" tvg-name="哈密1" tvg-logo="https://epg.112114.xyz/logo/哈密1.png" group-title="其他",哈密1
+http://49.113.120.76:7890/udp/238.125.0.194:5140
+#EXTINF:-1,tvg-id="哈密3" tvg-name="哈密3" tvg-logo="https://epg.112114.xyz/logo/哈密3.png" group-title="其他",哈密3
+http://49.113.120.76:7890/udp/238.125.0.195:5140
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://49.113.120.76:7890/udp/238.125.1.68:5140
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://49.113.120.76:7890/udp/238.125.5.68:5140
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://49.113.120.76:7890/udp/238.125.1.64:5140
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://49.113.120.76:7890/udp/238.125.5.64:5140
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://49.113.120.76:7890/udp/238.125.3.171:5140
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://49.113.120.76:7890/udp/238.125.1.8:5140
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://49.113.120.76:7890/udp/238.125.5.8:5140
+#EXTINF:-1,tvg-id="呼图壁" tvg-name="呼图壁" tvg-logo="https://epg.112114.xyz/logo/呼图壁.png" group-title="其他",呼图壁
+http://49.113.120.76:7890/udp/238.125.3.91:5140
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://49.113.120.76:7890/udp/238.125.1.10:5140
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://49.113.120.76:7890/udp/238.125.5.10:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://49.113.120.76:7890/udp/238.125.1.4:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://49.113.120.76:7890/udp/238.125.5.4:5140
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="其他",欢笑剧场
+http://49.113.120.76:7890/udp/238.125.1.61:5140
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="其他",欢笑剧场
+http://49.113.120.76:7890/udp/238.125.5.61:5140
+#EXTINF:-1,tvg-id="霍城" tvg-name="霍城" tvg-logo="https://epg.112114.xyz/logo/霍城.png" group-title="其他",霍城
+http://49.113.120.76:7890/udp/238.125.3.6:5140
+#EXTINF:-1,tvg-id="霍城" tvg-name="霍城" tvg-logo="https://epg.112114.xyz/logo/霍城.png" group-title="其他",霍城
+http://49.113.120.76:7890/udp/238.125.3.7:5140
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://49.113.120.76:7890/udp/238.125.3.103:5140
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://49.113.120.76:7890/udp/238.125.1.50:5140
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://49.113.120.76:7890/udp/238.125.3.135:5140
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+http://49.113.120.76:7890/udp/238.125.5.72:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://49.113.120.76:7890/udp/238.125.1.6:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://49.113.120.76:7890/udp/238.125.5.6:5140
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://49.113.120.76:7890/udp/238.125.3.106:5140
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="其他",教育
+http://49.113.120.76:7890/udp/238.125.0.144:5140
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="其他",教育
+http://49.113.120.76:7890/udp/238.125.4.144:5140
+#EXTINF:-1,tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="其他",教育
+http://49.113.120.76:7890/udp/238.125.4.190:5140
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="其他",金色学堂
+http://49.113.120.76:7890/udp/238.125.5.115:5140
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
+http://49.113.120.76:7890/udp/238.125.3.122:5140
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
+http://49.113.120.76:7890/udp/238.125.5.71:5140
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通
+http://49.113.120.76:7890/udp/238.125.5.104:5140
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通
+http://49.113.120.76:7890/udp/238.125.1.63:5140
+#EXTINF:-1,tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.xyz/logo/浙江精彩影视.png" group-title="其他",精彩影视
+http://49.113.120.76:7890/udp/238.125.5.110:5140
+#EXTINF:-1,tvg-id="喀什" tvg-name="喀什" tvg-logo="https://epg.112114.xyz/logo/喀什.png" group-title="其他",喀什
+http://49.113.120.76:7890/udp/238.125.3.214:5140
+#EXTINF:-1,tvg-id="喀什" tvg-name="喀什" tvg-logo="https://epg.112114.xyz/logo/喀什.png" group-title="其他",喀什
+http://49.113.120.76:7890/udp/238.125.3.215:5140
+#EXTINF:-1,tvg-id="喀什" tvg-name="喀什" tvg-logo="https://epg.112114.xyz/logo/喀什.png" group-title="其他",喀什
+http://49.113.120.76:7890/udp/238.125.3.216:5140
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+http://49.113.120.76:7890/udp/238.125.5.107:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜" tvg-name="克孜勒苏柯尔克孜" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜.png" group-title="其他",克孜勒苏柯尔克孜
+http://49.113.120.76:7890/udp/238.125.0.241:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜" tvg-name="克孜勒苏柯尔克孜" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜.png" group-title="其他",克孜勒苏柯尔克孜
+http://49.113.120.76:7890/udp/238.125.0.242:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜" tvg-name="克孜勒苏柯尔克孜" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜.png" group-title="其他",克孜勒苏柯尔克孜
+http://49.113.120.76:7890/udp/238.125.4.240:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜1" tvg-name="克孜勒苏柯尔克孜1" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜1.png" group-title="其他",克孜勒苏柯尔克孜1
+http://49.113.120.76:7890/udp/238.125.0.240:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜2" tvg-name="克孜勒苏柯尔克孜2" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜2.png" group-title="其他",克孜勒苏柯尔克孜2
+http://49.113.120.76:7890/udp/238.125.4.241:5140
+#EXTINF:-1,tvg-id="克孜勒苏柯尔克孜3" tvg-name="克孜勒苏柯尔克孜3" tvg-logo="https://epg.112114.xyz/logo/克孜勒苏柯尔克孜3.png" group-title="其他",克孜勒苏柯尔克孜3
+http://49.113.120.76:7890/udp/238.125.4.242:5140
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+http://49.113.120.76:7890/udp/238.125.5.103:5140
+#EXTINF:-1,tvg-id="奎屯1" tvg-name="奎屯1" tvg-logo="https://epg.112114.xyz/logo/奎屯1.png" group-title="其他",奎屯1
+http://49.113.120.76:7890/udp/238.125.3.248:5140
+#EXTINF:-1,tvg-id="奎屯3" tvg-name="奎屯3" tvg-logo="https://epg.112114.xyz/logo/奎屯3.png" group-title="其他",奎屯3
+http://49.113.120.76:7890/udp/238.125.3.250:5140
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园
+http://49.113.120.76:7890/udp/238.125.4.103:5140
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://49.113.120.76:7890/udp/238.125.1.15:5140
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://49.113.120.76:7890/udp/238.125.5.15:5140
+#EXTINF:-1,tvg-id="玛纳斯" tvg-name="玛纳斯" tvg-logo="https://epg.112114.xyz/logo/玛纳斯.png" group-title="其他",玛纳斯
+http://49.113.120.76:7890/udp/238.125.3.114:5140
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
+http://49.113.120.76:7890/udp/238.125.5.108:5140
+#EXTINF:-1,tvg-id="人物" tvg-name="人物" tvg-logo="https://epg.112114.xyz/logo/人物.png" group-title="其他",人物
+http://49.113.120.76:7890/udp/238.125.5.109:5140
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://49.113.120.76:7890/udp/238.125.5.114:5140
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://49.113.120.76:7890/udp/238.125.1.11:5140
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://49.113.120.76:7890/udp/238.125.5.11:5140
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://49.113.120.76:7890/udp/238.125.1.2:5140
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://49.113.120.76:7890/udp/238.125.5.2:5140
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
+http://49.113.120.76:7890/udp/238.125.5.113:5140
+#EXTINF:-1,tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://epg.112114.xyz/logo/IPTV魅力时尚.png" group-title="其他",时尚
+http://49.113.120.76:7890/udp/238.125.3.239:5140
+#EXTINF:-1,tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://epg.112114.xyz/logo/IPTV魅力时尚.png" group-title="其他",时尚
+http://49.113.120.76:7890/udp/238.125.3.240:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://49.113.120.76:7890/udp/238.125.1.62:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://49.113.120.76:7890/udp/238.125.5.62:5140
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://49.113.120.76:7890/udp/238.125.1.13:5140
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://49.113.120.76:7890/udp/238.125.5.13:5140
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
+http://49.113.120.76:7890/udp/238.125.4.106:5140
+#EXTINF:-1,tvg-id="乌鲁木齐" tvg-name="乌鲁木齐" tvg-logo="https://epg.112114.xyz/logo/乌鲁木齐.png" group-title="其他",乌鲁木齐
+http://49.113.120.76:7890/udp/238.125.3.229:5140
+#EXTINF:-1,tvg-id="乌鲁木齐" tvg-name="乌鲁木齐" tvg-logo="https://epg.112114.xyz/logo/乌鲁木齐.png" group-title="其他",乌鲁木齐
+http://49.113.120.76:7890/udp/238.125.3.238:5140
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
+http://49.113.120.76:7890/udp/238.125.4.104:5140
+#EXTINF:-1,tvg-id="新疆10" tvg-name="新疆10" tvg-logo="https://epg.112114.xyz/logo/新疆10.png" group-title="其他",新疆10
+http://49.113.120.76:7890/udp/238.125.3.183:5140
+#EXTINF:-1,tvg-id="新疆11" tvg-name="新疆11" tvg-logo="https://epg.112114.xyz/logo/新疆11.png" group-title="其他",新疆11
+http://49.113.120.76:7890/udp/238.125.3.184:5140
+#EXTINF:-1,tvg-id="新疆12" tvg-name="新疆12" tvg-logo="https://epg.112114.xyz/logo/新疆12.png" group-title="其他",新疆12
+http://49.113.120.76:7890/udp/238.125.3.185:5140
+#EXTINF:-1,tvg-id="新疆2" tvg-name="新疆2" tvg-logo="https://epg.112114.xyz/logo/新疆2.png" group-title="其他",新疆2
+http://49.113.120.76:7890/udp/238.125.3.175:5140
+#EXTINF:-1,tvg-id="新疆3" tvg-name="新疆3" tvg-logo="https://epg.112114.xyz/logo/新疆3.png" group-title="其他",新疆3
+http://49.113.120.76:7890/udp/238.125.3.176:5140
+#EXTINF:-1,tvg-id="新疆4" tvg-name="新疆4" tvg-logo="https://epg.112114.xyz/logo/新疆4.png" group-title="其他",新疆4
+http://49.113.120.76:7890/udp/238.125.3.177:5140
+#EXTINF:-1,tvg-id="新疆5" tvg-name="新疆5" tvg-logo="https://epg.112114.xyz/logo/新疆5.png" group-title="其他",新疆5
+http://49.113.120.76:7890/udp/238.125.3.178:5140
+#EXTINF:-1,tvg-id="新疆6" tvg-name="新疆6" tvg-logo="https://epg.112114.xyz/logo/新疆6.png" group-title="其他",新疆6
+http://49.113.120.76:7890/udp/238.125.3.179:5140
+#EXTINF:-1,tvg-id="新疆7" tvg-name="新疆7" tvg-logo="https://epg.112114.xyz/logo/新疆7.png" group-title="其他",新疆7
+http://49.113.120.76:7890/udp/238.125.3.180:5140
+#EXTINF:-1,tvg-id="新疆8" tvg-name="新疆8" tvg-logo="https://epg.112114.xyz/logo/新疆8.png" group-title="其他",新疆8
+http://49.113.120.76:7890/udp/238.125.3.181:5140
+#EXTINF:-1,tvg-id="新疆9" tvg-name="新疆9" tvg-logo="https://epg.112114.xyz/logo/新疆9.png" group-title="其他",新疆9
+http://49.113.120.76:7890/udp/238.125.3.182:5140
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://49.113.120.76:7890/udp/238.125.3.174:5140
+#EXTINF:-1,tvg-id="新疆影视" tvg-name="新疆影视" tvg-logo="https://epg.112114.xyz/logo/新疆影视.png" group-title="其他",新疆影视
+http://office.gofaraway.top:888/udp/238.125.3.179:5140
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
+http://49.113.120.76:7890/udp/238.125.1.34:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.0.147:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.0.148:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.0.149:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.0.150:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.4.147:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.4.148:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.4.149:5140
+#EXTINF:-1,tvg-id="伊犁哈萨克" tvg-name="伊犁哈萨克" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他",伊犁哈萨克
+http://49.113.120.76:7890/udp/238.125.4.150:5140
+#EXTINF:-1,tvg-id="伊宁" tvg-name="伊宁" tvg-logo="https://epg.112114.xyz/logo/伊宁.png" group-title="其他",伊宁
+http://49.113.120.76:7890/udp/238.125.3.228:5140
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
+http://49.113.120.76:7890/udp/238.125.1.36:5140
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
+http://49.113.120.76:7890/udp/238.125.5.36:5140
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://49.113.120.76:7890/udp/238.125.5.32:5140
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://49.113.120.76:7890/udp/238.125.1.7:5140
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://49.113.120.76:7890/udp/238.125.5.7:5140
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://49.113.120.76:7890/udp/238.125.1.14:5140
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://49.113.120.76:7890/udp/238.125.5.14:5140
+#EXTINF:-1,tvg-id="竹山" tvg-name="竹山" tvg-logo="https://epg.112114.xyz/logo/竹山.png" group-title="其他",竹山
+http://49.113.120.76:7890/udp/238.125.3.225:5140
+#EXTINF:-1,tvg-id="竹山" tvg-name="竹山" tvg-logo="https://epg.112114.xyz/logo/竹山.png" group-title="其他",竹山
+http://49.113.120.76:7890/udp/238.125.3.226:5140
+#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://epg.112114.xyz/logo/JET综合台.png" group-title="其他",综合
+http://49.113.120.76:7890/udp/238.125.3.164:5140
+#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://epg.112114.xyz/logo/JET综合台.png" group-title="其他",综合
+http://49.113.120.76:7890/udp/238.125.3.165:5140
+#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://epg.112114.xyz/logo/JET综合台.png" group-title="其他",综合
+http://49.113.120.76:7890/udp/238.125.4.194:5140
+#EXTINF:-1,tvg-id="JET综合台" tvg-name="JET综合台" tvg-logo="https://epg.112114.xyz/logo/JET综合台.png" group-title="其他",综合
+http://49.113.120.76:7890/udp/238.125.4.195:5140
+#EXTINF:-1,tvg-id="100号[1280*720]" tvg-name="100号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",100号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.100:5140
+#EXTINF:-1,tvg-id="100号[768*576]" tvg-name="100号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",100号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.100:5140
+#EXTINF:-1,tvg-id="101号[768*576]" tvg-name="101号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",101号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.101:5140
+#EXTINF:-1,tvg-id="101号[785*576]" tvg-name="101号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",101号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.101:5140
+#EXTINF:-1,tvg-id="102号[785*576]" tvg-name="102号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",102号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.102:5140
+#EXTINF:-1,tvg-id="102号[785*576]" tvg-name="102号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",102号[785*576]
+http://49.113.120.76:7890/udp/238.125.5.102:5140
+#EXTINF:-1,tvg-id="105号[785*576]" tvg-name="105号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",105号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.105:5140
+#EXTINF:-1,tvg-id="107号[785*576]" tvg-name="107号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",107号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.107:5140
+#EXTINF:-1,tvg-id="108号[785*576]" tvg-name="108号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",108号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.108:5140
+#EXTINF:-1,tvg-id="109号[785*576]" tvg-name="109号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",109号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.109:5140
+#EXTINF:-1,tvg-id="10号[785*576]" tvg-name="10号[785*576]" tvg-logo="https://epg.112114.xyz/logo/10号.png" group-title="其他",10号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.10:5140
+#EXTINF:-1,tvg-id="10号[785*576]" tvg-name="10号[785*576]" tvg-logo="https://epg.112114.xyz/logo/10号.png" group-title="其他",10号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.10:5140
+#EXTINF:-1,tvg-id="10号[785*576]" tvg-name="10号[785*576]" tvg-logo="https://epg.112114.xyz/logo/10号.png" group-title="其他",10号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.10:5140
+#EXTINF:-1,tvg-id="111号[1024*576]" tvg-name="111号[1024*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",111号[1024*576]
+http://49.113.120.76:7890/udp/238.125.4.111:5140
+#EXTINF:-1,tvg-id="111号[768*576]" tvg-name="111号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",111号[768*576]
+http://49.113.120.76:7890/udp/238.125.5.111:5140
+#EXTINF:-1,tvg-id="111号[785*576]" tvg-name="111号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",111号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.111:5140
+#EXTINF:-1,tvg-id="115号[785*576]" tvg-name="115号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",115号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.115:5140
+#EXTINF:-1,tvg-id="117号[785*576]" tvg-name="117号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",117号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.117:5140
+#EXTINF:-1,tvg-id="118号[785*576]" tvg-name="118号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",118号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.118:5140
+#EXTINF:-1,tvg-id="11号[785*576]" tvg-name="11号[785*576]" tvg-logo="https://epg.112114.xyz/logo/11号.png" group-title="其他",11号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.11:5140
+#EXTINF:-1,tvg-id="11号[785*576]" tvg-name="11号[785*576]" tvg-logo="https://epg.112114.xyz/logo/11号.png" group-title="其他",11号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.11:5140
+#EXTINF:-1,tvg-id="120号[785*576]" tvg-name="120号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",120号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.120:5140
+#EXTINF:-1,tvg-id="123号" tvg-name="123号" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",123号
+http://49.113.120.76:7890/udp/238.125.5.123:5140
+#EXTINF:-1,tvg-id="124号" tvg-name="124号" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",124号
+http://49.113.120.76:7890/udp/238.125.5.124:5140
+#EXTINF:-1,tvg-id="125号" tvg-name="125号" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",125号
+http://49.113.120.76:7890/udp/238.125.5.125:5140
+#EXTINF:-1,tvg-id="126号[785*576]" tvg-name="126号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",126号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.126:5140
+#EXTINF:-1,tvg-id="128号[785*576]" tvg-name="128号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",128号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.128:5140
+#EXTINF:-1,tvg-id="12号[785*576]" tvg-name="12号[785*576]" tvg-logo="https://epg.112114.xyz/logo/12号.png" group-title="其他",12号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.12:5140
+#EXTINF:-1,tvg-id="12号[785*576]" tvg-name="12号[785*576]" tvg-logo="https://epg.112114.xyz/logo/12号.png" group-title="其他",12号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.12:5140
+#EXTINF:-1,tvg-id="130号[785*576]" tvg-name="130号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",130号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.130:5140
+#EXTINF:-1,tvg-id="131号[785*576]" tvg-name="131号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",131号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.131:5140
+#EXTINF:-1,tvg-id="134号[785*576]" tvg-name="134号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",134号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.134:5140
+#EXTINF:-1,tvg-id="134号[785*576]" tvg-name="134号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",134号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.134:5140
+#EXTINF:-1,tvg-id="135号[785*576]" tvg-name="135号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",135号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.135:5140
+#EXTINF:-1,tvg-id="135号[785*576]" tvg-name="135号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",135号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.135:5140
+#EXTINF:-1,tvg-id="136号[785*576]" tvg-name="136号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",136号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.136:5140
+#EXTINF:-1,tvg-id="136号[785*576]" tvg-name="136号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",136号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.136:5140
+#EXTINF:-1,tvg-id="136号[785*576]" tvg-name="136号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",136号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.136:5140
+#EXTINF:-1,tvg-id="137号[785*576]" tvg-name="137号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",137号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.137:5140
+#EXTINF:-1,tvg-id="138号[785*576]" tvg-name="138号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",138号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.138:5140
+#EXTINF:-1,tvg-id="139号[768*576]" tvg-name="139号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",139号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.139:5140
+#EXTINF:-1,tvg-id="139号[768*576]" tvg-name="139号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",139号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.139:5140
+#EXTINF:-1,tvg-id="139号[785*576]" tvg-name="139号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",139号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.139:5140
+#EXTINF:-1,tvg-id="13号[785*576]" tvg-name="13号[785*576]" tvg-logo="https://epg.112114.xyz/logo/13号.png" group-title="其他",13号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.13:5140
+#EXTINF:-1,tvg-id="13号[785*576]" tvg-name="13号[785*576]" tvg-logo="https://epg.112114.xyz/logo/13号.png" group-title="其他",13号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.13:5140
+#EXTINF:-1,tvg-id="140号[768*576]" tvg-name="140号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",140号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.140:5140
+#EXTINF:-1,tvg-id="141号[785*576]" tvg-name="141号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",141号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.141:5140
+#EXTINF:-1,tvg-id="142号[785*576]" tvg-name="142号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",142号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.142:5140
+#EXTINF:-1,tvg-id="143号[785*576]" tvg-name="143号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",143号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.143:5140
+#EXTINF:-1,tvg-id="143号[785*576]" tvg-name="143号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",143号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.143:5140
+#EXTINF:-1,tvg-id="143号[785*576]" tvg-name="143号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",143号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.143:5140
+#EXTINF:-1,tvg-id="144号[785*576]" tvg-name="144号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",144号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.144:5140
+#EXTINF:-1,tvg-id="145号[785*576]" tvg-name="145号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",145号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.145:5140
+#EXTINF:-1,tvg-id="145号[785*576]" tvg-name="145号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",145号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.145:5140
+#EXTINF:-1,tvg-id="145号[785*576]" tvg-name="145号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",145号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.145:5140
+#EXTINF:-1,tvg-id="146号[785*576]" tvg-name="146号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",146号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.146:5140
+#EXTINF:-1,tvg-id="148号[785*576]" tvg-name="148号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",148号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.148:5140
+#EXTINF:-1,tvg-id="149号[785*576]" tvg-name="149号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",149号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.149:5140
+#EXTINF:-1,tvg-id="14号[785*576]" tvg-name="14号[785*576]" tvg-logo="https://epg.112114.xyz/logo/14号.png" group-title="其他",14号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.14:5140
+#EXTINF:-1,tvg-id="14号[785*576]" tvg-name="14号[785*576]" tvg-logo="https://epg.112114.xyz/logo/14号.png" group-title="其他",14号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.14:5140
+#EXTINF:-1,tvg-id="152号[768*576]" tvg-name="152号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",152号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.152:5140
+#EXTINF:-1,tvg-id="152号[785*576]" tvg-name="152号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",152号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.152:5140
+#EXTINF:-1,tvg-id="154号[768*576]" tvg-name="154号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",154号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.154:5140
+#EXTINF:-1,tvg-id="154号[768*576]" tvg-name="154号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",154号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.154:5140
+#EXTINF:-1,tvg-id="156号[785*576]" tvg-name="156号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",156号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.156:5140
+#EXTINF:-1,tvg-id="156号[785*576]" tvg-name="156号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",156号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.156:5140
+#EXTINF:-1,tvg-id="157号[1047*576]" tvg-name="157号[1047*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",157号[1047*576]
+http://49.113.120.76:7890/udp/238.125.0.157:5140
+#EXTINF:-1,tvg-id="157号[1047*576]" tvg-name="157号[1047*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",157号[1047*576]
+http://49.113.120.76:7890/udp/238.125.4.157:5140
+#EXTINF:-1,tvg-id="158号[768*576]" tvg-name="158号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",158号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.158:5140
+#EXTINF:-1,tvg-id="158号[768*576]" tvg-name="158号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",158号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.158:5140
+#EXTINF:-1,tvg-id="159号[1280*720]" tvg-name="159号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",159号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.159:5140
+#EXTINF:-1,tvg-id="159号[785*576]" tvg-name="159号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",159号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.159:5140
+#EXTINF:-1,tvg-id="159号[785*576]" tvg-name="159号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",159号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.159:5140
+#EXTINF:-1,tvg-id="15号[785*576]" tvg-name="15号[785*576]" tvg-logo="https://epg.112114.xyz/logo/15号.png" group-title="其他",15号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.15:5140
+#EXTINF:-1,tvg-id="15号[785*576]" tvg-name="15号[785*576]" tvg-logo="https://epg.112114.xyz/logo/15号.png" group-title="其他",15号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.15:5140
+#EXTINF:-1,tvg-id="160号[1280*720]" tvg-name="160号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",160号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.160:5140
+#EXTINF:-1,tvg-id="161号[1280*720]" tvg-name="161号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",161号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.161:5140
+#EXTINF:-1,tvg-id="162号[1280*720]" tvg-name="162号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",162号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.162:5140
+#EXTINF:-1,tvg-id="165号[768*576]" tvg-name="165号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",165号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.165:5140
+#EXTINF:-1,tvg-id="16号[768*576]" tvg-name="16号[768*576]" tvg-logo="https://epg.112114.xyz/logo/16号.png" group-title="其他",16号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.16:5140
+#EXTINF:-1,tvg-id="16号[768*576]" tvg-name="16号[768*576]" tvg-logo="https://epg.112114.xyz/logo/16号.png" group-title="其他",16号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.16:5140
+#EXTINF:-1,tvg-id="16号[785*576]" tvg-name="16号[785*576]" tvg-logo="https://epg.112114.xyz/logo/16号.png" group-title="其他",16号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.16:5140
+#EXTINF:-1,tvg-id="173号[785*576]" tvg-name="173号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",173号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.173:5140
+#EXTINF:-1,tvg-id="17号[768*576]" tvg-name="17号[768*576]" tvg-logo="https://epg.112114.xyz/logo/17号.png" group-title="其他",17号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.17:5140
+#EXTINF:-1,tvg-id="17号[768*576]" tvg-name="17号[768*576]" tvg-logo="https://epg.112114.xyz/logo/17号.png" group-title="其他",17号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.17:5140
+#EXTINF:-1,tvg-id="17号[768*576]" tvg-name="17号[768*576]" tvg-logo="https://epg.112114.xyz/logo/17号.png" group-title="其他",17号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.17:5140
+#EXTINF:-1,tvg-id="183号[1047*576]" tvg-name="183号[1047*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",183号[1047*576]
+http://49.113.120.76:7890/udp/238.125.0.183:5140
+#EXTINF:-1,tvg-id="184号[768*576]" tvg-name="184号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",184号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.184:5140
+#EXTINF:-1,tvg-id="184号[768*576]" tvg-name="184号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",184号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.184:5140
+#EXTINF:-1,tvg-id="186号[785*576]" tvg-name="186号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",186号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.186:5140
+#EXTINF:-1,tvg-id="187号[785*576]" tvg-name="187号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",187号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.187:5140
+#EXTINF:-1,tvg-id="188号[785*576]" tvg-name="188号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",188号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.188:5140
+#EXTINF:-1,tvg-id="189号[785*576]" tvg-name="189号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",189号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.189:5140
+#EXTINF:-1,tvg-id="189号[785*576]" tvg-name="189号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",189号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.189:5140
+#EXTINF:-1,tvg-id="18号[768*576]" tvg-name="18号[768*576]" tvg-logo="https://epg.112114.xyz/logo/18号.png" group-title="其他",18号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.18:5140
+#EXTINF:-1,tvg-id="18号[785*576]" tvg-name="18号[785*576]" tvg-logo="https://epg.112114.xyz/logo/18号.png" group-title="其他",18号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.18:5140
+#EXTINF:-1,tvg-id="18号[785*576]" tvg-name="18号[785*576]" tvg-logo="https://epg.112114.xyz/logo/18号.png" group-title="其他",18号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.18:5140
+#EXTINF:-1,tvg-id="190号[785*576]" tvg-name="190号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",190号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.190:5140
+#EXTINF:-1,tvg-id="192号[785*576]" tvg-name="192号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",192号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.192:5140
+#EXTINF:-1,tvg-id="193号[785*576]" tvg-name="193号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",193号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.193:5140
+#EXTINF:-1,tvg-id="194号[785*576]" tvg-name="194号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",194号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.194:5140
+#EXTINF:-1,tvg-id="195号[785*576]" tvg-name="195号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",195号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.195:5140
+#EXTINF:-1,tvg-id="196号[785*576]" tvg-name="196号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",196号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.196:5140
+#EXTINF:-1,tvg-id="19号[768*576]" tvg-name="19号[768*576]" tvg-logo="https://epg.112114.xyz/logo/19号.png" group-title="其他",19号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.19:5140
+#EXTINF:-1,tvg-id="19号[785*576]" tvg-name="19号[785*576]" tvg-logo="https://epg.112114.xyz/logo/19号.png" group-title="其他",19号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.19:5140
+#EXTINF:-1,tvg-id="19号[785*576]" tvg-name="19号[785*576]" tvg-logo="https://epg.112114.xyz/logo/19号.png" group-title="其他",19号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.19:5140
+#EXTINF:-1,tvg-id="1号[785*576]" tvg-name="1号[785*576]" tvg-logo="https://epg.112114.xyz/logo/1号.png" group-title="其他",1号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.1:5140
+#EXTINF:-1,tvg-id="1号[785*576]" tvg-name="1号[785*576]" tvg-logo="https://epg.112114.xyz/logo/1号.png" group-title="其他",1号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.1:5140
+#EXTINF:-1,tvg-id="1号[785*576]" tvg-name="1号[785*576]" tvg-logo="https://epg.112114.xyz/logo/1号.png" group-title="其他",1号[785*576]
+http://49.113.120.76:7890/udp/238.125.6.1:5140
+#EXTINF:-1,tvg-id="200号[768*576]" tvg-name="200号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",200号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.200:5140
+#EXTINF:-1,tvg-id="200号[768*576]" tvg-name="200号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",200号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.200:5140
+#EXTINF:-1,tvg-id="203号[785*576]" tvg-name="203号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",203号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.203:5140
+#EXTINF:-1,tvg-id="203号[785*576]" tvg-name="203号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",203号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.203:5140
+#EXTINF:-1,tvg-id="204号[785*576]" tvg-name="204号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",204号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.204:5140
+#EXTINF:-1,tvg-id="204号[785*576]" tvg-name="204号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",204号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.204:5140
+#EXTINF:-1,tvg-id="205号[785*576]" tvg-name="205号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",205号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.205:5140
+#EXTINF:-1,tvg-id="205号[785*576]" tvg-name="205号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",205号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.205:5140
+#EXTINF:-1,tvg-id="206号[768*576]" tvg-name="206号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",206号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.206:5140
+#EXTINF:-1,tvg-id="207号[768*576]" tvg-name="207号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",207号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.207:5140
+#EXTINF:-1,tvg-id="207号[768*576]" tvg-name="207号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",207号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.207:5140
+#EXTINF:-1,tvg-id="20号[768*576]" tvg-name="20号[768*576]" tvg-logo="https://epg.112114.xyz/logo/20号.png" group-title="其他",20号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.20:5140
+#EXTINF:-1,tvg-id="20号[785*576]" tvg-name="20号[785*576]" tvg-logo="https://epg.112114.xyz/logo/20号.png" group-title="其他",20号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.20:5140
+#EXTINF:-1,tvg-id="20号[785*576]" tvg-name="20号[785*576]" tvg-logo="https://epg.112114.xyz/logo/20号.png" group-title="其他",20号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.20:5140
+#EXTINF:-1,tvg-id="210号[768*576]" tvg-name="210号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",210号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.210:5140
+#EXTINF:-1,tvg-id="210号[768*576]" tvg-name="210号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",210号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.210:5140
+#EXTINF:-1,tvg-id="211号[785*576]" tvg-name="211号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",211号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.211:5140
+#EXTINF:-1,tvg-id="211号[785*576]" tvg-name="211号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",211号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.211:5140
+#EXTINF:-1,tvg-id="212号[785*576]" tvg-name="212号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",212号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.212:5140
+#EXTINF:-1,tvg-id="212号[785*576]" tvg-name="212号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",212号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.212:5140
+#EXTINF:-1,tvg-id="213号[768*576]" tvg-name="213号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",213号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.213:5140
+#EXTINF:-1,tvg-id="213号[768*576]" tvg-name="213号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",213号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.213:5140
+#EXTINF:-1,tvg-id="216号[768*576]" tvg-name="216号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",216号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.216:5140
+#EXTINF:-1,tvg-id="216号[768*576]" tvg-name="216号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",216号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.216:5140
+#EXTINF:-1,tvg-id="217号[785*576]" tvg-name="217号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",217号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.217:5140
+#EXTINF:-1,tvg-id="217号[785*576]" tvg-name="217号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",217号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.217:5140
+#EXTINF:-1,tvg-id="219号[768*576]" tvg-name="219号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",219号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.219:5140
+#EXTINF:-1,tvg-id="219号[768*576]" tvg-name="219号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",219号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.219:5140
+#EXTINF:-1,tvg-id="21号[785*576]" tvg-name="21号[785*576]" tvg-logo="https://epg.112114.xyz/logo/21号.png" group-title="其他",21号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.21:5140
+#EXTINF:-1,tvg-id="21号[785*576]" tvg-name="21号[785*576]" tvg-logo="https://epg.112114.xyz/logo/21号.png" group-title="其他",21号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.21:5140
+#EXTINF:-1,tvg-id="221号[785*576]" tvg-name="221号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",221号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.221:5140
+#EXTINF:-1,tvg-id="222号[785*576]" tvg-name="222号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",222号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.222:5140
+#EXTINF:-1,tvg-id="222号[785*576]" tvg-name="222号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",222号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.222:5140
+#EXTINF:-1,tvg-id="222号[785*576]" tvg-name="222号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",222号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.222:5140
+#EXTINF:-1,tvg-id="223号[785*576]" tvg-name="223号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",223号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.223:5140
+#EXTINF:-1,tvg-id="223号[785*576]" tvg-name="223号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",223号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.223:5140
+#EXTINF:-1,tvg-id="223号[785*576]" tvg-name="223号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",223号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.223:5140
+#EXTINF:-1,tvg-id="224号[785*576]" tvg-name="224号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",224号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.224:5140
+#EXTINF:-1,tvg-id="224号[785*576]" tvg-name="224号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",224号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.224:5140
+#EXTINF:-1,tvg-id="224号[785*576]" tvg-name="224号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",224号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.224:5140
+#EXTINF:-1,tvg-id="225号[785*576]" tvg-name="225号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",225号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.225:5140
+#EXTINF:-1,tvg-id="225号[785*576]" tvg-name="225号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",225号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.225:5140
+#EXTINF:-1,tvg-id="226号[785*576]" tvg-name="226号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",226号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.226:5140
+#EXTINF:-1,tvg-id="226号[785*576]" tvg-name="226号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",226号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.226:5140
+#EXTINF:-1,tvg-id="227号[768*576]" tvg-name="227号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",227号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.227:5140
+#EXTINF:-1,tvg-id="228号[1024*576]" tvg-name="228号[1024*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",228号[1024*576]
+http://49.113.120.76:7890/udp/238.125.0.228:5140
+#EXTINF:-1,tvg-id="228号[1024*576]" tvg-name="228号[1024*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",228号[1024*576]
+http://49.113.120.76:7890/udp/238.125.4.228:5140
+#EXTINF:-1,tvg-id="229号[768*576]" tvg-name="229号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",229号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.229:5140
+#EXTINF:-1,tvg-id="229号[768*576]" tvg-name="229号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",229号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.229:5140
+#EXTINF:-1,tvg-id="22号[785*576]" tvg-name="22号[785*576]" tvg-logo="https://epg.112114.xyz/logo/22号.png" group-title="其他",22号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.22:5140
+#EXTINF:-1,tvg-id="22号[785*576]" tvg-name="22号[785*576]" tvg-logo="https://epg.112114.xyz/logo/22号.png" group-title="其他",22号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.22:5140
+#EXTINF:-1,tvg-id="231号[768*576]" tvg-name="231号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",231号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.231:5140
+#EXTINF:-1,tvg-id="231号[768*576]" tvg-name="231号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",231号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.231:5140
+#EXTINF:-1,tvg-id="232号[768*576]" tvg-name="232号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",232号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.232:5140
+#EXTINF:-1,tvg-id="232号[768*576]" tvg-name="232号[768*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",232号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.232:5140
+#EXTINF:-1,tvg-id="232号[785*576]" tvg-name="232号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",232号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.232:5140
+#EXTINF:-1,tvg-id="233号[785*576]" tvg-name="233号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",233号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.233:5140
+#EXTINF:-1,tvg-id="23号[768*576]" tvg-name="23号[768*576]" tvg-logo="https://epg.112114.xyz/logo/23号.png" group-title="其他",23号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.23:5140
+#EXTINF:-1,tvg-id="23号[785*576]" tvg-name="23号[785*576]" tvg-logo="https://epg.112114.xyz/logo/23号.png" group-title="其他",23号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.23:5140
+#EXTINF:-1,tvg-id="23号[785*576]" tvg-name="23号[785*576]" tvg-logo="https://epg.112114.xyz/logo/23号.png" group-title="其他",23号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.23:5140
+#EXTINF:-1,tvg-id="241号[785*576]" tvg-name="241号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",241号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.241:5140
+#EXTINF:-1,tvg-id="242号[785*576]" tvg-name="242号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",242号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.242:5140
+#EXTINF:-1,tvg-id="243号[785*576]" tvg-name="243号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",243号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.243:5140
+#EXTINF:-1,tvg-id="243号[785*576]" tvg-name="243号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",243号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.243:5140
+#EXTINF:-1,tvg-id="244号[1280*720]" tvg-name="244号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",244号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.244:5140
+#EXTINF:-1,tvg-id="244号[785*576]" tvg-name="244号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",244号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.244:5140
+#EXTINF:-1,tvg-id="244号[785*576]" tvg-name="244号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",244号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.244:5140
+#EXTINF:-1,tvg-id="246号[1280*720]" tvg-name="246号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",246号[1280*720]
+http://49.113.120.76:7890/udp/238.125.3.246:5140
+#EXTINF:-1,tvg-id="247号[785*576]" tvg-name="247号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",247号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.247:5140
+#EXTINF:-1,tvg-id="247号[785*576]" tvg-name="247号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",247号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.247:5140
+#EXTINF:-1,tvg-id="248号[791*576]" tvg-name="248号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",248号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.248:5140
+#EXTINF:-1,tvg-id="248号[791*576]" tvg-name="248号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",248号[791*576]
+http://49.113.120.76:7890/udp/238.125.4.248:5140
+#EXTINF:-1,tvg-id="249号[791*576]" tvg-name="249号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",249号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.249:5140
+#EXTINF:-1,tvg-id="249号[791*576]" tvg-name="249号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",249号[791*576]
+http://49.113.120.76:7890/udp/238.125.4.249:5140
+#EXTINF:-1,tvg-id="24号[768*576]" tvg-name="24号[768*576]" tvg-logo="https://epg.112114.xyz/logo/24号.png" group-title="其他",24号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.24:5140
+#EXTINF:-1,tvg-id="24号[785*576]" tvg-name="24号[785*576]" tvg-logo="https://epg.112114.xyz/logo/24号.png" group-title="其他",24号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.24:5140
+#EXTINF:-1,tvg-id="24号[785*576]" tvg-name="24号[785*576]" tvg-logo="https://epg.112114.xyz/logo/24号.png" group-title="其他",24号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.24:5140
+#EXTINF:-1,tvg-id="250号[791*576]" tvg-name="250号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",250号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.250:5140
+#EXTINF:-1,tvg-id="250号[791*576]" tvg-name="250号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",250号[791*576]
+http://49.113.120.76:7890/udp/238.125.4.250:5140
+#EXTINF:-1,tvg-id="251号" tvg-name="251号" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",251号
+http://49.113.120.76:7890/udp/238.125.3.251:5140
+#EXTINF:-1,tvg-id="251号[791*576]" tvg-name="251号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",251号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.251:5140
+#EXTINF:-1,tvg-id="251号[791*576]" tvg-name="251号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",251号[791*576]
+http://49.113.120.76:7890/udp/238.125.4.251:5140
+#EXTINF:-1,tvg-id="252号[785*576]" tvg-name="252号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",252号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.252:5140
+#EXTINF:-1,tvg-id="252号[791*576]" tvg-name="252号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",252号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.252:5140
+#EXTINF:-1,tvg-id="253号[785*576]" tvg-name="253号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",253号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.253:5140
+#EXTINF:-1,tvg-id="253号[791*576]" tvg-name="253号[791*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",253号[791*576]
+http://49.113.120.76:7890/udp/238.125.0.253:5140
+#EXTINF:-1,tvg-id="254号[785*576]" tvg-name="254号[785*576]" tvg-logo="https://epg.112114.xyz/logo/号.png" group-title="其他",254号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.254:5140
+#EXTINF:-1,tvg-id="25号[785*576]" tvg-name="25号[785*576]" tvg-logo="https://epg.112114.xyz/logo/25号.png" group-title="其他",25号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.25:5140
+#EXTINF:-1,tvg-id="25号[785*576]" tvg-name="25号[785*576]" tvg-logo="https://epg.112114.xyz/logo/25号.png" group-title="其他",25号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.25:5140
+#EXTINF:-1,tvg-id="25号[785*576]" tvg-name="25号[785*576]" tvg-logo="https://epg.112114.xyz/logo/25号.png" group-title="其他",25号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.25:5140
+#EXTINF:-1,tvg-id="26号[785*576]" tvg-name="26号[785*576]" tvg-logo="https://epg.112114.xyz/logo/26号.png" group-title="其他",26号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.26:5140
+#EXTINF:-1,tvg-id="26号[785*576]" tvg-name="26号[785*576]" tvg-logo="https://epg.112114.xyz/logo/26号.png" group-title="其他",26号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.26:5140
+#EXTINF:-1,tvg-id="27号[785*576]" tvg-name="27号[785*576]" tvg-logo="https://epg.112114.xyz/logo/27号.png" group-title="其他",27号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.27:5140
+#EXTINF:-1,tvg-id="27号[785*576]" tvg-name="27号[785*576]" tvg-logo="https://epg.112114.xyz/logo/27号.png" group-title="其他",27号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.27:5140
+#EXTINF:-1,tvg-id="28号[785*576]" tvg-name="28号[785*576]" tvg-logo="https://epg.112114.xyz/logo/28号.png" group-title="其他",28号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.28:5140
+#EXTINF:-1,tvg-id="28号[785*576]" tvg-name="28号[785*576]" tvg-logo="https://epg.112114.xyz/logo/28号.png" group-title="其他",28号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.28:5140
+#EXTINF:-1,tvg-id="28号[785*576]" tvg-name="28号[785*576]" tvg-logo="https://epg.112114.xyz/logo/28号.png" group-title="其他",28号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.28:5140
+#EXTINF:-1,tvg-id="29号[785*576]" tvg-name="29号[785*576]" tvg-logo="https://epg.112114.xyz/logo/29号.png" group-title="其他",29号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.29:5140
+#EXTINF:-1,tvg-id="29号[785*576]" tvg-name="29号[785*576]" tvg-logo="https://epg.112114.xyz/logo/29号.png" group-title="其他",29号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.29:5140
+#EXTINF:-1,tvg-id="29号[785*576]" tvg-name="29号[785*576]" tvg-logo="https://epg.112114.xyz/logo/29号.png" group-title="其他",29号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.29:5140
+#EXTINF:-1,tvg-id="2号[785*576]" tvg-name="2号[785*576]" tvg-logo="https://epg.112114.xyz/logo/2号.png" group-title="其他",2号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.2:5140
+#EXTINF:-1,tvg-id="2号[785*576]" tvg-name="2号[785*576]" tvg-logo="https://epg.112114.xyz/logo/2号.png" group-title="其他",2号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.2:5140
+#EXTINF:-1,tvg-id="2号[785*576]" tvg-name="2号[785*576]" tvg-logo="https://epg.112114.xyz/logo/2号.png" group-title="其他",2号[785*576]
+http://49.113.120.76:7890/udp/238.125.6.2:5140
+#EXTINF:-1,tvg-id="30号" tvg-name="30号" tvg-logo="https://epg.112114.xyz/logo/30号.png" group-title="其他",30号
+http://49.113.120.76:7890/udp/238.125.1.30:5140
+#EXTINF:-1,tvg-id="30号" tvg-name="30号" tvg-logo="https://epg.112114.xyz/logo/30号.png" group-title="其他",30号
+http://49.113.120.76:7890/udp/238.125.5.30:5140
+#EXTINF:-1,tvg-id="30号[785*576]" tvg-name="30号[785*576]" tvg-logo="https://epg.112114.xyz/logo/30号.png" group-title="其他",30号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.30:5140
+#EXTINF:-1,tvg-id="30号[785*576]" tvg-name="30号[785*576]" tvg-logo="https://epg.112114.xyz/logo/30号.png" group-title="其他",30号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.30:5140
+#EXTINF:-1,tvg-id="30号[785*576]" tvg-name="30号[785*576]" tvg-logo="https://epg.112114.xyz/logo/30号.png" group-title="其他",30号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.30:5140
+#EXTINF:-1,tvg-id="31号[768*576]" tvg-name="31号[768*576]" tvg-logo="https://epg.112114.xyz/logo/31号.png" group-title="其他",31号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.31:5140
+#EXTINF:-1,tvg-id="31号[768*576]" tvg-name="31号[768*576]" tvg-logo="https://epg.112114.xyz/logo/31号.png" group-title="其他",31号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.31:5140
+#EXTINF:-1,tvg-id="31号[785*576]" tvg-name="31号[785*576]" tvg-logo="https://epg.112114.xyz/logo/31号.png" group-title="其他",31号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.31:5140
+#EXTINF:-1,tvg-id="32号[768*576]" tvg-name="32号[768*576]" tvg-logo="https://epg.112114.xyz/logo/32号.png" group-title="其他",32号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.32:5140
+#EXTINF:-1,tvg-id="32号[768*576]" tvg-name="32号[768*576]" tvg-logo="https://epg.112114.xyz/logo/32号.png" group-title="其他",32号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.32:5140
+#EXTINF:-1,tvg-id="32号[785*576]" tvg-name="32号[785*576]" tvg-logo="https://epg.112114.xyz/logo/32号.png" group-title="其他",32号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.32:5140
+#EXTINF:-1,tvg-id="33号[785*576]" tvg-name="33号[785*576]" tvg-logo="https://epg.112114.xyz/logo/33号.png" group-title="其他",33号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.33:5140
+#EXTINF:-1,tvg-id="33号[785*576]" tvg-name="33号[785*576]" tvg-logo="https://epg.112114.xyz/logo/33号.png" group-title="其他",33号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.33:5140
+#EXTINF:-1,tvg-id="34号[785*576]" tvg-name="34号[785*576]" tvg-logo="https://epg.112114.xyz/logo/34号.png" group-title="其他",34号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.34:5140
+#EXTINF:-1,tvg-id="34号[785*576]" tvg-name="34号[785*576]" tvg-logo="https://epg.112114.xyz/logo/34号.png" group-title="其他",34号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.34:5140
+#EXTINF:-1,tvg-id="34号[785*576]" tvg-name="34号[785*576]" tvg-logo="https://epg.112114.xyz/logo/34号.png" group-title="其他",34号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.34:5140
+#EXTINF:-1,tvg-id="35号[785*576]" tvg-name="35号[785*576]" tvg-logo="https://epg.112114.xyz/logo/35号.png" group-title="其他",35号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.35:5140
+#EXTINF:-1,tvg-id="35号[785*576]" tvg-name="35号[785*576]" tvg-logo="https://epg.112114.xyz/logo/35号.png" group-title="其他",35号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.35:5140
+#EXTINF:-1,tvg-id="35号[785*576]" tvg-name="35号[785*576]" tvg-logo="https://epg.112114.xyz/logo/35号.png" group-title="其他",35号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.35:5140
+#EXTINF:-1,tvg-id="36号[768*576]" tvg-name="36号[768*576]" tvg-logo="https://epg.112114.xyz/logo/36号.png" group-title="其他",36号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.36:5140
+#EXTINF:-1,tvg-id="36号[785*576]" tvg-name="36号[785*576]" tvg-logo="https://epg.112114.xyz/logo/36号.png" group-title="其他",36号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.36:5140
+#EXTINF:-1,tvg-id="37号[768*576]" tvg-name="37号[768*576]" tvg-logo="https://epg.112114.xyz/logo/37号.png" group-title="其他",37号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.37:5140
+#EXTINF:-1,tvg-id="37号[768*576]" tvg-name="37号[768*576]" tvg-logo="https://epg.112114.xyz/logo/37号.png" group-title="其他",37号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.37:5140
+#EXTINF:-1,tvg-id="38号[785*576]" tvg-name="38号[785*576]" tvg-logo="https://epg.112114.xyz/logo/38号.png" group-title="其他",38号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.38:5140
+#EXTINF:-1,tvg-id="38号[785*576]" tvg-name="38号[785*576]" tvg-logo="https://epg.112114.xyz/logo/38号.png" group-title="其他",38号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.38:5140
+#EXTINF:-1,tvg-id="39号[785*576]" tvg-name="39号[785*576]" tvg-logo="https://epg.112114.xyz/logo/39号.png" group-title="其他",39号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.39:5140
+#EXTINF:-1,tvg-id="39号[785*576]" tvg-name="39号[785*576]" tvg-logo="https://epg.112114.xyz/logo/39号.png" group-title="其他",39号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.39:5140
+#EXTINF:-1,tvg-id="3号[785*576]" tvg-name="3号[785*576]" tvg-logo="https://epg.112114.xyz/logo/3号.png" group-title="其他",3号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.3:5140
+#EXTINF:-1,tvg-id="3号[785*576]" tvg-name="3号[785*576]" tvg-logo="https://epg.112114.xyz/logo/3号.png" group-title="其他",3号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.3:5140
+#EXTINF:-1,tvg-id="3号[785*576]" tvg-name="3号[785*576]" tvg-logo="https://epg.112114.xyz/logo/3号.png" group-title="其他",3号[785*576]
+http://49.113.120.76:7890/udp/238.125.6.3:5140
+#EXTINF:-1,tvg-id="40号[785*576]" tvg-name="40号[785*576]" tvg-logo="https://epg.112114.xyz/logo/40号.png" group-title="其他",40号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.40:5140
+#EXTINF:-1,tvg-id="40号[785*576]" tvg-name="40号[785*576]" tvg-logo="https://epg.112114.xyz/logo/40号.png" group-title="其他",40号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.40:5140
+#EXTINF:-1,tvg-id="41号[785*576]" tvg-name="41号[785*576]" tvg-logo="https://epg.112114.xyz/logo/41号.png" group-title="其他",41号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.41:5140
+#EXTINF:-1,tvg-id="41号[785*576]" tvg-name="41号[785*576]" tvg-logo="https://epg.112114.xyz/logo/41号.png" group-title="其他",41号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.41:5140
+#EXTINF:-1,tvg-id="42号[785*576]" tvg-name="42号[785*576]" tvg-logo="https://epg.112114.xyz/logo/42号.png" group-title="其他",42号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.42:5140
+#EXTINF:-1,tvg-id="42号[785*576]" tvg-name="42号[785*576]" tvg-logo="https://epg.112114.xyz/logo/42号.png" group-title="其他",42号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.42:5140
+#EXTINF:-1,tvg-id="43号[785*576]" tvg-name="43号[785*576]" tvg-logo="https://epg.112114.xyz/logo/43号.png" group-title="其他",43号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.43:5140
+#EXTINF:-1,tvg-id="43号[785*576]" tvg-name="43号[785*576]" tvg-logo="https://epg.112114.xyz/logo/43号.png" group-title="其他",43号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.43:5140
+#EXTINF:-1,tvg-id="44号[785*576]" tvg-name="44号[785*576]" tvg-logo="https://epg.112114.xyz/logo/44号.png" group-title="其他",44号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.44:5140
+#EXTINF:-1,tvg-id="44号[785*576]" tvg-name="44号[785*576]" tvg-logo="https://epg.112114.xyz/logo/44号.png" group-title="其他",44号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.44:5140
+#EXTINF:-1,tvg-id="45号[785*576]" tvg-name="45号[785*576]" tvg-logo="https://epg.112114.xyz/logo/45号.png" group-title="其他",45号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.45:5140
+#EXTINF:-1,tvg-id="45号[785*576]" tvg-name="45号[785*576]" tvg-logo="https://epg.112114.xyz/logo/45号.png" group-title="其他",45号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.45:5140
+#EXTINF:-1,tvg-id="45号[785*576]" tvg-name="45号[785*576]" tvg-logo="https://epg.112114.xyz/logo/45号.png" group-title="其他",45号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.45:5140
+#EXTINF:-1,tvg-id="46号[785*576]" tvg-name="46号[785*576]" tvg-logo="https://epg.112114.xyz/logo/46号.png" group-title="其他",46号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.46:5140
+#EXTINF:-1,tvg-id="46号[785*576]" tvg-name="46号[785*576]" tvg-logo="https://epg.112114.xyz/logo/46号.png" group-title="其他",46号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.46:5140
+#EXTINF:-1,tvg-id="46号[785*576]" tvg-name="46号[785*576]" tvg-logo="https://epg.112114.xyz/logo/46号.png" group-title="其他",46号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.46:5140
+#EXTINF:-1,tvg-id="47号" tvg-name="47号" tvg-logo="https://epg.112114.xyz/logo/47号.png" group-title="其他",47号
+http://49.113.120.76:7890/udp/238.125.5.47:5140
+#EXTINF:-1,tvg-id="47号[785*576]" tvg-name="47号[785*576]" tvg-logo="https://epg.112114.xyz/logo/47号.png" group-title="其他",47号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.47:5140
+#EXTINF:-1,tvg-id="47号[785*576]" tvg-name="47号[785*576]" tvg-logo="https://epg.112114.xyz/logo/47号.png" group-title="其他",47号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.47:5140
+#EXTINF:-1,tvg-id="48号[785*576]" tvg-name="48号[785*576]" tvg-logo="https://epg.112114.xyz/logo/48号.png" group-title="其他",48号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.48:5140
+#EXTINF:-1,tvg-id="48号[785*576]" tvg-name="48号[785*576]" tvg-logo="https://epg.112114.xyz/logo/48号.png" group-title="其他",48号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.48:5140
+#EXTINF:-1,tvg-id="48号[785*576]" tvg-name="48号[785*576]" tvg-logo="https://epg.112114.xyz/logo/48号.png" group-title="其他",48号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.48:5140
+#EXTINF:-1,tvg-id="49号[785*576]" tvg-name="49号[785*576]" tvg-logo="https://epg.112114.xyz/logo/49号.png" group-title="其他",49号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.49:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.3.127:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.5.120:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.5.122:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.5.76:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.5.92:5140
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K[3840*2160]
+http://49.113.120.76:7890/udp/238.125.5.94:5140
+#EXTINF:-1,tvg-id="4号[768*576]" tvg-name="4号[768*576]" tvg-logo="https://epg.112114.xyz/logo/4号.png" group-title="其他",4号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.4:5140
+#EXTINF:-1,tvg-id="4号[768*576]" tvg-name="4号[768*576]" tvg-logo="https://epg.112114.xyz/logo/4号.png" group-title="其他",4号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.4:5140
+#EXTINF:-1,tvg-id="4号[768*576]" tvg-name="4号[768*576]" tvg-logo="https://epg.112114.xyz/logo/4号.png" group-title="其他",4号[768*576]
+http://49.113.120.76:7890/udp/238.125.6.4:5140
+#EXTINF:-1,tvg-id="50号" tvg-name="50号" tvg-logo="https://epg.112114.xyz/logo/50号.png" group-title="其他",50号
+http://49.113.120.76:7890/udp/238.125.5.50:5140
+#EXTINF:-1,tvg-id="50号[785*576]" tvg-name="50号[785*576]" tvg-logo="https://epg.112114.xyz/logo/50号.png" group-title="其他",50号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.50:5140
+#EXTINF:-1,tvg-id="50号[785*576]" tvg-name="50号[785*576]" tvg-logo="https://epg.112114.xyz/logo/50号.png" group-title="其他",50号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.50:5140
+#EXTINF:-1,tvg-id="50号[785*576]" tvg-name="50号[785*576]" tvg-logo="https://epg.112114.xyz/logo/50号.png" group-title="其他",50号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.50:5140
+#EXTINF:-1,tvg-id="51号[785*576]" tvg-name="51号[785*576]" tvg-logo="https://epg.112114.xyz/logo/51号.png" group-title="其他",51号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.51:5140
+#EXTINF:-1,tvg-id="52号[785*576]" tvg-name="52号[785*576]" tvg-logo="https://epg.112114.xyz/logo/52号.png" group-title="其他",52号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.52:5140
+#EXTINF:-1,tvg-id="52号[785*576]" tvg-name="52号[785*576]" tvg-logo="https://epg.112114.xyz/logo/52号.png" group-title="其他",52号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.52:5140
+#EXTINF:-1,tvg-id="52号[785*576]" tvg-name="52号[785*576]" tvg-logo="https://epg.112114.xyz/logo/52号.png" group-title="其他",52号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.52:5140
+#EXTINF:-1,tvg-id="53号[785*576]" tvg-name="53号[785*576]" tvg-logo="https://epg.112114.xyz/logo/53号.png" group-title="其他",53号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.53:5140
+#EXTINF:-1,tvg-id="53号[785*576]" tvg-name="53号[785*576]" tvg-logo="https://epg.112114.xyz/logo/53号.png" group-title="其他",53号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.53:5140
+#EXTINF:-1,tvg-id="55号[785*576]" tvg-name="55号[785*576]" tvg-logo="https://epg.112114.xyz/logo/55号.png" group-title="其他",55号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.55:5140
+#EXTINF:-1,tvg-id="58号[785*576]" tvg-name="58号[785*576]" tvg-logo="https://epg.112114.xyz/logo/58号.png" group-title="其他",58号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.58:5140
+#EXTINF:-1,tvg-id="58号[785*576]" tvg-name="58号[785*576]" tvg-logo="https://epg.112114.xyz/logo/58号.png" group-title="其他",58号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.58:5140
+#EXTINF:-1,tvg-id="59号" tvg-name="59号" tvg-logo="https://epg.112114.xyz/logo/59号.png" group-title="其他",59号
+http://49.113.120.76:7890/udp/238.125.3.59:5140
+#EXTINF:-1,tvg-id="5号[768*576]" tvg-name="5号[768*576]" tvg-logo="https://epg.112114.xyz/logo/5号.png" group-title="其他",5号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.5:5140
+#EXTINF:-1,tvg-id="5号[768*576]" tvg-name="5号[768*576]" tvg-logo="https://epg.112114.xyz/logo/5号.png" group-title="其他",5号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.5:5140
+#EXTINF:-1,tvg-id="60号" tvg-name="60号" tvg-logo="https://epg.112114.xyz/logo/60号.png" group-title="其他",60号
+http://49.113.120.76:7890/udp/238.125.3.60:5140
+#EXTINF:-1,tvg-id="61号" tvg-name="61号" tvg-logo="https://epg.112114.xyz/logo/61号.png" group-title="其他",61号
+http://49.113.120.76:7890/udp/238.125.3.61:5140
+#EXTINF:-1,tvg-id="62号" tvg-name="62号" tvg-logo="https://epg.112114.xyz/logo/62号.png" group-title="其他",62号
+http://49.113.120.76:7890/udp/238.125.3.62:5140
+#EXTINF:-1,tvg-id="63号" tvg-name="63号" tvg-logo="https://epg.112114.xyz/logo/63号.png" group-title="其他",63号
+http://49.113.120.76:7890/udp/238.125.3.63:5140
+#EXTINF:-1,tvg-id="64号" tvg-name="64号" tvg-logo="https://epg.112114.xyz/logo/64号.png" group-title="其他",64号
+http://49.113.120.76:7890/udp/238.125.3.64:5140
+#EXTINF:-1,tvg-id="65号[785*576]" tvg-name="65号[785*576]" tvg-logo="https://epg.112114.xyz/logo/65号.png" group-title="其他",65号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.65:5140
+#EXTINF:-1,tvg-id="65号[785*576]" tvg-name="65号[785*576]" tvg-logo="https://epg.112114.xyz/logo/65号.png" group-title="其他",65号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.65:5140
+#EXTINF:-1,tvg-id="66号" tvg-name="66号" tvg-logo="https://epg.112114.xyz/logo/66号.png" group-title="其他",66号
+http://49.113.120.76:7890/udp/238.125.3.66:5140
+#EXTINF:-1,tvg-id="67号" tvg-name="67号" tvg-logo="https://epg.112114.xyz/logo/67号.png" group-title="其他",67号
+http://49.113.120.76:7890/udp/238.125.3.67:5140
+#EXTINF:-1,tvg-id="68号" tvg-name="68号" tvg-logo="https://epg.112114.xyz/logo/68号.png" group-title="其他",68号
+http://49.113.120.76:7890/udp/238.125.3.68:5140
+#EXTINF:-1,tvg-id="69号" tvg-name="69号" tvg-logo="https://epg.112114.xyz/logo/69号.png" group-title="其他",69号
+http://49.113.120.76:7890/udp/238.125.3.69:5140
+#EXTINF:-1,tvg-id="6号[768*576]" tvg-name="6号[768*576]" tvg-logo="https://epg.112114.xyz/logo/6号.png" group-title="其他",6号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.6:5140
+#EXTINF:-1,tvg-id="6号[768*576]" tvg-name="6号[768*576]" tvg-logo="https://epg.112114.xyz/logo/6号.png" group-title="其他",6号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.6:5140
+#EXTINF:-1,tvg-id="71号[785*576]" tvg-name="71号[785*576]" tvg-logo="https://epg.112114.xyz/logo/71号.png" group-title="其他",71号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.71:5140
+#EXTINF:-1,tvg-id="72号[785*576]" tvg-name="72号[785*576]" tvg-logo="https://epg.112114.xyz/logo/72号.png" group-title="其他",72号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.72:5140
+#EXTINF:-1,tvg-id="73号[768*576]" tvg-name="73号[768*576]" tvg-logo="https://epg.112114.xyz/logo/73号.png" group-title="其他",73号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.73:5140
+#EXTINF:-1,tvg-id="74号[785*576]" tvg-name="74号[785*576]" tvg-logo="https://epg.112114.xyz/logo/74号.png" group-title="其他",74号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.74:5140
+#EXTINF:-1,tvg-id="75号[768*576]" tvg-name="75号[768*576]" tvg-logo="https://epg.112114.xyz/logo/75号.png" group-title="其他",75号[768*576]
+http://49.113.120.76:7890/udp/238.125.5.75:5140
+#EXTINF:-1,tvg-id="75号[785*576]" tvg-name="75号[785*576]" tvg-logo="https://epg.112114.xyz/logo/75号.png" group-title="其他",75号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.75:5140
+#EXTINF:-1,tvg-id="76号[785*576]" tvg-name="76号[785*576]" tvg-logo="https://epg.112114.xyz/logo/76号.png" group-title="其他",76号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.76:5140
+#EXTINF:-1,tvg-id="77号[768*576]" tvg-name="77号[768*576]" tvg-logo="https://epg.112114.xyz/logo/77号.png" group-title="其他",77号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.77:5140
+#EXTINF:-1,tvg-id="77号[785*576]" tvg-name="77号[785*576]" tvg-logo="https://epg.112114.xyz/logo/77号.png" group-title="其他",77号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.77:5140
+#EXTINF:-1,tvg-id="78号[768*576]" tvg-name="78号[768*576]" tvg-logo="https://epg.112114.xyz/logo/78号.png" group-title="其他",78号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.78:5140
+#EXTINF:-1,tvg-id="79号[768*576]" tvg-name="79号[768*576]" tvg-logo="https://epg.112114.xyz/logo/79号.png" group-title="其他",79号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.79:5140
+#EXTINF:-1,tvg-id="79号[785*576]" tvg-name="79号[785*576]" tvg-logo="https://epg.112114.xyz/logo/79号.png" group-title="其他",79号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.79:5140
+#EXTINF:-1,tvg-id="7号[768*576]" tvg-name="7号[768*576]" tvg-logo="https://epg.112114.xyz/logo/7号.png" group-title="其他",7号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.7:5140
+#EXTINF:-1,tvg-id="7号[768*576]" tvg-name="7号[768*576]" tvg-logo="https://epg.112114.xyz/logo/7号.png" group-title="其他",7号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.7:5140
+#EXTINF:-1,tvg-id="80号[768*576]" tvg-name="80号[768*576]" tvg-logo="https://epg.112114.xyz/logo/80号.png" group-title="其他",80号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.80:5140
+#EXTINF:-1,tvg-id="80号[785*576]" tvg-name="80号[785*576]" tvg-logo="https://epg.112114.xyz/logo/80号.png" group-title="其他",80号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.80:5140
+#EXTINF:-1,tvg-id="81号[768*576]" tvg-name="81号[768*576]" tvg-logo="https://epg.112114.xyz/logo/81号.png" group-title="其他",81号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.81:5140
+#EXTINF:-1,tvg-id="81号[768*576]" tvg-name="81号[768*576]" tvg-logo="https://epg.112114.xyz/logo/81号.png" group-title="其他",81号[768*576]
+http://49.113.120.76:7890/udp/238.125.4.81:5140
+#EXTINF:-1,tvg-id="81号[785*576]" tvg-name="81号[785*576]" tvg-logo="https://epg.112114.xyz/logo/81号.png" group-title="其他",81号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.81:5140
+#EXTINF:-1,tvg-id="82号[1280*720]" tvg-name="82号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/82号.png" group-title="其他",82号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.82:5140
+#EXTINF:-1,tvg-id="82号[785*576]" tvg-name="82号[785*576]" tvg-logo="https://epg.112114.xyz/logo/82号.png" group-title="其他",82号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.82:5140
+#EXTINF:-1,tvg-id="82号[785*576]" tvg-name="82号[785*576]" tvg-logo="https://epg.112114.xyz/logo/82号.png" group-title="其他",82号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.82:5140
+#EXTINF:-1,tvg-id="82号[785*576]" tvg-name="82号[785*576]" tvg-logo="https://epg.112114.xyz/logo/82号.png" group-title="其他",82号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.82:5140
+#EXTINF:-1,tvg-id="83号[1280*720]" tvg-name="83号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/83号.png" group-title="其他",83号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.83:5140
+#EXTINF:-1,tvg-id="83号[785*576]" tvg-name="83号[785*576]" tvg-logo="https://epg.112114.xyz/logo/83号.png" group-title="其他",83号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.83:5140
+#EXTINF:-1,tvg-id="84号[1280*720]" tvg-name="84号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/84号.png" group-title="其他",84号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.84:5140
+#EXTINF:-1,tvg-id="85号[1280*720]" tvg-name="85号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/85号.png" group-title="其他",85号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.85:5140
+#EXTINF:-1,tvg-id="87号[785*576]" tvg-name="87号[785*576]" tvg-logo="https://epg.112114.xyz/logo/87号.png" group-title="其他",87号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.87:5140
+#EXTINF:-1,tvg-id="88号[785*576]" tvg-name="88号[785*576]" tvg-logo="https://epg.112114.xyz/logo/88号.png" group-title="其他",88号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.88:5140
+#EXTINF:-1,tvg-id="89号[785*576]" tvg-name="89号[785*576]" tvg-logo="https://epg.112114.xyz/logo/89号.png" group-title="其他",89号[785*576]
+http://49.113.120.76:7890/udp/238.125.5.89:5140
+#EXTINF:-1,tvg-id="8号[768*576]" tvg-name="8号[768*576]" tvg-logo="https://epg.112114.xyz/logo/8号.png" group-title="其他",8号[768*576]
+http://49.113.120.76:7890/udp/238.125.2.8:5140
+#EXTINF:-1,tvg-id="8号[768*576]" tvg-name="8号[768*576]" tvg-logo="https://epg.112114.xyz/logo/8号.png" group-title="其他",8号[768*576]
+http://49.113.120.76:7890/udp/238.125.6.8:5140
+#EXTINF:-1,tvg-id="8号[785*576]" tvg-name="8号[785*576]" tvg-logo="https://epg.112114.xyz/logo/8号.png" group-title="其他",8号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.8:5140
+#EXTINF:-1,tvg-id="8号[785*576]" tvg-name="8号[785*576]" tvg-logo="https://epg.112114.xyz/logo/8号.png" group-title="其他",8号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.8:5140
+#EXTINF:-1,tvg-id="92号[768*576]" tvg-name="92号[768*576]" tvg-logo="https://epg.112114.xyz/logo/92号.png" group-title="其他",92号[768*576]
+http://49.113.120.76:7890/udp/238.125.0.92:5140
+#EXTINF:-1,tvg-id="93号" tvg-name="93号" tvg-logo="https://epg.112114.xyz/logo/93号.png" group-title="其他",93号
+http://49.113.120.76:7890/udp/238.125.5.93:5140
+#EXTINF:-1,tvg-id="93号[785*576]" tvg-name="93号[785*576]" tvg-logo="https://epg.112114.xyz/logo/93号.png" group-title="其他",93号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.93:5140
+#EXTINF:-1,tvg-id="94号[785*576]" tvg-name="94号[785*576]" tvg-logo="https://epg.112114.xyz/logo/94号.png" group-title="其他",94号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.94:5140
+#EXTINF:-1,tvg-id="98号[1280*720]" tvg-name="98号[1280*720]" tvg-logo="https://epg.112114.xyz/logo/98号.png" group-title="其他",98号[1280*720]
+http://49.113.120.76:7890/udp/238.125.5.98:5140
+#EXTINF:-1,tvg-id="99号[768*576]" tvg-name="99号[768*576]" tvg-logo="https://epg.112114.xyz/logo/99号.png" group-title="其他",99号[768*576]
+http://49.113.120.76:7890/udp/238.125.3.99:5140
+#EXTINF:-1,tvg-id="9号[785*576]" tvg-name="9号[785*576]" tvg-logo="https://epg.112114.xyz/logo/9号.png" group-title="其他",9号[785*576]
+http://49.113.120.76:7890/udp/238.125.0.9:5140
+#EXTINF:-1,tvg-id="9号[785*576]" tvg-name="9号[785*576]" tvg-logo="https://epg.112114.xyz/logo/9号.png" group-title="其他",9号[785*576]
+http://49.113.120.76:7890/udp/238.125.3.9:5140
+#EXTINF:-1,tvg-id="9号[785*576]" tvg-name="9号[785*576]" tvg-logo="https://epg.112114.xyz/logo/9号.png" group-title="其他",9号[785*576]
+http://49.113.120.76:7890/udp/238.125.4.9:5140
