@@ -48,6 +48,9 @@ http://222.209.54.118:9977/udp/239.93.1.191:5140
 http://222.209.54.118:9977/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB4K.png" group-title="UHD-IPV4",中录动漫4K专区
 http://222.209.54.118:9977/udp/239.93.1.188:5140
+#EXTINF:-1,tvg-id="天翼百事通4k" tvg-name="天翼百事通4k" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",天翼百事通4k
+http://222.209.54.118:9977/udp/239.93.1.16:5140
+
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
 http://218.82.119.104:10000/udp/239.45.3.107:5140
