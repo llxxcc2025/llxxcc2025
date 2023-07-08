@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K超高清",爱上4K专区
 http://182.138.160.182:8888/udp/239.93.0.97:5140
+http://182.138.160.182:8888/udp/239.93.1.251:8224
+http://182.138.160.182:8888/udp/239.93.1.113:5140
 #EXTINF:-1,tvg-id="4K超高清电影专区" tvg-name="4K超高清电影专区" tvg-logo="https://epg.112114.xyz/logo/4K电影专区.png" group-title="4K超高清",4K超高清电影专区
 http://182.138.160.182:8888/udp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.112114.xyz/logo/4K乐享专区.png" group-title="4K超高清",4K乐享超清专区
@@ -15,8 +17,10 @@ http://182.138.160.182:8888/udp/239.93.1.197:5140
 http://182.138.160.182:8888/udp/239.93.1.188:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://182.138.160.182:8888/udp/239.93.1.9:2192
+http://182.138.160.182:8888/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯HD
 http://182.138.160.182:8888/udp/239.93.1.4:2191
+http://182.138.160.182:8888/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="channel v" tvg-name="channel v" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="香港",channel v
 http://182.138.160.182:8888/udp/239.93.1.7:2194
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
