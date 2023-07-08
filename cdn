@@ -10,4 +10,15 @@ http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/PLTV/1/224/3221230961/1.m3u8
-
+#EXTINF:0,【陕西西安】频道ID[41]【HSMEDIA】陕西卫视
+http://1.85.6.42:8888/newlive/live/hls/41/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
+#EXTINF:0,【陕西西安】频道ID[53]【HSMEDIA】新闻资讯
+http://1.85.6.42:8888/newlive/live/hls/53/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=53
+#EXTINF:0,【陕西西安】频道ID[54]【HSMEDIA】都市青春
+http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=54
+#EXTINF:0,【陕西西安】频道ID[55]【HSMEDIA】生活
+http://1.85.6.42:8888/newlive/live/hls/55/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=55
+#EXTINF:0,【陕西西安】频道ID[56]【HSMEDIA】影视
+http://1.85.6.42:8888/newlive/live/hls/56/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=56
+#EXTINF:0,【陕西西安】频道ID[57]【HSMEDIA】公共
+http://1.85.6.42:8888/newlive/live/hls/57/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=57
