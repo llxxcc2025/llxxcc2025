@@ -13,7 +13,7 @@ http://113.117.74.20:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台7
 http://171.221.117.6:4000/udp/239.93.1.4:2191
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台8
-http://125.122.91.173:82/udp/233.50.200.192:5140
+http://220.187.81.187:8888/udp/233.50.200.192:5140
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰资讯",凤凰资讯台9
 http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
 
@@ -34,7 +34,7 @@ http://113.117.74.20:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台8
 http://171.221.117.6:4000/udp/239.93.1.9:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台9
-http://125.122.91.173:82/udp/233.50.200.191:5140
+http://220.187.81.187:8888/udp/233.50.200.191:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰中文",凤凰中文台10
 http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
 
