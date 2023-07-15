@@ -23,7 +23,7 @@ http://192.168.100.1:3456/btime_app.php?id=btvsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 http://192.168.100.1:3456/btime_app.php?id=btvxw
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
-http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
+http://221.220.130.233:4022/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
 http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
 
