@@ -25,7 +25,7 @@ http://192.168.100.1:3456/btime_app.php?id=btvxw
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
 http://221.220.130.233:4022/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
-http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
+http://221.220.130.233:4022/rtp/239.3.1.243:8000
 
 
 #EXTINF:-1,tvg-id="KBS1高画质" tvg-name="KBS1高画质" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质.png" group-title="KBS",KBS1高画质
