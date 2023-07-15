@@ -25,8 +25,6 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 http://221.220.130.233:4022/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="国内体育",黑龙江文体
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
-#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="国内体育",山东体育
-http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
 #EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生.png" group-title="国内体育",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 #EXTINF:-1,tvg-id="陕西体育" tvg-name="陕西体育" tvg-logo="https://upload.112114.xyz/logo/陕西体育休闲.png" group-title="国内体育",陕西体育
@@ -34,7 +32,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="国内体育",广州竞赛
 http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="国内体育",广东体育
-http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="国内体育",爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
@@ -43,24 +40,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3
 
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾体育",纬来体育
 rtmp://9sv2.mine.nu/sat/tv721
-http://awei.beimua.com/iptv.php?id=73
 http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育1台
-http://9sv2.mine.nu/sat/md021
-#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台湾体育",ELTA体育2台
-rtmp://9sv2.mine.nu/sat/md031
-rtmp://119.81.124.89/sat/md031.flv
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN1
-http://129fy28039.zicp.fun:8181/tsfile/live/1204_1.m3u8
-rtmp://119.81.124.89/sat/tv731
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台湾体育",ELEVEN2
-http://129fy28039.zicp.fun:8181/tsfile/live/1216_1.m3u8
 
-
-#EXTINF:-1,tvg-id="sky sports prcmicr" tvg-name="sky sports prcmicr" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports prcmicr
- http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-#EXTINF:-1,tvg-id="sky sports arena" tvg-name="sky sports arena" tvg-logo="https://upload.112114.xyz/logo/SKYTV.png" group-title="国外体育",sky sports arena
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
 #EXTINF:-1,tvg-id="sky sports F1" tvg-name="sky sports F1" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports F1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
 #EXTINF:-1,tvg-id="sky sports football" tvg-name="sky sports football" tvg-logo="https://upload.112114.xyz/logo/SKYSPORT.png" group-title="国外体育",sky sports football
