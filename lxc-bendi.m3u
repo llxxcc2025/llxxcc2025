@@ -10,30 +10,18 @@ http://192.168.100.1:3456/amlh.php
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="北京",北京卫视
 http://192.168.100.1:3456/btime_app.php?id=bjws
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="北京",北京卫视
-http://lu1.cc/itv/php/bjcd1.php?id=bjws
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="北京",卡酷少儿
 http://192.168.100.1:3456/btime_app.php?id=kaku
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
 http://192.168.100.1:3456/btime_app.php?id=btvwy
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
-http://lu1.cc/itv/bjtv/btime1.php?id=bjwy
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
 http://192.168.100.1:3456/btime_app.php?id=btvkj
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
-http://lu1.cc/itv/php/cqyx.php?id=bjjskj
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
 http://192.168.100.1:3456/btime_app.php?id=btvys
-#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
-http://lu1.cc/itv/bjtv/btime1.php?id=bjys
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
 http://192.168.100.1:3456/btime_app.php?id=btvsh
-#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
-http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 http://192.168.100.1:3456/btime_app.php?id=btvxw
-#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
-http://lu1.cc/itv/bjtv/btime1.php?id=bjxw
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
 http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
