@@ -57,6 +57,8 @@ http://cd.gotonas.com:8888/udp/239.93.0.66:5140
 http://cd.gotonas.com:8888/udp/239.93.1.29:6000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15高清
 http://cd.gotonas.com:8888/udp/239.93.0.103:5140
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",cctv16
+http://cd.gotonas.com:8888/udp/239.93.42.53:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
 http://cd.gotonas.com:8888/udp/239.93.0.92:5140
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
