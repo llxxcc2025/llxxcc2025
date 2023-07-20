@@ -27,6 +27,26 @@ http://221.220.130.233:4022/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
 http://221.220.130.233:4022/rtp/239.3.1.243:8000
 
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://192.168.100.1:3456/zsj.php?id=zjws
+#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江
+http://192.168.100.1:3456/zsj.php?idzjqj
+#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+http://192.168.100.1:3456/zsj.php?idzjjjsh
+#EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+http://192.168.100.1:3456/zsj.php?idzjjkys
+#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+http://192.168.100.1:3456/zsj.php?idzjmsxx
+#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://epg.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
+http://192.168.100.1:3456/zsj.php?idzjxw
+#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
+http://192.168.100.1:3456/zsj.php?idzjse
+#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
+http://192.168.100.1:3456/zsj.php?idzjgj
+#EXTINF:-1,tvg-id="浙江好易购" tvg-name="浙江好易购" tvg-logo="https://epg.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
+http://192.168.100.1:3456/zsj.php?idzjhyg
+#EXTINF:-1,tvg-id="浙江之江纪录" tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.xyz/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+http://192.168.100.1:3456/zsj.php?idzjzjjl
 
 #EXTINF:-1,tvg-id="KBS1高画质" tvg-name="KBS1高画质" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质.png" group-title="KBS",KBS1高画质
 http://192.168.100.1:3456/kbs.php?id=11&p=0
