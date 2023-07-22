@@ -3,6 +3,9 @@
 https://reuters-reutersnow-1.plex.wurl.com/manifest/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1,tvg-id="Cum4k" tvg-name="Cum4k" tvg-logo="https://upload.112114.xyz/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="UHD-IPV4",Cum4k UHD -18+  
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
+http://66.181.39.224/ml.php?id=inews_twn
+
 
 #EXTINF:-1,tvg-id="阳城台" tvg-name="阳城台" tvg-logo="https://epg.112114.xyz/logo/阳城台.png" group-title="其他",阳城台
 http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
