@@ -31,8 +31,10 @@ http://221.220.130.233:4022/rtp/239.3.1.243:8000
 http://192.168.100.1:3456/zsj.php?id=zjws
 #EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江
 http://192.168.100.1:3456/zsj.php?id=zjqj
+http://125.125.239.239:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://192.168.100.1:3456/zsj.php?id=zjjjsh
+http://125.125.239.239:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://192.168.100.1:3456/zsj.php?id=zjjkys
 #EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
