@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,陕视新闻
 http://192.168.100.1:35455/douyin/269875672114
+#EXTINF:-1,tvg-id="大象新闻" tvg-name="大象新闻" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_932c080d8ee0445da29f2daa9b522c8d~c5_300x300.jpeg?from=2956013662" group-title="其他",大象新闻
+http://192.168.100.1:35455/douyin/238099515779
+
 #EXTINF:-1,星期日直播
 http://192.168.100.1:35455/douyu/1089406
 #EXTINF:-1,嘿丝科技
