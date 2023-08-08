@@ -48,10 +48,16 @@ http://222.211.98.154:9100/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
 http://101.83.37.206:10000/udp/239.45.3.107:5140
+http://101.83.37.206:10000/udp/239.45.1.42:5140
+http://101.83.37.206:10000/udp/239.45.1.9:5140
+http://101.83.37.206:10000/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K纪实
 http://101.83.37.206:10000/udp/239.45.1.10:5140
+#EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K测试
+http://101.83.37.206:10000/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://upload.112114.xyz/logo/bestv%E5%AE%A3%E4%BC%A0%E5%8A%A8%E7%94%BB.png" group-title="UHD-IPV4",百事通4K儿童
 http://101.83.37.206:10000/udp/239.45.1.1:5140
+http://101.83.37.206:10000/udp/239.45.1.11:5140
 
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="8K-IPV4",北京纪实科教8K
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
