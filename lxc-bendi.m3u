@@ -5,6 +5,9 @@ http://192.168.100.1:5678/cctv4k.php
 http://192.168.100.1:5678/cctv4k2.php
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
 http://192.168.100.1:3456/amlh.php
+#EXTINF:-1,tvg-id="抖音" tvg-name="抖音" tvg-logo="https://epg.112114.xyz/logo/抖音.png" group-title="其他",抖音
+http://192.168.100.1:35455/douyin/679756377403
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教8K
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
