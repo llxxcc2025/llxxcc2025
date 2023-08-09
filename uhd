@@ -10,13 +10,13 @@ http://192.168.100.1:2345/earthtv.php
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://221.220.130.233:4022/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
-http://115.53.86.178:8888/udp/225.1.4.254:1300
+http://182.123.208.241:12345/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
 #EXTINF:-1,tvg-id="4K花园高清" tvg-name="4K花园高清" tvg-logo="https://epg.112114.xyz/logo/4K花园.png" group-title="UHD-IPV4",4K花园高清
-http://222.94.90.78:8686/udp/239.49.8.205:6000
+http://114.231.243.12:20000/udp/239.49.8.205:6000
 #EXTINF:-1,tvg-id="4K现场高清" tvg-name="4K现场高清" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E7%9C%8B4K.png" group-title="UHD-IPV4",4K现场高清
-http://222.94.90.78:8686/udp/239.49.8.222:6000
+http://114.231.243.12:20000/udp/239.49.8.222:6000
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
@@ -24,7 +24,7 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://222.211.98.154:9100/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="UHD-IPV6",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-http://101.83.37.206:10000/udp/239.45.1.4:5140
+http://114.95.200.64:10001/udp/239.45.1.4:5140
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://upload.112114.xyz/logo/4K%E4%BF%AE%E5%A4%8D.png" group-title="UHD-IPV6",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -48,17 +48,17 @@ http://222.211.98.154:9100/udp/239.93.1.197:5140
 http://222.211.98.154:9100/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
-http://101.83.37.206:10000/udp/239.45.3.107:5140
-http://101.83.37.206:10000/udp/239.45.1.42:5140
-http://101.83.37.206:10000/udp/239.45.1.9:5140
-http://101.83.37.206:10000/udp/239.45.3.107:5140
+http://114.95.200.64:10001/udp/239.45.3.107:5140
+http://114.95.200.64:10001/udp/239.45.1.42:5140
+http://114.95.200.64:10001/udp/239.45.1.9:5140
+http://114.95.200.64:10001/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K纪实
-http://101.83.37.206:10000/udp/239.45.1.10:5140
+http://114.95.200.64:10001/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K测试
-http://101.83.37.206:10000/udp/239.45.1.108:5140
+http://114.95.200.64:10001/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://upload.112114.xyz/logo/bestv%E5%AE%A3%E4%BC%A0%E5%8A%A8%E7%94%BB.png" group-title="UHD-IPV4",百事通4K儿童
-http://101.83.37.206:10000/udp/239.45.1.1:5140
-http://101.83.37.206:10000/udp/239.45.1.11:5140
+http://114.95.200.64:10001/udp/239.45.1.1:5140
+http://114.95.200.64:10001/udp/239.45.1.11:5140
 
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="8K-IPV4",北京纪实科教8K
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
