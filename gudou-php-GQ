@@ -11,6 +11,8 @@ http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/MINGZHU.png" group-title="港澳台",明珠台
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1351_4500
+#EXTINF:-1,tvg-id="澳门澳视" tvg-name="澳门澳视" tvg-logo="https://upload.112114.xyz/logo/AOSHI1.png" group-title="其他",澳门澳视
+http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1352_4500
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1402_4500
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
