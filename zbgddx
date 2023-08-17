@@ -32,15 +32,15 @@ http://61.140.125.220:10000/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通高清
 http://61.140.125.220:10000/udp/239.77.0.179:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺 4K50p
-http://61.140.125.220:10000/udp/239.77.1.236:5146
+http://121.33.160.102:8188/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺 4K
-http://61.140.125.220:10000/udp/239.77.1.237:5146
+http://121.33.160.102:8188/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺(4k)
 http://61.140.125.220:10000/udp/239.77.0.244:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺 宽色域(4k)
-http://61.140.125.220:10000/udp/239.77.0.246:5146
+http://121.33.160.102:8188/udp/239.77.0.246:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺(4k)
-http://61.140.125.220:10000/udp/239.77.0.245:5146
+http://121.33.160.102:8188/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺 宽色域AVS2(4k) (AVS2)
 http://61.140.125.220:10000/udp/239.77.0.252:5146
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合高清
