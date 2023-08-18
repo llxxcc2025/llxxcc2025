@@ -12,6 +12,14 @@ http://192.168.100.1:35455/douyin/191844221073
 #EXTINF:-1,tvg-id="抖音" tvg-name="抖音" tvg-logo="https://epg.112114.xyz/logo/抖音.png" group-title="其他",甜奈
 http://192.168.100.1:35455/douyin/456066026839
 
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://192.168.100.1:4567/kxm.php?id=xmws
+#EXTINF:-1,tvg-id="厦门1" tvg-name="厦门1" tvg-logo="https://epg.112114.xyz/logo/厦门1.png" group-title="其他",厦门1
+http://192.168.100.1:4567/kxm.php?id=xm1
+#EXTINF:-1,tvg-id="厦门2" tvg-name="厦门2" tvg-logo="https://epg.112114.xyz/logo/厦门2.png" group-title="其他",厦门2
+http://192.168.100.1:4567/kxm.php?id=xm2
+#EXTINF:-1,tvg-id="厦门移动" tvg-name="厦门移动" tvg-logo="https://epg.112114.xyz/logo/厦门移动.png" group-title="其他",厦门移动
+http://192.168.100.1:4567/kxm.php?id=xmyd
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教8K
 http://192.168.100.1:3456/bjtv.php?id=brtv8k
