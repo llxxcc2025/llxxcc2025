@@ -6,6 +6,8 @@ http://101.83.37.206:10000/udp/239.45.1.4:5140
 http://101.83.37.206:10000/udp/239.45.1.23:5140
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://epg.112114.xyz/logo/百事通4K电影.png" group-title="其他",百事通4K电影
 http://101.83.37.206:10000/udp/239.45.3.107:5140
+http://101.85.155.232:8188/udp/239.45.1.42:5140
+http://101.85.155.232:8188/udp/239.45.1.9:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://epg.112114.xyz/logo/百事通4K纪实.png" group-title="其他",百事通4K纪实
 http://101.83.37.206:10000/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://epg.112114.xyz/logo/百事通4K儿童.png" group-title="其他",百事通4K儿童
