@@ -47,7 +47,6 @@ http://222.209.244.139:8188/udp/239.93.1.188:5140
 http://101.85.155.232:8188/udp/239.45.3.107:5140
 http://101.85.155.232:8188/udp/239.45.1.42:5140
 http://101.85.155.232:8188/udp/239.45.1.9:5140
-http://101.85.155.232:8188/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K纪实
 http://101.85.155.232:8188/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K测试
