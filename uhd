@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
-http://77.72.23.28/iptv/ADYDWLKVER8U7V/5001/index.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
+#EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD-IPV4",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://upload.112114.xyz/logo/BBC%20Earth.png" group-title="UHD-IPV4",earthtv
