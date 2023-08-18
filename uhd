@@ -50,7 +50,6 @@ http://101.85.155.232:8188/udp/239.45.1.10:5140
 http://101.85.155.232:8188/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://upload.112114.xyz/logo/bestv%E5%AE%A3%E4%BC%A0%E5%8A%A8%E7%94%BB.png" group-title="UHD-IPV4",百事通4K儿童
 http://101.85.155.232:8188/udp/239.45.1.1:5140
-http://101.85.155.232:8188/udp/239.45.1.11:5140
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV-4K
 http://192.168.100.1:5678/sxg.php?id=ys4Kcq_2000
