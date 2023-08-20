@@ -3,6 +3,10 @@
 http://192.168.100.1:5678/cctv4k.php
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清2
 http://192.168.100.1:5678/cctv4k2.php
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="UHD-IPV6",CCTV-8K
+http://192.168.100.1:5678/xxtv8k.php
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="UHD-IPV6",CCTV-8K-50fps
+http://192.168.100.1:5678/xx8k50fps.php
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
 http://192.168.100.1:3456/amlh.php
 #EXTINF:-1,tvg-id="抖音" tvg-name="抖音" tvg-logo="https://epg.112114.xyz/logo/抖音.png" group-title="其他",四个女老六
