@@ -20,7 +20,7 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://222.209.244.139:8188/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="UHD-IPV6",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-http://101.85.155.232:8188/udp/239.45.1.4:5140
+http://218.80.67.232:58888/udp/239.45.1.4:5140
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://upload.112114.xyz/logo/4K%E4%BF%AE%E5%A4%8D.png" group-title="UHD-IPV6",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -45,13 +45,13 @@ http://222.209.244.139:8188/udp/239.93.1.197:5140
 http://222.209.244.139:8188/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
-http://101.85.155.232:8188/udp/239.45.3.107:5140
+http://218.80.67.232:58888/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K纪实
-http://101.85.155.232:8188/udp/239.45.1.10:5140
+http://218.80.67.232:58888/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K测试
-http://101.85.155.232:8188/udp/239.45.1.108:5140
+http://218.80.67.232:58888/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://upload.112114.xyz/logo/bestv%E5%AE%A3%E4%BC%A0%E5%8A%A8%E7%94%BB.png" group-title="UHD-IPV4",百事通4K儿童
-http://101.85.155.232:8188/udp/239.45.1.1:5140
+http://218.80.67.232:58888/udp/239.45.1.1:5140
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV-4K
 http://192.168.100.1:5678/sxg.php?id=ys4Kcq_2000
