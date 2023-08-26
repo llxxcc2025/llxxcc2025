@@ -12,7 +12,7 @@ http://192.168.100.1:2345/earthtv.php
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://221.220.130.233:4022/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
-http://61.52.47.117:8188/udp/225.1.4.254:1300
+http://115.60.241.249:2000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
