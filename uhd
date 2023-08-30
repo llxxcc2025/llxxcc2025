@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
 #EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD-IPV4",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ffszjQ-bDk/ts
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -11,7 +10,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://192.168.100.1:2345/earthtv.php
 
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
-http://221.220.130.233:4022/rtp/239.3.1.249:8001
+http://124.65.6.103:20000/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
 http://115.60.241.249:2000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
