@@ -21,6 +21,8 @@ http://222.209.244.139:8188/udp/239.93.1.4:2191
 http://222.209.244.139:8188/udp/239.93.1.7:2194
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
 http://222.209.244.139:8188/udp/239.93.1.10:2193
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://222.209.244.139:8188/udp/239.93.1.196:5140
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实高清
 http://222.209.244.139:8188/udp/239.93.1.137:5140
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实高清
