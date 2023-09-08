@@ -2,9 +2,9 @@
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视新闻",CCTV-4中文国际
 http://192.168.100.1:3456/youtube.php?id=9sE12tg3CmA
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港新闻",凤凰卫视资讯台
-http://192.168.100.1:3456/youtube.php?id=dmDg7NfUoSw
+http://192.168.100.1:3456/youtube.php?id=if6yQq_JJyY
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
-http://192.168.100.1:3456/youtube.php?id=B7Zp3d6xXWw
+http://192.168.100.1:3456/youtube.php?id=6IquAgfvYmc
 #EXTINF:-1,tvg-id="CTI中天新聞" tvg-name="CTI中天新聞" tvg-logo="https://upload.112114.xyz/logo/ZHONGTIANNEW.png" group-title="台湾新闻",CTI中天新聞
 http://192.168.100.1:3456/youtube.php?id=oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾新闻",中视新闻台
@@ -38,6 +38,6 @@ http://192.168.100.1:3456/youtube.php?id=XWq5kBlakcQ
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BloombergTV.png" group-title="国外新闻",Bloomberg
 http://192.168.100.1:3456/youtube.php?id=DxmDPrfinXY
 #EXTINF:-1,tvg-id="KBS WORLD TV" tvg-name="KBS WORLD TV" tvg-logo="https://upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国外新闻",KBS WORLD TV
-http://192.168.100.1:3456/youtube.php?id=HnfpTMtfFk8
+http://192.168.100.1:3456/youtube.php?id=WhLoSt4vGFo
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://upload.112114.xyz/logo/ANN-NEWS.png" group-title="国外新闻",ANN
 http://192.168.100.1:3456/youtube.php?id=coYw-eVU0Ks
