@@ -5,6 +5,7 @@ http://192.168.100.1:3456/youtube.php?id=9sE12tg3CmA
 http://192.168.100.1:3456/youtube.php?id=if6yQq_JJyY
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
 http://192.168.100.1:3456/youtube.php?id=6IquAgfvYmc
+http://192.168.100.1:3456/youtube.php?id=V8ue1aoEOEQ
 #EXTINF:-1,tvg-id="CTI中天新聞" tvg-name="CTI中天新聞" tvg-logo="https://upload.112114.xyz/logo/ZHONGTIANNEW.png" group-title="台湾新闻",CTI中天新聞
 http://192.168.100.1:3456/youtube.php?id=oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾新闻",中视新闻台
