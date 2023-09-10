@@ -6,6 +6,22 @@ http://192.168.100.1:3456/fht.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台
 http://192.168.100.1:3456/fht.php?id=fhhk
 
+#EXTINF:-1,tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://epg.112114.xyz/logo/西安新闻综合.png" group-title="西安",西安新闻综合
+http://192.168.100.1:3456/sxxa.php?id=xaxw
+#EXTINF:-1,tvg-id="西安都市" tvg-name="西安都市" tvg-logo="https://epg.112114.xyz/logo/西安都市.png" group-title="西安",西安都市频道
+http://192.168.100.1:3456/sxxa.php?id=xads
+#EXTINF:-1,tvg-id="西安商务资讯" tvg-name="西安商务资讯" tvg-logo="https://epg.112114.xyz/logo/西安商务资讯.png" group-title="西安",西安商务资讯
+http://192.168.100.1:3456/sxxa.php?id=xasw
+#EXTINF:-1,tvg-id="西安影视" tvg-name="西安影视" tvg-logo="https://epg.112114.xyz/logo/西安影视.png" group-title="西安",西安影视频道
+http://192.168.100.1:3456/sxxa.php?id=xays
+#EXTINF:-1,tvg-id="西安丝路" tvg-name="西安丝路" tvg-logo="https://epg.112114.xyz/logo/西安丝路.png" group-title="西安",西安丝路频道
+http://192.168.100.1:3456/sxxa.php?id=xasl
+#EXTINF:-1,tvg-id="西安乐购购物" tvg-name="西安乐购购物" tvg-logo="https://epg.112114.xyz/logo/西安乐购购物.png" group-title="西安",西安乐购购物
+http://192.168.100.1:3456/sxxa.php?id=xalg
+#EXTINF:-1,tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="https://epg.112114.xyz/logo/西安移动电视.png" group-title="西安",西安移动电视
+http://192.168.100.1:3456/sxxa.php?id=xayd
+
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清1
 http://192.168.100.1:5678/cctv4k.php
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清2
