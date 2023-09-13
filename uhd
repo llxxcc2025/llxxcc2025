@@ -17,6 +17,7 @@ http://123.118.148.216:4022/rtp/239.3.1.243:8000
 http://115.60.241.249:2000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
+http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 http://222.209.244.139:8188/udp/239.93.0.97:5140
@@ -37,6 +38,12 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u
 http://222.209.244.139:8188/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4KCGQ.png" group-title="UHD-IPV6",4K超高清电影
 http://192.168.100.1:5678/sxg.php?id=emdy4k_8000
+http://r.jdshipin.com/5DWJk
+http://r.jdshipin.com/B7sfp
+#EXTINF:-1,tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="其他",峨眉电影
+http://r.jdshipin.com/XIjta
+http://r.jdshipin.com/vFgDS
+
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
 http://222.209.244.139:8188/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64K.png" group-title="UHD-IPV4",亲子趣学4k专区
@@ -82,6 +89,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://upload.112114.xyz/logo/4K.png" group-title="4K-IPV6",江苏移动4K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230854/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230888/1.m3u8
 #EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="8K-IPV6",江苏移动8K测试
