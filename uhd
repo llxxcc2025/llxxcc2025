@@ -11,6 +11,7 @@ http://192.168.100.1:2345/earthtv.php
 
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://123.118.148.216:4022/rtp/239.3.1.249:8001
+http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
 http://123.118.148.216:4022/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
@@ -44,8 +45,11 @@ http://r.jdshipin.com/B7sfp
 http://r.jdshipin.com/XIjta
 http://r.jdshipin.com/vFgDS
 
+#EXTINF:-1,tvg-id="四川乐享4K" tvg-name="四川乐享4K" tvg-logo="https://epg.112114.xyz/logo/四川乐享4K.png" group-title="四川",四川乐享4K
+http://nas.jdshipin.com:8801/iptv.php?id=lx4k
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
 http://222.209.244.139:8188/udp/239.93.42.33:5140
+http://nas.jdshipin.com:8801/iptv.php?id=xy4k
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://upload.112114.xyz/logo/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64K.png" group-title="UHD-IPV4",亲子趣学4k专区
 http://222.209.244.139:8188/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://upload.112114.xyz/logo/%E6%B4%A5%E6%B4%A5%E6%82%A6%E8%AF%BB4K.png" group-title="UHD-IPV4",津津悦读4K专区
@@ -63,6 +67,11 @@ http://218.80.67.232:58888/udp/239.45.1.108:5140
 http://218.80.67.232:58888/udp/239.45.1.1:5140
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://epg.112114.xyz/logo/广州南国都市..png" group-title="其他",广州南国都市.1080P
 https://justsometime.gztv.com/sec/shenghuos.m3u8
+http://nas.jdshipin.com:8801/iptv.php?id=ngds4k
+#EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
+http://nas.jdshipin.com:8801/iptv.php?id=hn4k
+#EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="云南",云南4K
+http://nas.jdshipin.com:8801/iptv.php?id=yn4k
 
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV-4K
