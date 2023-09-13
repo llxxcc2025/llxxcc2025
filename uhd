@@ -67,7 +67,6 @@ http://218.80.67.232:58888/udp/239.45.1.108:5140
 http://218.80.67.232:58888/udp/239.45.1.1:5140
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://epg.112114.xyz/logo/广州南国都市..png" group-title="其他",广州南国都市.1080P
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-http://nas.jdshipin.com:8801/iptv.php?id=ngds4k
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
 http://nas.jdshipin.com:8801/iptv.php?id=hn4k
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="云南",云南4K
