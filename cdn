@@ -6,6 +6,7 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 http://120.132.122.244:59847/hls/82/index.m3u8
 http://r.jdshipin.com/CkuBd
+http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://r.jdshipin.com/ZQ4kN
 http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
