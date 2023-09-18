@@ -74,7 +74,9 @@ http://nas.jdshipin.com:8801/iptv.php?id=yn4k
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV-4K
 http://192.168.100.1:5678/sxg.php?id=ys4Kcq_2000
-https://cntv.sbs/tv?auth=2309081833&id=cctv4k
+http://192.168.100.1:5678/cqyx.php?id=CCTV4K
+http://192.168.100.1:5678/cctv4k.php
+http://192.168.100.1:5678/cctv4k2.php
 #EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16%281%29.png" group-title="UHD-IPV6",CCTV16-4K
