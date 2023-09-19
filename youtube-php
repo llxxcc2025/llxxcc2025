@@ -4,9 +4,9 @@ http://192.168.100.1:3456/youtube.php?id=9sE12tg3CmA
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港新闻",凤凰卫视资讯台
 http://192.168.100.1:3456/youtube.php?id=if6yQq_JJyY
 
-#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://epg.112114.xyz/logo/THEKPOP.png" group-title="其他",THE K-POP
+#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://gzc-dfsdown.mail.ftn.qq.com/1373//xt97d651-fd72-03eb-0ad0-9fb1677bc5f2?dkey=jhvHs59BlhDKh6nEGoWUv-Un54V5ZYQzbbfovM2Nv1cnwFf92w1qPvN1_DOljkL-hXPw--Dqqqp5xc_l1eCAKmQ&fname=thekppp.jpg&eggs" group-title="其他",THE K-POP
 http://192.168.100.1:3456/youtube.php?id=JVocS7Yftw8
-#EXTINF:-1,tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://epg.112114.xyz/logo/TAIWANPLUS.png" group-title="其他",TaiwanPlus
+#EXTINF:-1,tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://gzc-dfsdown.mail.ftn.qq.com/1373//xtbb6fb3-5c2a-20cb-5707-87eeea23f7bb?dkey=jkJkUSgWvFyYoVyi6QgvI0JFrSKVInol8G_IS14bb3ksayCObVilkSO7BhELO9LoT8jxtpdQ9LY4pT7WAMExtgw&fname=taiwan.jpg&eggs" group-title="其他",TaiwanPlus
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1695105748/ei/dO4IZfGrNrmIsfIP7J6YiAM/ip/13.88.118.111/id/dZp87qnWelE.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-a5meknzk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f1wjDm--eDQdyqmBbxbu6IgeM_E/vprv/1/playlist_type/DVR/mh/ym/mm/44/mn/sn-a5meknzk/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1695083210/sparams/expire
 
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
