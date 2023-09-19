@@ -6,23 +6,23 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ffszjQ-bDk/t
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://upload.112114.xyz/logo/BBC%20Earth.png" group-title="UHD-IPV4",earthtv
+#EXTINF:-1,tvg-id="earthtv" tvg-name="earthtv" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/earthtv.png?raw=true" group-title="UHD-IPV4",earthtv
 http://192.168.100.1:2345/earthtv.php
 
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://123.118.148.216:4022/rtp/239.3.1.249:8001
 http://nas.jdshipin.com:8801/iptv.php?id=bj4k
-#EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
+#EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/bjtyxx.jpg?raw=true" group-title="北京",北京体育休闲
 http://123.118.148.216:4022/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/henan.png?raw=true" group-title="UHD-IPV4",河南卫视4K
 http://115.60.241.249:2000/udp/225.1.4.254:1300
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://pic.616pic.com/ys_bnew_img/00/16/77/fEMsWQ899i.jpg" group-title="UHD-IPV4",斗鱼4K影院
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 http://222.209.244.139:8188/udp/239.93.0.97:5140
-#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="UHD-IPV6",SITV欢笑剧场4K
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD-IPV6",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 http://218.80.67.232:58888/udp/239.45.1.4:5140
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://upload.112114.xyz/logo/4K%E4%BF%AE%E5%A4%8D.png" group-title="UHD-IPV6",4K修复
