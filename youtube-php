@@ -4,15 +4,15 @@ http://192.168.100.1:3456/youtube.php?id=9sE12tg3CmA
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港新闻",凤凰卫视资讯台
 http://192.168.100.1:3456/youtube.php?id=if6yQq_JJyY
 
-#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://gzc-dfsdown.mail.ftn.qq.com/1373//xt97d651-fd72-03eb-0ad0-9fb1677bc5f2?dkey=jhvHs59BlhDKh6nEGoWUv-Un54V5ZYQzbbfovM2Nv1cnwFf92w1qPvN1_DOljkL-hXPw--Dqqqp5xc_l1eCAKmQ&fname=thekppp.jpg&eggs" group-title="国外新闻",THE K-POP
+#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/thekppp.jpg?raw=true" group-title="国外新闻",THE K-POP
 http://192.168.100.1:3456/youtube.php?id=JVocS7Yftw8
-#EXTINF:-1,tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://gzc-dfsdown.mail.ftn.qq.com/1373//xtbb6fb3-5c2a-20cb-5707-87eeea23f7bb?dkey=jkJkUSgWvFyYoVyi6QgvI0JFrSKVInol8G_IS14bb3ksayCObVilkSO7BhELO9LoT8jxtpdQ9LY4pT7WAMExtgw&fname=taiwan.jpg&eggs" group-title="台湾新闻",TaiwanPlus
+#EXTINF:-1,tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/taiwan.jpg?raw=true" group-title="台湾新闻",TaiwanPlus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
 http://192.168.100.1:3456/youtube.php?id=6IquAgfvYmc
 http://192.168.100.1:3456/youtube.php?id=V8ue1aoEOEQ
-#EXTINF:-1,tvg-id="CTI中天新聞" tvg-name="CTI中天新聞" tvg-logo="https://upload.112114.xyz/logo/ZHONGTIANNEW.png" group-title="台湾新闻",CTI中天新聞
+#EXTINF:-1,tvg-id="CTI中天新聞" tvg-name="CTI中天新聞" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/ztxw.jpg?raw=true" group-title="台湾新闻",CTI中天新聞
 http://192.168.100.1:3456/youtube.php?id=oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾新闻",中视新闻台
 http://192.168.100.1:3456/youtube.php?id=TCnaIE_SAtM
