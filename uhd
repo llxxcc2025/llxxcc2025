@@ -16,7 +16,7 @@ http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 http://123.118.148.216:4022/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://upload.112114.xyz/logo/henan4k.png" group-title="UHD-IPV4",河南卫视4K
 http://115.60.241.249:2000/udp/225.1.4.254:1300
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://upload.112114.xyz/logo/douyulogo.png" group-title="UHD-IPV4",斗鱼4K影院
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://pic.616pic.com/ys_bnew_img/00/16/77/fEMsWQ899i.jpg" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
