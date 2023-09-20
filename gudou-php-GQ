@@ -9,7 +9,7 @@ http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=GHDdaoshi_7500
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="港澳台",翡翠台
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1350_4500
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/MINGZHU.png" group-title="港澳台",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1351_4500
 #EXTINF:-1,tvg-id="澳门澳视" tvg-name="澳门澳视" tvg-logo="https://www.stream-link.org/tv_logo/tdm_91.png" group-title="其他",澳门澳视
 http://192.168.100.1:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1352_4500
