@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
-#EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD-IPV4",Clarity 4K
+#EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/cl.jpg?raw=true" group-title="UHD-IPV4",Clarity 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ffszjQ-bDk/ts
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="UHD-IPV4",Fashion4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -14,7 +14,7 @@ http://123.118.148.216:4022/rtp/239.3.1.249:8001
 http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/bjtyxx.jpg?raw=true" group-title="北京",北京体育休闲
 http://123.118.148.216:4022/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/henan.png?raw=true" group-title="UHD-IPV4",河南卫视4K
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-IPV4",河南卫视4K
 http://115.60.241.249:2000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:35455/douyu/9249162
@@ -39,7 +39,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 http://222.209.244.139:8188/udp/239.93.0.43:5140
 http://nas.jdshipin.com:8801/iptv.php?id=lx4k
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4KCGQ.png" group-title="UHD-IPV6",4K超高清电影
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="UHD-IPV6",4K超高清电影
 http://192.168.100.1:5678/sxg.php?id=emdy4k_8000
 http://r.jdshipin.com/5DWJk
 http://r.jdshipin.com/B7sfp
@@ -57,29 +57,29 @@ http://222.209.244.139:8188/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB4K.png" group-title="UHD-IPV4",中录动漫4K专区
 http://222.209.244.139:8188/udp/239.93.1.188:5140
 
-#EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://upload.112114.xyz/logo/BESTV.png" group-title="UHD-IPV4",百事通4K电影
+#EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K电影
 http://218.80.67.232:58888/udp/239.45.3.107:5140
-#EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K纪实
+#EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K纪实
 http://218.80.67.232:58888/udp/239.45.1.10:5140
-#EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://upload.112114.xyz/logo/bestv4k.png" group-title="UHD-IPV4",百事通4K测试
+#EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K测试
 http://218.80.67.232:58888/udp/239.45.1.108:5140
-#EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://upload.112114.xyz/logo/bestv%E5%AE%A3%E4%BC%A0%E5%8A%A8%E7%94%BB.png" group-title="UHD-IPV4",百事通4K儿童
+#EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K儿童
 http://218.80.67.232:58888/udp/239.45.1.1:5140
-#EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://epg.112114.xyz/logo/广州南国都市..png" group-title="其他",广州南国都市.1080P
+#EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="其他",广州南国都市.1080P
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
 http://nas.jdshipin.com:8801/iptv.php?id=hn4k
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="云南",云南4K
 http://nas.jdshipin.com:8801/iptv.php?id=yn4k
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="UHD-IPV6",CCTV-4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV6",CCTV-4K
 http://192.168.100.1:5678/sxg.php?id=ys4Kcq_2000
 http://192.168.100.1:3456/bestv2.php?id=cctv4k/15000000
 http://192.168.100.1:5678/cqyx.php?id=CCTV4K
 http://192.168.100.1:5678/cctv4k.php
 #EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16%281%29.png" group-title="UHD-IPV6",CCTV16-4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV16.png?raw=true" group-title="UHD-IPV6",CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
