@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东4095*4095
-http://116.30.206.24:4022/udp/239.253.43.106:5146
+http://116.20.33.15:54321/udp/239.253.43.106:5146
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
 http://61.140.125.220:10000/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
