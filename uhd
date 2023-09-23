@@ -12,6 +12,8 @@ http://114.253.246.148:14000/rtp/239.3.1.249:8001
 http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/bjtyxx.jpg?raw=true" group-title="北京",北京体育休闲
 http://114.253.246.148:14000/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png?raw=true" group-title="北京",北京国际频道
+http://114.253.246.148:14000/rtp/239.3.1.235:8000
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-IPV4",河南卫视4K
 http://115.60.241.249:2000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院
