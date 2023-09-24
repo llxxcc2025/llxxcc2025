@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="射击" tvg-name="射击" tvg-logo="https://epg.112114.xyz/logo/射击.png" group-title="其他",射击
+http://192.168.100.1:35455/douyin/739453887773
+#EXTINF:-1,tvg-id="乒乓球1号台" tvg-name="乒乓球1号台" tvg-logo="https://epg.112114.xyz/logo/乒乓球1号台.png" group-title="其他",乒乓球1号台
+http://192.168.100.1:35455/douyin/232797773988
+#EXTINF:-1,tvg-id="乒乓球2号台" tvg-name="乒乓球2号台" tvg-logo="https://epg.112114.xyz/logo/乒乓球2号台.png" group-title="其他",乒乓球2号台
+http://192.168.100.1:35455/douyin/727336904250
+#EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯网球台.png" group-title="其他",网球
+http://192.168.100.1:35455/douyin/839752440082
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",围棋
+http://192.168.100.1:35455/douyin/453248352315
+
