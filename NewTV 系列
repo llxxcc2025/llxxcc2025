@@ -3,38 +3,12 @@
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="超级电视剧_8M1080_易视腾" tvg-name="超级电视剧_8M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电视剧__易视腾.png" group-title="其他",超级电视剧_8M1080_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电视剧_4M1080_湖南bblive" tvg-name="超级电视剧_4M1080_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/超级电视剧__湖南BBLIVE.png" group-title="湖南",超级电视剧_4M1080_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电视剧_4M1080_易视腾" tvg-name="超级电视剧_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电视剧__易视腾.png" group-title="其他",超级电视剧_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电视剧_4M1080_易视腾" tvg-name="超级电视剧_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电视剧__易视腾.png" group-title="其他",超级电视剧_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电视剧_4M1080_易视腾" tvg-name="超级电视剧_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电视剧__易视腾.png" group-title="其他",超级电视剧_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="超级电影_8M1080_易视腾" tvg-name="超级电影_8M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电影__易视腾.png" group-title="其他",超级电影_8M1080_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电影_4M1080_湖南bblive" tvg-name="超级电影_4M1080_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/超级电影__湖南BBLIVE.png" group-title="湖南",超级电影_4M1080_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电影_4M1080_易视腾" tvg-name="超级电影_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电影__易视腾.png" group-title="其他",超级电影_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级电影_4M1080_易视腾" tvg-name="超级电影_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级电影__易视腾.png" group-title="其他",超级电影_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="超级体育_8M1080_易视腾" tvg-name="超级体育_8M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级体育__易视腾.png" group-title="其他",超级体育_8M1080_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级体育_4M1080_湖南bblive" tvg-name="超级体育_4M1080_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/超级体育__湖南BBLIVE.png" group-title="湖南",超级体育_4M1080_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级体育_4M1080_易视腾" tvg-name="超级体育_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级体育__易视腾.png" group-title="其他",超级体育_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级体育_4M1080_易视腾" tvg-name="超级体育_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级体育__易视腾.png" group-title="其他",超级体育_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="超级综艺_8M1080_易视腾" tvg-name="超级综艺_8M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级综艺__易视腾.png" group-title="其他",超级综艺_8M1080_易视腾
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级综艺_4M1080_湖南bblive" tvg-name="超级综艺_4M1080_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/超级综艺__湖南BBLIVE.png" group-title="湖南",超级综艺_4M1080_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级综艺_4M1080_易视腾" tvg-name="超级综艺_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级综艺__易视腾.png" group-title="其他",超级综艺_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="超级综艺_4M1080_易视腾" tvg-name="超级综艺_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/超级综艺__易视腾.png" group-title="其他",超级综艺_4M1080_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="潮妈辣婆_4M1080_湖南bblive" tvg-name="潮妈辣婆_4M1080_湖南bblive" tvg-logo="https://epg.112114.xyz/logo/潮妈辣婆__湖南BBLIVE.png" group-title="湖南",潮妈辣婆_4M1080_湖南bblive
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="东北热剧_4M1080_易视腾" tvg-name="东北热剧_4M1080_易视腾" tvg-logo="https://epg.112114.xyz/logo/东北热剧__易视腾.png" group-title="其他",东北热剧_4M1080_易视腾
