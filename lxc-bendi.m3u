@@ -39,6 +39,20 @@ http://192.168.100.1:35455/douyin/191844221073
 #EXTINF:-1,tvg-id="抖音" tvg-name="抖音" tvg-logo="https://epg.112114.xyz/logo/抖音.png" group-title="其他",甜奈
 http://192.168.100.1:35455/douyin/456066026839
 
+
+#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广州",广州综合
+http://192.168.100.1:3456/gzbd.php?id=zhonghe
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广州",广州新闻
+http://192.168.100.1:3456/gzbd.php?id=xinwen
+#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="广州",广州竞赛
+http://192.168.100.1:3456/gzbd.php?id=jingsai
+#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="广州",广州影视
+http://192.168.100.1:3456/gzbd.php?id=yingshi
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广州",广州法治
+http://192.168.100.1:3456/gzbd.php?id=fazhi
+#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="广州",广州南国都市
+http://192.168.100.1:3456/gzbd.php?id=shenghuo
+
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.100.1:4567/kxm.php?id=xmws
 #EXTINF:-1,tvg-id="厦门1" tvg-name="厦门1" tvg-logo="https://epg.112114.xyz/logo/厦门1.png" group-title="其他",厦门1
