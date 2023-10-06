@@ -22,10 +22,10 @@ http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-IPV6",爱上4K
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-http://222.209.244.139:8188/udp/239.93.0.97:5140
+http://110.184.198.246:8882/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="UHD-IPV6",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-http://218.80.67.232:58888/udp/239.45.1.4:5140
+http://58.32.18.55:9981/udp/239.45.1.4:5140
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/4k%E4%BF%AE%E5%A4%8D.png?raw=true" group-title="UHD-IPV6",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -42,7 +42,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-IPV6",华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-http://222.209.244.139:8188/udp/239.93.0.43:5140
+http://110.184.198.246:8882/udp/239.93.0.43:5140
 http://nas.jdshipin.com:8801/iptv.php?id=lx4k
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="UHD-IPV6",4K超高清电影
 http://192.168.100.1:5678/sxg.php?id=emdy4k_8000
@@ -53,23 +53,23 @@ http://r.jdshipin.com/XIjta
 http://r.jdshipin.com/vFgDS
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-IPV4",绚影4K
-http://222.209.244.139:8188/udp/239.93.42.33:5140
+http://110.184.198.246:8882/udp/239.93.42.33:5140
 http://nas.jdshipin.com:8801/iptv.php?id=xy4k
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%BA%B2%E5%AD%90%E9%98%85%E8%AF%BB.png?raw=true" group-title="UHD-IPV4",亲子趣学4k专区
-http://222.209.244.139:8188/udp/239.93.1.191:5140
+http://110.184.198.246:8882/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E6%B4%A5%E6%B4%A5%E9%98%85%E8%AF%BB.png?raw=true" group-title="UHD-IPV4",津津悦读4K专区
-http://222.209.244.139:8188/udp/239.93.1.197:5140
+http://110.184.198.246:8882/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB.jpg?raw=true" group-title="UHD-IPV4",中录动漫4K专区
-http://222.209.244.139:8188/udp/239.93.1.188:5140
+http://110.184.198.246:8882/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K电影
-http://218.80.67.232:58888/udp/239.45.3.107:5140
+http://58.32.18.55:9981/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K纪实
-http://218.80.67.232:58888/udp/239.45.1.10:5140
+http://58.32.18.55:9981/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K测试
-http://218.80.67.232:58888/udp/239.45.1.108:5140
+http://58.32.18.55:9981/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K儿童
-http://218.80.67.232:58888/udp/239.45.1.1:5140
+http://58.32.18.55:9981/udp/239.45.1.1:5140
 
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/HNSTV_logo.png?raw=true" group-title="湖南",湖南IPTV4K
 http://nas.jdshipin.com:8801/iptv.php?id=hn4k
