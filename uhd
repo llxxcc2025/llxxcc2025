@@ -9,7 +9,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #EXTINF:-1,tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="UHD-IPV4",北京IPTV4K超清
 http://114.253.246.148:14000/rtp/239.3.1.249:8001
-http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/bjtyxx.jpg?raw=true" group-title="北京",北京体育休闲
 http://114.253.246.148:14000/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png?raw=true" group-title="北京",北京国际频道
