@@ -24,6 +24,8 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/qrfbg
 http://r.jdshipin.com/62WM7
 http://r.jdshipin.com/n90gt
+#EXTINF:-1,tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",RTHK-32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
 #EXTINF:-1,tvg-id="阳城台" tvg-name="阳城台" tvg-logo="https://epg.112114.xyz/logo/阳城台.png" group-title="其他",阳城台
 http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
