@@ -103,11 +103,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230854/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230888/1.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K
-http://192.168.100.1:3456/cctv8k.php
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?$2160P
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+http://192.168.100.1:3456/cctv8k.php
 
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/beij.jpg?raw=true" group-title="8K-IPV4",北京纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
