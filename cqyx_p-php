@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合
-http://192.168.100.1:3456/cqyx_p.php?id=cctv1
+http://192.168.100.1:3456/cqyx_p.php?id=cctv1 
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经
-http://192.168.100.1:3456/cqyx_p.php?id=cctv2
+http://192.168.100.1:3456/cqyx_p.php?id=cctv2 
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3综艺
-http://192.168.100.1:3456/cqyx_p.php?id=cctv3
+http://192.168.100.1:3456/cqyx_p.php?id=cctv3 
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4中文国际
-http://192.168.100.1:3456/cqyx_p.php?id=cctv4
+http://192.168.100.1:3456/cqyx_p.php?id=cctv4 
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育
-http://192.168.100.1:3456/cqyx_p.php?id=cctv5
+http://192.168.100.1:3456/cqyx_p.php?id=cctv5 
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
 http://192.168.100.1:3456/cqyx_p.php?id=cctv5p
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6电影
-http://192.168.100.1:3456/cqyx_p.php?id=cctv6
+http://192.168.100.1:3456/cqyx_p.php?id=cctv6 
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7国防军事
-http://192.168.100.1:3456/cqyx_p.php?id=cctv7
+http://192.168.100.1:3456/cqyx_p.php?id=cctv7 
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8电视剧
-http://192.168.100.1:3456/cqyx_p.php?id=cctv8
+http://192.168.100.1:3456/cqyx_p.php?id=cctv8 
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9纪录
-http://192.168.100.1:3456/cqyx_p.php?id=cctv9
+http://192.168.100.1:3456/cqyx_p.php?id=cctv9 
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10科教
 http://192.168.100.1:3456/cqyx_p.php?id=cctv10
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11戏曲
@@ -52,7 +52,7 @@ http://192.168.100.1:3456/cqyx_p.php?id=whjp
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视",CCTV女性时尚
 http://192.168.100.1:3456/cqyx_p.php?id=nxss
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
-http://192.168.100.1:3456/cqyx_p.php?id=gefw
+http://192.168.100.1:3456/cqyx_p.php?id=gefwq
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
 http://192.168.100.1:3456/cqyx_p.php?id=ystq
 #EXTINF:-1,tvg-id="CCTV央广购物" tvg-name="CCTV央广购物" tvg-logo="https://epg.112114.xyz/logo/CCTV央广购物.png" group-title="央视",CCTV央广购物
@@ -75,7 +75,7 @@ http://192.168.100.1:3456/cqyx_p.php?id=cgtn
 http://192.168.100.1:3456/cqyx_p.php?id=cetv1
 #EXTINF:-1,tvg-id="CETV4中教4台" tvg-name="CETV4中教4台" tvg-logo="https://epg.112114.xyz/logo/CETV4中教4台.png" group-title="其他",CETV4中教4台
 http://192.168.100.1:3456/cqyx_p.php?id=cetv4
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",CETV早期教育
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",CETV早期教育 
 http://192.168.100.1:3456/cqyx_p.php?id=zqjy
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 http://192.168.100.1:3456/cqyx_p.php?id=chcgq
@@ -92,7 +92,7 @@ http://192.168.100.1:3456/cqyx_p.php?id=tjws
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://192.168.100.1:3456/cqyx_p.php?id=cqws
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://192.168.100.1:3456/cqyx_p.php?id=hljw
+http://192.168.100.1:3456/cqyx_p.php?id=hljws
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://192.168.100.1:3456/cqyx_p.php?id=jlws
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -106,7 +106,7 @@ http://192.168.100.1:3456/cqyx_p.php?id=qhws
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://192.168.100.1:3456/cqyx_p.php?id=hbws
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://192.168.100.1:3456/cqyx_p.php?id=sxiw
+http://192.168.100.1:3456/cqyx_p.php?id=sxiws
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://192.168.100.1:3456/cqyx_p.php?id=ahws
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
@@ -221,7 +221,7 @@ http://192.168.100.1:3456/cqyx_p.php?id=yunyzh
 http://192.168.100.1:3456/cqyx_p.php?id=tlzh
 #EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="其他",家有购物
 http://192.168.100.1:3456/cqyx_p.php?id=jygw
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫 
 http://192.168.100.1:3456/cqyx_p.php?id=xdm
 #EXTINF:-1,tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://epg.112114.xyz/logo/证券服务.png" group-title="其他",证券服务
 http://192.168.100.1:3456/cqyx_p.php?id=zqfw
