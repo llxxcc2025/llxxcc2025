@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
 http://77.72.23.28/iptv/UPKY3Y8BF6KNX8/5001/index.m3u8
-https://ktpremium.com:443/M919HR/5577/916402?c=大马
 #EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/cl.jpg?raw=true" group-title="UHD-IPV4",Clarity 4K
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/fashiontv.png?raw=true" group-title="UHD-IPV4",Fashion4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -36,6 +35,7 @@ http://61.140.47.13:8686/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="其他",广州南国都市.4K
 http://61.140.47.13:8686/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="其他",广州南国都市.1080P
+http://192.168.100.1:3456/gzbd.php?id=shenghuo
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
