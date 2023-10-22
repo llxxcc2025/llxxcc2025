@@ -1,10 +1,19 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台
-http://192.168.100.1:3456/fht.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
-http://192.168.100.1:3456/fht.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台
-http://192.168.100.1:3456/fht.php?id=fhhk
+#EXTINF:-1,tvg-id="华文一套" tvg-name="华文一套" tvg-logo="https://epg.112114.xyz/logo/华文一套.png" group-title="其他",华文一套
+http://192.168.100.1:3456/Europehw.php?id=tv1
+#EXTINF:-1,tvg-id="华文二套" tvg-name="华文二套" tvg-logo="https://epg.112114.xyz/logo/华文二套.png" group-title="其他",华文二套
+http://192.168.100.1:3456/Europehw.php?id=tv2
+#EXTINF:-1,tvg-id="华文三套" tvg-name="华文三套" tvg-logo="https://epg.112114.xyz/logo/华文三套.png" group-title="其他",华文三套
+http://192.168.100.1:3456/Europehw.php?id=tv3
+#EXTINF:-1,tvg-id="华文四套" tvg-name="华文四套" tvg-logo="https://epg.112114.xyz/logo/华文四套.png" group-title="其他",华文四套
+http://192.168.100.1:3456/Europehw.php?id=tv4
+#EXTINF:-1,tvg-id="华文五套" tvg-name="华文五套" tvg-logo="https://epg.112114.xyz/logo/华文五套.png" group-title="其他",华文五套
+http://192.168.100.1:3456/Europehw.php?id=tv5
+#EXTINF:-1,tvg-id="华文六套" tvg-name="华文六套" tvg-logo="https://epg.112114.xyz/logo/华文六套.png" group-title="其他",华文六套
+http://192.168.100.1:3456/Europehw.php?id=tv6
+#EXTINF:-1,tvg-id="华文七套" tvg-name="华文七套" tvg-logo="https://epg.112114.xyz/logo/华文七套.png" group-title="其他",华文七套
+http://192.168.100.1:3456/Europehw.php?id=tv7
+#EXTINF:-1,tvg-id="华文八套" tvg-name="华文八套" tvg-logo="https://epg.112114.xyz/logo/华文八套.png" group-title="其他",华文八套
+http://192.168.100.1:3456/Europehw.php?id=tv8
 
 #EXTINF:-1,tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://epg.112114.xyz/logo/西安新闻综合.png" group-title="西安",西安新闻综合
 http://192.168.100.1:3456/sxxa.php?id=xaxw
@@ -20,7 +29,6 @@ http://192.168.100.1:3456/sxxa.php?id=xasl
 http://192.168.100.1:3456/sxxa.php?id=xalg
 #EXTINF:-1,tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="https://epg.112114.xyz/logo/西安移动电视.png" group-title="西安",西安移动电视
 http://192.168.100.1:3456/sxxa.php?id=xayd
-
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV-4K 超高清1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4K-php",CCTV-4K 超高清1
 http://192.168.100.1:5678/cctv4k.php
@@ -87,29 +95,6 @@ http://192.168.100.1:3456/btime_app.php?id=btvxw
 http://221.220.130.233:4022/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
 http://221.220.130.233:4022/rtp/239.3.1.243:8000
-
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="浙江",浙江卫视
-http://192.168.100.1:3456/zsj.php?id=zjws
-#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江
-http://192.168.100.1:3456/zsj.php?id=zjqj
-http://125.125.239.239:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
-http://192.168.100.1:3456/zsj.php?id=zjjjsh
-http://125.125.239.239:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
-http://192.168.100.1:3456/zsj.php?id=zjjkys
-#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
-http://192.168.100.1:3456/zsj.php?id=zjmsxx
-#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://epg.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
-http://192.168.100.1:3456/zsj.php?id=zjxw
-#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
-http://192.168.100.1:3456/zsj.php?id=zjse
-#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
-http://192.168.100.1:3456/zsj.php?id=zjgj
-#EXTINF:-1,tvg-id="浙江好易购" tvg-name="浙江好易购" tvg-logo="https://epg.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
-http://192.168.100.1:3456/zsj.php?id=zjhyg
-#EXTINF:-1,tvg-id="浙江之江纪录" tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.xyz/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
-http://192.168.100.1:3456/zsj.php?id=zjzjjl
 
 #EXTINF:-1,tvg-id="KBS1高画质" tvg-name="KBS1高画质" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质.png" group-title="KBS",KBS1高画质
 http://192.168.100.1:3456/kbs.php?id=11&p=0
