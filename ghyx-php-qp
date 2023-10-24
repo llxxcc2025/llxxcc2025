@@ -271,7 +271,7 @@ http://192.168.100.1:3456/ghyx.php?id=schd
 http://192.168.100.1:3456/ghyx.php?id=xjws
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视2
 http://192.168.100.1:3456/ghyx.php?id=xjws2
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",团卫视
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.100.1:3456/ghyx.php?id=btws
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视2
 http://192.168.100.1:3456/ghyx.php?id=btws2
@@ -279,7 +279,7 @@ http://192.168.100.1:3456/ghyx.php?id=btws2
 http://192.168.100.1:3456/ghyx.php?id=xzws
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视2
 http://192.168.100.1:3456/ghyx.php?id=xzws2
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",2海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://192.168.100.1:3456/ghyx.php?id=hinws
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视HD
 http://192.168.100.1:3456/ghyx.php?id=hinhd
@@ -313,7 +313,7 @@ http://192.168.100.1:3456/ghyx.php?id=bjtyxxhd
 http://192.168.100.1:3456/ghyx.php?id=bjsh
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活2
 http://192.168.100.1:3456/ghyx.php?id=bjsh2
-#EXTINF:-1,tvg-id="京青年" tvg-name="京青年" tvg-logo="https://epg.112114.xyz/logo/京青年.png" group-title="其他",京青年
+#EXTINF:-1,tvg-id="京青年" tvg-name="京青年" tvg-logo="https://epg.112114.xyz/logo/京青年.png" group-title="其他",北京青年
 http://192.168.100.1:3456/ghyx.php?id=bjqn
 #EXTINF:-1,tvg-id="北京青年2" tvg-name="北京青年2" tvg-logo="https://epg.112114.xyz/logo/北京青年2.png" group-title="北京",北京青年2
 http://192.168.100.1:3456/ghyx.php?id=bjq2
