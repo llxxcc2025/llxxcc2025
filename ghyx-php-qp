@@ -3,6 +3,8 @@
 http://192.168.100.1:3456/ghyx.php?id=cctv16-4k
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://192.168.100.1:3456/ghyx.php?id=cctv4k
+#EXTINF:-1,tvg-id="歌华导视" tvg-name="歌华导视" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="歌华有线",歌华导视
+http://192.168.100.1:3456/ghyx.php?id=ghds
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合
 http://192.168.100.1:3456/ghyx.php?id=cctv1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合HD
