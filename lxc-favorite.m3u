@@ -1,8 +1,6 @@
-#EXTM3U
-#EXTM3U
-#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/1905.jpg?raw=true" group-title="其他",1905电影
+#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/1905.jpg?raw=true" group-title="1905",1905电影
 http://192.168.100.1:3456/1905.php?id=1905
-#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV6.png?raw=true" group-title="其他",1905电影
+#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV6.png?raw=true" group-title="1905",1905电影
 http://192.168.100.1:3456/1905.php?id=cctv6
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/FEICUI.png" group-title="港澳台",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
