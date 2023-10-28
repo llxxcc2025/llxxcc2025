@@ -82,7 +82,6 @@ http://59.175.65.195:4022/udp/239.69.1.111:10304
 http://192.168.100.1:3456/sxgv4.php?id=ys4Kcq_2000
 http://192.168.100.1:3456/bestv.php?id=cctv4k
 http://192.168.100.1:3456/cqyx.php?id=CCTV4K
-http://192.168.100.1:5678/cctv4k.php
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="UHD-IPV6",纯享超清1
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?blog.ntnas.top
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
