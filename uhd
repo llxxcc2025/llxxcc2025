@@ -79,7 +79,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV6",CCTV-4K
 http://192.168.100.1:3456/ghyx.php?id=cctv4k
 http://59.175.65.195:4022/udp/239.69.1.111:10304
-http://192.168.100.1:5678/sxg.php?id=ys4Kcq_2000
+http://192.168.100.1:3456/sxgv4.php?id=ys4Kcq_2000
 http://192.168.100.1:3456/bestv.php?id=cctv4k
 http://192.168.100.1:3456/cqyx.php?id=CCTV4K
 http://192.168.100.1:5678/cctv4k.php
