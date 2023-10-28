@@ -65,7 +65,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清2
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清3
-http://159.75.85.63:5681/sxg.php?id=CCTV-1H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV-1",CCTV1综合高清4
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
 
@@ -89,7 +89,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="CCTV-4",CCTV4中文国际高清2
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="CCTV-4",CCTV4中文国际高清3
-http://159.75.85.63:5681/sxg.php?id=CCTV-4H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-4H265_4000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="CCTV-4",CCTV4中文国际高清4
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227549/index.m3u8
 
@@ -119,7 +119,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="CCTV-7",CCTV7国防军事高清2
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="CCTV-7",CCTV7国防军事高清3
-http://159.75.85.63:5681/sxg.php?id=CCTV-7H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-7H265_4000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="CCTV-7",CCTV7国防军事高清4
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/4/224/3221227690/index.m3u8
 
@@ -132,7 +132,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="CCTV-8",CCTV8电视剧高清3
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?blog.ntnas.top
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="CCTV-8",CCTV8电视剧高清4
-http://159.75.85.63:5681/sxg.php?id=CCTV-8H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-8H265_4000
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="CCTV-8",CCTV8电视剧高清5
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
 
@@ -143,7 +143,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3
 #EXTINF:-1,tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV-9",CCTV9纪录高清2
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV-9",CCTV9纪录高清3
-http://159.75.85.63:5681/sxg.php?id=CCTV-9H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-9H265_4000
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV-9",CCTV9纪录高清4
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 
@@ -154,7 +154,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3
 #EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV-10",CCTV10科教高清2
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV-10",CCTV10科教高清3
-http://159.75.85.63:5681/sxg.php?id=CCTV-10H265_4000
+http://angtv.cc/test/xg.php?id=CCTV-10H265_4000
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV-10",CCTV10科教高清4
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
 
@@ -170,7 +170,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV-13",CCTV-13 新闻1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV-13",CCTV-13 新闻2
-http://159.75.85.63:5681/sxg.php?id=CCTV-xw_4000
+http://angtv.cc/test/xg.php?id=CCTV-xw_4000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV-13",CCTV-13 新闻3
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 
@@ -179,7 +179,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="CCTV-15",CCTV15音乐高清1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="CCTV-15",CCTV15音乐高清2
-http://159.75.85.63:5681/sxg.php?id=CCTV-15-yyH265_4000
+http://angtv.cc/test/xg.php?id=CCTV-15-yyH265_4000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="CCTV-15",CCTV15音乐高清3
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
 
@@ -188,7 +188,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清2
-http://159.75.85.63:5681/sxg.php?id=CCTV-17_4000
+http://angtv.cc/test/xg.php?id=CCTV-17_4000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CCTV-17",CCTV17农业农村高清3
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
 
