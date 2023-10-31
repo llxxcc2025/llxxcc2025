@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
+http://192.168.100.1:3456/bestv.php?id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.71:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.87:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.112:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.142:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.177:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.16:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.70:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.108:8088/liveplay-kk.rtxapp.com&id=hxjc4k
+http://192.168.100.1:3456/bestv.php?ip=122d6f6388173cbc5240f6d0036bc5b7.v.smtcdns.net/sitv.mobilev51.live.bestvcdn.com.cn/1&id=hxjc4k
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+http://192.168.100.1:3456/bestv.php?id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.71:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.87:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.112:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.142:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.177:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.16:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.70:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.108:8088/liveplay-kk.rtxapp.com&id=cctv4k
+http://192.168.100.1:3456/bestv.php?ip=122d6f6388173cbc5240f6d0036bc5b7.v.smtcdns.net/sitv.mobilev51.live.bestvcdn.com.cn/1&id=cctv4k
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
+http://192.168.100.1:3456/bestv.php?id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.71:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.87:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.112:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=112.84.131.142:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.177:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.16:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.70:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=36.131.222.108:8088/liveplay-kk.rtxapp.com&id=cctv164k
+http://192.168.100.1:3456/bestv.php?ip=122d6f6388173cbc5240f6d0036bc5b7.v.smtcdns.net/sitv.mobilev51.live.bestvcdn.com.cn/1&id=cctv164k
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.100.1:3456/bestv.php?id=cctv1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
@@ -31,16 +65,12 @@ http://192.168.100.1:3456/bestv.php?id=cctv14
 http://192.168.100.1:3456/bestv.php?id=cctv15
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://192.168.100.1:3456/bestv.php?id=cctv16
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
-http://192.168.100.1:3456/bestv.php?id=cctv164k
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://192.168.100.1:3456/bestv.php?id=cctv17
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.100.1:3456/bestv.php?id=cctv5p
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.100.1:3456/bestv.php?id=cctv5p2
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
-http://192.168.100.1:3456/bestv.php?id=cctv4k
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://192.168.100.1:3456/bestv.php?id=cgtn
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育1台
@@ -139,10 +169,8 @@ http://192.168.100.1:3456/bestv.php?id=cftx
 http://192.168.100.1:3456/bestv.php?id=cpd
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
 http://192.168.100.1:3456/bestv.php?id=klcd
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场
 http://192.168.100.1:3456/bestv.php?id=hxjc
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
-http://192.168.100.1:3456/bestv.php?id=hxjc4k
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
 http://192.168.100.1:3456/bestv.php?id=dsjc
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
