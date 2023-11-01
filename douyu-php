@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,斗鱼4K影院
+http://192.168.100.1:35455/douyu/9249162
 #EXTINF:-1,周星驰
 http://192.168.100.1:35455/douyu/122402
 #EXTINF:-1,刘德华
