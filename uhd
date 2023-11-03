@@ -67,9 +67,9 @@ http://58.32.18.55:9981/udp/239.45.1.108:5140
 http://58.32.18.55:9981/udp/239.45.1.1:5140
 
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/HNSTV_logo.png?raw=true" group-title="湖南",湖南IPTV4K
-#http://nas.jdshipin.com:8801/iptv.php?id=hn4k
+http://nas.jdshipin.com:8801/iptv.php?id=hn4k
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/YNtv.png?raw=true" group-title="云南",云南4K
-#http://nas.jdshipin.com:8801/iptv.php?id=yn4k
+http://nas.jdshipin.com:8801/iptv.php?id=yn4k
 
 #EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
