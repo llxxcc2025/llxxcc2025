@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://192.168.100.1:3456/bestv.php?id=hxjc4k
 http://192.168.100.1:3456/bestv.php?ip=112.84.131.71:8088/liveplay-kk.rtxapp.com&id=hxjc4k
