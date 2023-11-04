@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV1hd" tvg-id="CCTV1hd" tvg-name="CCTV1hd",tvg-id tvg-name tvg-logo group-title,CCTV1HD
 http://192.168.100.1:2345/yqgd.php?id=cctv1hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV2hd" tvg-id="CCTV2hd" tvg-name="CCTV2hd",tvg-id tvg-name tvg-logo group-title,CCTV2HD
