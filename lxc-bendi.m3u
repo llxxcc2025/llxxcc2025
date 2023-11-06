@@ -3,6 +3,9 @@ http://192.168.100.1:3456/1905.php?id=1905
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV6.png?raw=true" group-title="1905",cctv6
 http://192.168.100.1:3456/1905.php?id=cctv6
 
+#EXTINF:-1,tvg-id="映客直播" tvg-name="映客直播" tvg-logo="https://epg.112114.xyz/logo/映客直播.png" group-title="其他",映客直播
+http://192.168.100.1:3456/ykzb.php
+
 #EXTINF:-1,tvg-id="华文一套" tvg-name="华文一套" tvg-logo="https://epg.112114.xyz/logo/华文一套.png" group-title="其他",华文一套
 http://192.168.100.1:3456/Europehw.php?id=tv1
 #EXTINF:-1,tvg-id="华文二套" tvg-name="华文二套" tvg-logo="https://epg.112114.xyz/logo/华文二套.png" group-title="其他",华文二套
