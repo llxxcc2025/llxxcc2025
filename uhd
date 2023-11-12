@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/爱自然.png" group-title="UHD-IPV4",爱自然
-https://epg.pw/stream/5f66debb53c93e8c797b0b4109892fdb392b83536057f3d2f163986c65cd2e3d.ctv
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/cl.jpg?raw=true" group-title="UHD-IPV4",Clarity 4K
 #https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1,tvg-id="Fashion4K" tvg-name="Fashion4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/fashiontv.png?raw=true" group-title="UHD-IPV4",Fashion4K
