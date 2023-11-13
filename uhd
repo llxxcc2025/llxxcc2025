@@ -95,7 +95,6 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230934/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230957/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230984/1.m3u8
-http://192.168.100.1:3456/bestv2.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="UHD-IPV6",纯享超清2
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
