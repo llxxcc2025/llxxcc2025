@@ -1,77 +1,77 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV1hd" tvg-id="CCTV1hd" tvg-name="CCTV1hd",tvg-id tvg-name tvg-logo group-title,CCTV1HD
-http://192.168.100.1:2345/yqgd.php?id=cctv1hd
+http://192.168.100.1:3456/yqgd.php?id=cctv1hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV2hd" tvg-id="CCTV2hd" tvg-name="CCTV2hd",tvg-id tvg-name tvg-logo group-title,CCTV2HD
-http://192.168.100.1:2345/yqgd.php?id=cctv2hd
+http://192.168.100.1:3456/yqgd.php?id=cctv2hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV3hd" tvg-id="CCTV3hd" tvg-name="CCTV3hd",tvg-id tvg-name tvg-logo group-title,CCTV3HD
-http://192.168.100.1:2345/yqgd.php?id=cctv3hd
+http://192.168.100.1:3456/yqgd.php?id=cctv3hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5hd" tvg-id="CCTV5hd" tvg-name="CCTV5hd",tvg-id tvg-name tvg-logo group-title,CCTV5HD
-http://192.168.100.1:2345/yqgd.php?id=cctv5hd
+http://192.168.100.1:3456/yqgd.php?id=cctv5hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",tvg-id tvg-name tvg-logo group-title,CCTV5+HD
-http://192.168.100.1:2345/yqgd.php?id=cctv5p
+http://192.168.100.1:3456/yqgd.php?id=cctv5p
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV6hd" tvg-id="CCTV6hd" tvg-name="CCTV6hd",tvg-id tvg-name tvg-logo group-title,CCTV6HD
-http://192.168.100.1:2345/yqgd.php?id=cctv6hd
+http://192.168.100.1:3456/yqgd.php?id=cctv6hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV7hd" tvg-id="CCTV7hd" tvg-name="CCTV7hd",tvg-id tvg-name tvg-logo group-title,CCTV7HD
-http://192.168.100.1:2345/yqgd.php?id=cctv7hd
+http://192.168.100.1:3456/yqgd.php?id=cctv7hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV8hd" tvg-id="CCTV8hd" tvg-name="CCTV8hd",tvg-id tvg-name tvg-logo group-title,CCTV8HD
-http://192.168.100.1:2345/yqgd.php?id=cctv8hd
+http://192.168.100.1:3456/yqgd.php?id=cctv8hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV9hd" tvg-id="CCTV9hd" tvg-name="CCTV9hd",tvg-id tvg-name tvg-logo group-title,CCTV9HD
-http://192.168.100.1:2345/yqgd.php?id=cctv9hd
+http://192.168.100.1:3456/yqgd.php?id=cctv9hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV10hd" tvg-id="CCTV10hd" tvg-name="CCTV10hd",tvg-id tvg-name tvg-logo group-title,CCTV10HD
-http://192.168.100.1:2345/yqgd.php?id=cctv10hd
+http://192.168.100.1:3456/yqgd.php?id=cctv10hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV12hd" tvg-id="CCTV12hd" tvg-name="CCTV12hd",tvg-id tvg-name tvg-logo group-title,CCTV12HD
-http://192.168.100.1:2345/yqgd.php?id=cctv12hd
+http://192.168.100.1:3456/yqgd.php?id=cctv12hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV14hd" tvg-id="CCTV14hd" tvg-name="CCTV14hd",tvg-id tvg-name tvg-logo group-title,CCTV14HD
-http://192.168.100.1:2345/yqgd.php?id=cctv14hd
+http://192.168.100.1:3456/yqgd.php?id=cctv14hd
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV16hd" tvg-id="CCTV16hd" tvg-name="CCTV16hd",tvg-id tvg-name tvg-logo group-title,CCTV16HD
-http://192.168.100.1:2345/yqgd.php?id=cctv16hd
+http://192.168.100.1:3456/yqgd.php?id=cctv16hd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,CHC高清电影
-http://192.168.100.1:2345/yqgd.php?id=chcgqdy
+http://192.168.100.1:3456/yqgd.php?id=chcgqdy
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,CHC动作电影2
-http://192.168.100.1:2345/yqgd.php?id=chdzdy2
+http://192.168.100.1:3456/yqgd.php?id=chdzdy2
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,CHC家庭影院2
-http://192.168.100.1:2345/yqgd.php?id=chcjtyy2
+http://192.168.100.1:3456/yqgd.php?id=chcjtyy2
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,北京卫视HD
-http://192.168.100.1:2345/yqgd.php?id=bjwshd
+http://192.168.100.1:3456/yqgd.php?id=bjwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,东方卫视HD
-http://192.168.100.1:2345/yqgd.php?id=dfwshd
+http://192.168.100.1:3456/yqgd.php?id=dfwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,天津卫视HD
-http://192.168.100.1:2345/yqgd.php?id=tjwshd
+http://192.168.100.1:3456/yqgd.php?id=tjwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,重庆卫视HD
-http://192.168.100.1:2345/yqgd.php?id=cqwshd
+http://192.168.100.1:3456/yqgd.php?id=cqwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,黑龙江卫视HD
-http://192.168.100.1:2345/yqgd.php?id=hljwshd
+http://192.168.100.1:3456/yqgd.php?id=hljwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,吉林卫视HD
-http://192.168.100.1:2345/yqgd.php?id=jlwshd
+http://192.168.100.1:3456/yqgd.php?id=jlwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,辽宁卫视HD
-http://192.168.100.1:2345/yqgd.php?id=lnwshd
+http://192.168.100.1:3456/yqgd.php?id=lnwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,河北卫视HD
-http://192.168.100.1:2345/yqgd.php?id=hbwshd
+http://192.168.100.1:3456/yqgd.php?id=hbwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,山西卫视HD
-http://192.168.100.1:2345/yqgd.php?id=sxiwshd
+http://192.168.100.1:3456/yqgd.php?id=sxiwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,山东卫视HD
-http://192.168.100.1:2345/yqgd.php?id=sdwshd
+http://192.168.100.1:3456/yqgd.php?id=sdwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,安徽卫视HD
-http://192.168.100.1:2345/yqgd.php?id=ahwshd
+http://192.168.100.1:3456/yqgd.php?id=ahwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,湖北卫视HD
-http://192.168.100.1:2345/yqgd.php?id=hubwshd
+http://192.168.100.1:3456/yqgd.php?id=hubwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,湖南卫视HD
-http://192.168.100.1:2345/yqgd.php?id=hunwshd
+http://192.168.100.1:3456/yqgd.php?id=hunwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,江西卫视HD
-http://192.168.100.1:2345/yqgd.php?id=jxwshd
+http://192.168.100.1:3456/yqgd.php?id=jxwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,江苏卫视HD
-http://192.168.100.1:2345/yqgd.php?id=jswshd
+http://192.168.100.1:3456/yqgd.php?id=jswshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,浙江卫视HD
-http://192.168.100.1:2345/yqgd.php?id=zjwshd
+http://192.168.100.1:3456/yqgd.php?id=zjwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,深圳卫视HD
-http://192.168.100.1:2345/yqgd.php?id=szwshd
+http://192.168.100.1:3456/yqgd.php?id=szwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,四川卫视HD
-http://192.168.100.1:2345/yqgd.php?id=scwshd
+http://192.168.100.1:3456/yqgd.php?id=scwshd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,乐游HD
-http://192.168.100.1:2345/yqgd.php?id=lyhd
+http://192.168.100.1:3456/yqgd.php?id=lyhd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,魅力足球HD
-http://192.168.100.1:2345/yqgd.php?id=mlzqhd
+http://192.168.100.1:3456/yqgd.php?id=mlzqhd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,阳泉新闻综合HD
-http://192.168.100.1:2345/yqgd.php?id=yqxwzhhd
+http://192.168.100.1:3456/yqgd.php?id=yqxwzhhd
 #EXTINF:-1,tvg-id tvg-name tvg-logo group-title,阳泉科教HD
-http://192.168.100.1:2345/yqgd.php?id=yqkjhd
+http://192.168.100.1:3456/yqgd.php?id=yqkjhd
