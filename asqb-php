@@ -1,4 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 4k
+http://192.168.100.1:3456/asqp.php?id=cctv16_4k
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
+http://192.168.100.1:3456/asqp.php?id=as4k
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
 http://192.168.100.1:3456/asqp.php?id=cctv1hd
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2高清
@@ -35,8 +40,6 @@ http://192.168.100.1:3456/asqp.php?id=cctv14hd
 http://192.168.100.1:3456/asqp.php?id=cctv15hd
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16高清
 http://192.168.100.1:3456/asqp.php?id=cctv16
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 4k
-http://192.168.100.1:3456/asqp.php?id=cctv16_4k
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17高清
 http://192.168.100.1:3456/asqp.php?id=cctv17hd
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN高清
@@ -149,8 +152,7 @@ http://192.168.100.1:3456/asqp.php?id=xfpy
 http://192.168.100.1:3456/asqp.php?id=cftx
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
 http://192.168.100.1:3456/asqp.php?id=jjkt
-#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
-http://192.168.100.1:3456/asqp.php?id=as4k
+
 #EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="其他",精选
 http://192.168.100.1:3456/asqp.php?id=jx
 #EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="其他",喜剧
