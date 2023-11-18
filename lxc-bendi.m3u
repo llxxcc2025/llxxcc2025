@@ -84,9 +84,9 @@ http://192.168.100.1:4567/kxm.php?id=xmyd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教8K
 http://angtv.cc/test/bj8k.php?id=8k
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001231/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png?raw=true" group-title="北京",北京国际频道
+http://114.253.246.148:14000/rtp/239.3.1.235:8000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="北京",北京卫视
 http://192.168.100.1:3456/btime_app.php?id=bjws
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -103,9 +103,9 @@ http://192.168.100.1:3456/btime_app.php?id=btvsh
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 http://192.168.100.1:3456/btime_app.php?id=btvxw
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
-http://221.220.130.233:4022/rtp/239.3.1.116:8000
+http://114.253.246.148:14000/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="北京",北京体育休闲
-http://221.220.130.233:4022/rtp/239.3.1.243:8000
+http://114.253.246.148:14000/rtp/239.3.1.243:8000
 
 #EXTINF:-1,tvg-id="KBS1高画质" tvg-name="KBS1高画质" tvg-logo="https://epg.112114.xyz/logo/KBS1高画质.png" group-title="KBS",KBS1高画质
 http://192.168.100.1:3456/kbs.php?id=11&p=0
