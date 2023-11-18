@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1tvg-id="4"tvg-name="CCTV-1高清",CCTV-1高清
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="CCTV-2高清",CCTV-2高清
