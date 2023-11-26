@@ -65,12 +65,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV6",CCTV-4K湖北电信
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV4",CCTV-4K湖北电信
 http://58.48.198.1:2222/udp/239.69.1.111:10304
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV6",CCTV-4K河北联通
-http://110.240.171.146:808/udp/239.253.93.134:6631
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV6",CCTV-4K 百事通
-http://lu1.cc/itv/php/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV4",CCTV-4K河北联通
+http://101.28.50.71:4022/udp/239.253.93.134:6631
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV4",CCTV-4K 百事通
+http://192.168.100.1:3456/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="UHD-IPV6",纯享超清1
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?blog.ntnas.top
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
