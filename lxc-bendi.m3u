@@ -73,13 +73,13 @@ http://192.168.100.1:3456/gzbd.php?id=fazhi
 http://192.168.100.1:3456/gzbd.php?id=shenghuo
 
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://192.168.100.1:4567/kxm.php?id=xmws
+http://192.168.100.1:3456/kxm.php?id=xmws
 #EXTINF:-1,tvg-id="厦门1" tvg-name="厦门1" tvg-logo="https://epg.112114.xyz/logo/厦门1.png" group-title="其他",厦门1
-http://192.168.100.1:4567/kxm.php?id=xm1
+http://192.168.100.1:3456/kxm.php?id=xm1
 #EXTINF:-1,tvg-id="厦门2" tvg-name="厦门2" tvg-logo="https://epg.112114.xyz/logo/厦门2.png" group-title="其他",厦门2
-http://192.168.100.1:4567/kxm.php?id=xm2
+http://192.168.100.1:3456/kxm.php?id=xm2
 #EXTINF:-1,tvg-id="厦门移动" tvg-name="厦门移动" tvg-logo="https://epg.112114.xyz/logo/厦门移动.png" group-title="其他",厦门移动
-http://192.168.100.1:4567/kxm.php?id=xmyd
+http://192.168.100.1:3456/kxm.php?id=xmyd
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实科教8K" group-title="北京",北京纪实科教8K
 http://angtv.cc/test/bj8k.php?id=8k
