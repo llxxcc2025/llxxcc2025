@@ -3,10 +3,6 @@
 http://192.168.100.1:3456/youtube.php?id=9sE12tg3CmA
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港新闻",凤凰卫视资讯台
 http://192.168.100.1:3456/youtube.php?id=Zm4i_rvAcxc
-
-#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/thekppp.jpg?raw=true" group-title="国外新闻",THE K-POP
-http://192.168.100.1:3456/youtube.php?id=JVocS7Yftw8
-
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
 http://192.168.100.1:3456/youtube.php?id=w87VGpgd90U
 http://192.168.100.1:3456/youtube.php?id=vOue3tgccd0
@@ -47,3 +43,5 @@ http://192.168.100.1:3456/youtube.php?id=OxQQsIvJTTU
 http://192.168.100.1:3456/youtube.php?id=IBy_BHT9a3M
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://upload.112114.xyz/logo/ANN-NEWS.png" group-title="国外新闻",ANN
 http://192.168.100.1:3456/youtube.php?id=coYw-eVU0Ks
+#EXTINF:-1,tvg-id="THE K-POP" tvg-name="THE K-POP" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/thekppp.jpg?raw=true" group-title="国外新闻",THE K-POP
+http://192.168.100.1:3456/youtube.php?id=JVocS7Yftw8
