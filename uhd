@@ -53,13 +53,13 @@ http://171.221.25.153:8888/udp/239.93.1.197:5140
 http://171.221.25.153:8888/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K电影
-http://58.32.17.32:0/udp/239.45.3.107:5140
+http://58.32.17.32:8880/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K纪实
-http://58.32.17.32:0/udp/239.45.1.10:5140
+http://58.32.17.32:8880/udp/239.45.1.10:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K测试
-http://58.32.17.32:0/udp/239.45.1.108:5140
+http://58.32.17.32:8880/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-IPV4",百事通4K儿童
-http://58.32.17.32:0/udp/239.45.1.1:5140
+http://58.32.17.32:8880/udp/239.45.1.1:5140
 
 #EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
