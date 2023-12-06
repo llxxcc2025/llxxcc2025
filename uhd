@@ -47,8 +47,6 @@ http://192.168.100.1:3456/sxg2.php?id=emdy4k_8000
 http://171.221.25.153:8888/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%BA%B2%E5%AD%90%E9%98%85%E8%AF%BB.png?raw=true" group-title="UHD-IPV4",亲子趣学4k专区
 http://171.221.25.153:8888/udp/239.93.1.191:5140
-#EXTINF:-1,tvg-id="津津悦读4K专区" tvg-name="津津悦读4K专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E6%B4%A5%E6%B4%A5%E9%98%85%E8%AF%BB.png?raw=true" group-title="UHD-IPV4",津津悦读4K专区
-http://171.221.25.153:8888/udp/239.93.1.197:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB.jpg?raw=true" group-title="UHD-IPV4",中录动漫4K专区
 http://171.221.25.153:8888/udp/239.93.1.188:5140
 
