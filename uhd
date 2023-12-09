@@ -40,8 +40,7 @@ http://113.103.253.43:2000/udp/239.77.0.246:5146
 http://113.103.253.43:2000/udp/239.77.1.236:5146
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="UHD-广东电信",广州南国都市.4K
 http://113.103.253.43:2000/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="2K-广东电信",广州南国都市.1080P
-http://192.168.100.1:3456/gzbd.php?id=shenghuo
+
 
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="UHD-云南电信",云南电信4K
 http://106.57.0.211:55555/udp/239.200.200.178:8884
@@ -53,7 +52,7 @@ http://175.15.57.111:6080/udp/239.76.245.35:1234
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-四川电信",华数4K影视
 http://222.212.65.136:8686/udp/239.93.0.43:5140
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="UHD-IPV4",4K超高清电影
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="其他",4K超高清电影
 http://192.168.100.1:3456/sxgv4.php?id=emdy4k_8000
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-四川电信",绚影4K
@@ -74,7 +73,11 @@ http://180.165.217.145:9000/udp/239.45.1.1:5140
 
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="UHD-IPV4",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="江苏移动4K测试" tvg-name="江苏移动4K测试" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/JSTV_logo.png?raw=true" group-title="2K-IPV6",江苏移动4K测试
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/beij.jpg?raw=true" group-title="8K-IPV4",北京纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="其他",广州南国都市.1080P
+http://192.168.100.1:3456/gzbd.php?id=shenghuo
+#EXTINF:-1,tvg-id="江苏移动4K测试" tvg-name="江苏移动4K测试" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/JSTV_logo.png?raw=true" group-title="其他",江苏移动4K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
@@ -107,7 +110,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/32212283
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230957/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV16.png?raw=true" group-title="UHD-广东电信",CCTV16-4K 广东电信
 http://113.103.253.43:2000/udp/239.77.1.98:5146
 
@@ -117,9 +119,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/beij.jpg?raw=true" group-title="8K-IPV4",北京纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
@@ -134,5 +133,3 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230904/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/肥羊/224/3221228132/index.m3u8
-
-
