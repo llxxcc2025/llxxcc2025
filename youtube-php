@@ -20,7 +20,6 @@ http://192.168.100.1:3456/youtube.php?id=wM0g8EoUZ_E
 #EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="台湾新闻",鏡新聞
 http://192.168.100.1:3456/youtube.php?id=5n0y6b0Q25o
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾新闻",东森新闻台
-http://192.168.100.1:3456/youtube.php?id=S5WOGu2HSes
 http://192.168.100.1:3456/youtube.php?id=E0zhe2gkXBs
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾新闻",TVBS 新闻56台
 http://192.168.100.1:3456/youtube.php?id=YvdcZ_jpLXE
