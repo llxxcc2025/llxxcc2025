@@ -402,3 +402,8 @@ http://47.242.38.45:9999/twjd678-1.php?id=66
 http://47.242.38.45:9999/twjd678-1.php?id=67
 #EXTINF:-1,tvg-id="鳯凰衛視中文" tvg-name="鳯凰衛視中文" tvg-logo="https://epg.112114.xyz/logo/鳯凰衛視中文.png" group-title="其他",鳯凰衛視中文
 http://47.242.38.45:9999/twjd678-1.php?id=68
+
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文台
+http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港",凤凰卫视资讯台
+http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
