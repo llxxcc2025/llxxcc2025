@@ -41,7 +41,7 @@ http://61.144.103.224:8090/udp/239.77.1.237:5146
 http://61.144.103.224:8090/udp/239.253.43.99:5146
 
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="UHD-云南电信",云南电信4K
-http://106.57.0.39:55555/udp/239.200.200.178:8884
+http://116.55.177.76:4000/udp/239.200.200.178:8884
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="UHD-湖南电信",湖南IPTV4K
 http://175.9.142.26:8888/udp/239.76.252.35:9000
 http://175.9.142.26:8888/udp/239.76.245.35:1234
