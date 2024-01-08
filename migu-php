@@ -63,7 +63,7 @@ http://192.168.100.1:3456/migu.php?id=gsws
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://192.168.100.1:3456/migu.php?id=qhws
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://192.168.100.1:3456/migu.php?id=sxws
+http://192.168.100.1:3456/migu.php?id=sxwsb
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.100.1:3456/migu.php?id=sdws
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
@@ -125,4 +125,15 @@ http://192.168.100.1:3456/migu.php?id=gqdp
 #EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png" group-title="其他",成龙作品集
 http://192.168.100.1:3456/migu.php?id=clzp
 
-
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",老故事SD
+http://192.168.100.1:3456/migu.php?id=lgs
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",中学生HD
+http://192.168.100.1:3456/migu.php?id=zxs
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",发现之旅HD
+http://192.168.100.1:3456/migu.php?id=fxzl
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",赛事最经典HD
+http://192.168.100.1:3456/migu.php?id=ssjd
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",掼蛋精英赛HD
+http://192.168.100.1:3456/migu.php?id=gdjys
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",Y+$FHD
+http://192.168.100.1:3456/migu.php?id=yplus
