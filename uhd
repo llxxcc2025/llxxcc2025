@@ -21,7 +21,7 @@ http://192.168.100.1:35455/douyu/9249162
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 #http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-四川电信",爱上4K 四川电信
-#http://171.221.41.95:9999/udp/239.93.0.97:5140
+#http://222.209.51.140:4455/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%88%B1%E4%B8%8A4K.png" group-title="UHD-北京联通",爱上4K 北京联通
 #http://www.lishaoping.com:8012/rtp/239.2.1.236:2000
 
@@ -51,16 +51,16 @@ http://175.9.143.187:8888/udp/239.76.252.35:9000
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-IPV6",华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-四川电信",华数4K影视 四川电信
-#http://171.221.41.95:9999/udp/239.93.0.43:5140
+#http://222.209.51.140:4455/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="其他",4K超高清电影
 #http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=emdy4k_8000
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-四川电信",绚影4K
-http://171.221.41.95:9999/udp/239.93.42.33:5140
+http://222.209.51.140:4455/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%BA%B2%E5%AD%90%E9%98%85%E8%AF%BB.png?raw=true" group-title="UHD-四川电信",亲子趣学4k专区
-http://171.221.41.95:9999/udp/239.93.1.191:5140
+http://222.209.51.140:4455/udp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="中录动漫4K专区" tvg-name="中录动漫4K专区" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E4%B8%AD%E5%BD%95%E5%8A%A8%E6%BC%AB.jpg?raw=true" group-title="UHD-四川电信",中录动漫4K专区
-http://171.221.41.95:9999/udp/239.93.1.188:5140
+http://222.209.51.140:4455/udp/239.93.1.188:5140
 
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="UHD-上海电信",百事通4K电影
 http://222.70.231.154:8888/udp/239.45.3.107:5140
@@ -105,7 +105,7 @@ http://113.87.3.217:5000/rtp/239.77.0.174:5146
 #http://113.87.3.217:5000/rtp/239.77.0.194:5146
 #http://113.87.3.217:5000/rtp/239.77.1.180:5146
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-四川电信",CCTV-4K 四川电信
-#http://171.221.41.95:9999/udp/239.93.42.41:5140
+#http://222.209.51.140:4455/udp/239.93.42.41:5140
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-湖北电信",CCTV-4K 湖北电信
 #http://27.18.4.54:8088/udp/239.69.1.111:10304
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-河北联通",CCTV-4K 河北联通
