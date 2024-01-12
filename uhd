@@ -45,8 +45,8 @@ http://58.63.64.26:8888/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="UHD-云南电信",云南电信4K
 http://106.57.1.58:55555/udp/239.200.200.178:8884
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="UHD-湖南电信",湖南IPTV4K
-http://113.223.214.234:9000/udp/239.76.252.35:9000
-#http://113.223.214.234:9000/udp/239.76.245.35:1234
+http://175.9.142.106:58888/udp/239.76.252.35:9000
+#http://175.9.142.106:58888/udp/239.76.245.35:1234
 
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-IPV6",华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
