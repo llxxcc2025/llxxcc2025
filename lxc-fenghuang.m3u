@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯台
+https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰资讯",凤凰资讯台-成都电信
 http://118.112.148.176:58888/udp/239.93.1.4:2191
 http://118.112.148.176:58888/udp/239.93.0.118:2191
@@ -8,6 +10,8 @@ http://220.161.66.214:9999/udp/239.61.5.47:1025
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰资讯",凤凰资讯台-浙江电信
 http://60.186.149.109:10000/udp/233.50.200.192:5140
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文台
+https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台-成都电信
 http://118.112.148.176:58888/udp/239.93.1.9:2192
 http://118.112.148.176:58888/udp/239.93.0.162:2192
@@ -17,8 +21,8 @@ http://220.161.66.214:9999/udp/239.61.5.48:1025
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰中文",凤凰中文台-浙江电信
 http://60.186.149.109:10000/udp/233.50.200.191:5140
 
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰香港",凤凰香港台
-https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=935639942&user_token=15b0ed277c87b2132842bcbb97accfc2
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港台
+https://0472.org/hls/youzaiSB/fhhk.m3u8?youzaiSB
 
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/beij.jpg?raw=true" group-title="8K-IPV4",北京纪实科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
