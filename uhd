@@ -79,8 +79,6 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="江苏移动4K测试" tvg-name="江苏移动4K测试" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/JSTV_logo.png?raw=true" group-title="其他",江苏移动4K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="UHD-IPV6",CCTV-1 综合4K
-http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="UHD-IPV6",CCTV-5 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="UHD-IPV6",CCTV-3 4K
