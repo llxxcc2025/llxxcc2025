@@ -43,7 +43,7 @@ http://192.168.100.1:8899/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9R
 http://58.63.67.88:8888/udp/239.253.43.99:5146
 
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="UHD-云南电信",云南电信4K
-http://116.248.130.80:8888/udp/239.200.200.178:8884
+http://116.55.176.31:4000/udp/239.200.200.178:8884
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="UHD-湖南电信",湖南IPTV4K
 http://175.0.93.178:9000/udp/239.76.252.35:9000
 #http://175.0.93.178:9000/udp/239.76.245.35:1234
