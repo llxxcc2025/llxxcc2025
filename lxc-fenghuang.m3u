@@ -10,8 +10,8 @@ http://118.112.148.176:58888/udp/239.93.0.118:2191
 http://117.28.130.70:8888/udp/239.61.2.183:9086
 http://117.28.130.70:8888/udp/239.61.5.47:1025
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-湖南电信
-http://175.0.93.178:9000/udp/239.76.246.8:1234
-http://175.0.93.178:9000/udp/239.76.253.134:9000
+http://175.0.92.23:9000/udp/239.76.246.8:1234
+http://175.0.92.23:9000/udp/239.76.253.134:9000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-浙江电信
 http://115.207.211.91:8889/udp/233.50.200.192:5140
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-甘肃电信
@@ -28,8 +28,8 @@ http://118.112.148.176:58888/udp/239.93.0.162:2192
 http://117.28.130.70:8888/udp/239.61.2.184:9092
 http://117.28.130.70:8888/udp/239.61.5.48:1025
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰台",凤凰中文台-湖南电信
-http://175.0.93.178:9000/udp/239.76.246.7:1234
-http://175.0.93.178:9000/udp/239.76.253.135:9000
+http://175.0.92.23:9000/udp/239.76.246.7:1234
+http://175.0.92.23:9000/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰台",凤凰中文台-浙江电信
 http://115.207.211.91:8889/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰台",凤凰中文台-甘肃电信
