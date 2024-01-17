@@ -48,8 +48,6 @@ http://192.168.100.1:3456/gudoutv.php?id=lypd
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv1hd
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经HD
-http://192.168.100.1:3456/gudoutv.php?id=cctv2
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv2hd
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3综艺HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv3hd
@@ -77,6 +75,8 @@ http://192.168.100.1:3456/gudoutv.php?id=cctv12hd
 http://192.168.100.1:3456/gudoutv.php?id=cctv13hd
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14少儿HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv14hd
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CTV15音乐HD
+http://192.168.100.1:3456/gudoutv.php?id=cctv15hd
 #EXTINF:-1,tvg-id="CCTV117农村农业HD" tvg-name="CCTV117农村农业HD" tvg-logo="https://epg.112114.xyz/logo/CCTV农村农业.png" group-title="央视",CCTV117农村农业HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv17hd
 #EXTINF:-1,tvg-id="CETV1HD" tvg-name="CETV1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1HD
