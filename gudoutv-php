@@ -126,8 +126,6 @@ http://192.168.100.1:3456/gudoutv.php?id=jlhd
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视HD
 http://192.168.100.1:3456/gudoutv.php?id=lnhd
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视HD
-http://192.168.100.1:3456/gudoutv.php?id=hbws
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视HD
 http://192.168.100.1:3456/gudoutv.php?id=hbhd
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视HD
 http://192.168.100.1:3456/gudoutv.php?id=sdhd
