@@ -39,7 +39,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%B9%BF%E4%B8%9C.jpg?raw=true" group-title="UHD-广东电信",广东综艺4K
-http://192.168.100.1:8899/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9RIlQ%3D%3D&pserialnumber=22702bd68a70cb12&cid=30&id=GDZYHD4K_38000
+http://192.168.100.1:3456/gudoutv.php?id=gdzy4k
+#http://192.168.100.1:8899/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9RIlQ%3D%3D&pserialnumber=22702bd68a70cb12&cid=30&id=GDZYHD4K_38000
 #http://116.27.25.152:9206/udp/239.77.0.246:5146
 #http://116.27.25.152:9206/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%97%E5%9B%BD.jpg?raw=true" group-title="UHD-广东电信",广州南国都市.4K
