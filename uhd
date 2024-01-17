@@ -103,7 +103,7 @@ http://116.27.25.152:9206/rtp/239.77.0.174:5146
 #http://116.27.25.152:9206/rtp/239.77.0.194:5146
 #http://116.27.25.152:9206/rtp/239.77.1.180:5146
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 谷豆
-
+http://192.168.100.1:3456/gudoutv.php?id=cctv4k
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 北京联通
 http://124.64.238.184:9002/rtp/239.3.1.245:2000
 #http://124.64.238.184:9002/rtp/239.3.1.244:2000
