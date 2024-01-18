@@ -133,8 +133,9 @@ http://192.168.100.1:3456/gudoutv.php?id=jxhd
 http://192.168.100.1:3456/gudoutv.php?id=gxhd
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://192.168.100.1:3456/gudoutv.php?id=ssws
-#EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="其他",岭南戏曲
-http://192.168.100.1:3456/gudoutv.php?id=lnxq
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://192.168.100.1:3456/gudoutv.php?id=dwqws
+
 #EXTINF:-1,tvg-id="增城电视台" tvg-name="增城电视台" tvg-logo="https://epg.112114.xyz/logo/增城电视台.png" group-title="其他",增城电视台
 http://192.168.100.1:3456/gudoutv.php?id=zctv
 #EXTINF:-1,tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://epg.112114.xyz/logo/潮安综合.png" group-title="其他",潮安综合
@@ -157,8 +158,6 @@ http://192.168.100.1:3456/gudoutv.php?id=hy1hd
 http://192.168.100.1:3456/gudoutv.php?id=hz1hd
 #EXTINF:-1,tvg-id="惠州二套HDHD" tvg-name="惠州二套HDHD" tvg-logo="https://epg.112114.xyz/logo/惠州二套HD.png" group-title="其他",惠州二套HDHD
 http://192.168.100.1:3456/gudoutv.php?id=hz2hd
-#EXTINF:-1,tvg-id="博罗综合" tvg-name="博罗综合" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png" group-title="其他",博罗综合
-http://192.168.100.1:3456/gudoutv.php?id=blzhb
 #EXTINF:-1,tvg-id="博罗综合HD" tvg-name="博罗综合HD" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png" group-title="其他",博罗综合HD
 http://192.168.100.1:3456/gudoutv.php?id=blzhhd
 #EXTINF:-1,tvg-id="惠东综合HD" tvg-name="惠东综合HD" tvg-logo="https://epg.112114.xyz/logo/惠东综合.png" group-title="其他",惠东综合HD
@@ -207,8 +206,6 @@ http://192.168.100.1:3456/gudoutv.php?id=ljzh
 http://192.168.100.1:3456/gudoutv.php?id=zszhhd
 #EXTINF:-1,tvg-id="中山香山文化HD" tvg-name="中山香山文化HD" tvg-logo="https://epg.112114.xyz/logo/中山香山文化.png" group-title="其他",中山香山文化HD
 http://192.168.100.1:3456/gudoutv.php?id=zsxswhhd
-#EXTINF:-1,tvg-id="中山教育" tvg-name="中山教育" tvg-logo="https://epg.112114.xyz/logo/中山教育.png" group-title="其他",中山教育
-http://192.168.100.1:3456/gudoutv.php?id=zsjy
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://192.168.100.1:3456/gudoutv.php?id=gdzj
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
@@ -217,12 +214,9 @@ http://192.168.100.1:3456/gudoutv.php?id=gdxw
 http://192.168.100.1:3456/gudoutv.php?id=gdms
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
 http://192.168.100.1:3456/gudoutv.php?id=gdjjkjhd
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://192.168.100.1:3456/gudoutv.php?id=dwqws
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://192.168.100.1:3456/gudoutv.php?id=gdys
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
 http://192.168.100.1:3456/gudoutv.php?id=gdse
+
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
 http://192.168.100.1:3456/gudoutv.php?id=jjkt
 #EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="其他",潮州综合
@@ -235,9 +229,7 @@ http://192.168.100.1:3456/gudoutv.php?id=fsnh
 http://192.168.100.1:3456/gudoutv.php?id=fssd
 #EXTINF:-1,tvg-id="廉江综合2" tvg-name="廉江综合2" tvg-logo="https://epg.112114.xyz/logo/廉江综合2.png" group-title="其他",廉江综合2
 http://192.168.100.1:3456/gudoutv.php?id=ljzh2
-#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合
-http://192.168.100.1:3456/gudoutv.php?id=gzzh
-#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="其他",广州新闻
-http://192.168.100.1:3456/gudoutv.php?id=gzxw
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
 http://192.168.100.1:3456/gudoutv.php?id=lypd
+#EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="其他",岭南戏曲
+http://192.168.100.1:3456/gudoutv.php?id=lnxq
