@@ -195,8 +195,6 @@ http://192.168.100.1:3456/gudoutv.php?id=stxwzh2
 http://192.168.100.1:3456/gudoutv.php?id=stjjsh2
 #EXTINF:-1,tvg-id="汕头文旅体育2" tvg-name="汕头文旅体育2" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育2.png" group-title="其他",汕头文旅体育2
 http://192.168.100.1:3456/gudoutv.php?id=stwlty2
-#EXTINF:-1,tvg-id="始兴综合" tvg-name="始兴综合" tvg-logo="https://epg.112114.xyz/logo/始兴综合.png" group-title="其他",始兴综合
-http://192.168.100.1:3456/gudoutv.php?id=sgsx
 #EXTINF:-1,tvg-id="珠海一套HD" tvg-name="珠海一套HD" tvg-logo="https://epg.112114.xyz/logo/珠海一套.png" group-title="其他",珠海一套HD
 http://192.168.100.1:3456/gudoutv.php?id=zh1hd
 #EXTINF:-1,tvg-id="珠海二套HD" tvg-name="珠海二套HD" tvg-logo="https://epg.112114.xyz/logo/珠海二套.png" group-title="其他",珠海二套HD
@@ -227,12 +225,6 @@ http://192.168.100.1:3456/gudoutv.php?id=gdys
 http://192.168.100.1:3456/gudoutv.php?id=gdse
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
 http://192.168.100.1:3456/gudoutv.php?id=jjkt
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="其他",汕头综合
-http://192.168.100.1:3456/gudoutv.php?id=stxwzh2
-#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="其他",汕头经济生活
-http://192.168.100.1:3456/gudoutv.php?id=stjjsh2
-#EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="其他",汕头文旅体育
-http://192.168.100.1:3456/gudoutv.php?id=stwlty2
 #EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="其他",潮州综合
 http://192.168.100.1:3456/gudoutv.php?id=czzh
 #EXTINF:-1,tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="其他",潮州民生
