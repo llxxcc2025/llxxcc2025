@@ -1,4 +1,43 @@
-#EXTM3U
+
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",CETV-早期教育-HD
+http://118.112.148.176:58888/udp/239.93.0.117:5140?
+#EXTINF:-1,tvg-id="CCTV-央視台球-HD" tvg-name="CCTV-央視台球-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV央視台球.png" group-title="央视",CCTV-央視台球-HD
+http://118.112.148.176:58888/udp/239.93.0.218:5140?
+#EXTINF:-1,tvg-id="CCTV-風雲音樂-HD" tvg-name="CCTV-風雲音樂-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV風雲音樂.png" group-title="央视",CCTV-風雲音樂-HD
+http://118.112.148.176:58888/udp/239.93.0.224:5140?
+#EXTINF:-1,tvg-id="CCTV-風雲足球-HD" tvg-name="CCTV-風雲足球-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV風雲足球.png" group-title="央视",CCTV-風雲足球-HD
+http://118.112.148.176:58888/udp/239.93.0.235:5140?
+#EXTINF:-1,tvg-id="CTV-高爾夫網球-H" tvg-name="CTV-高爾夫網球-H" tvg-logo="https://epg.112114.xyz/logo/CTV高爾夫網球H.png" group-title="其他",CTV-高爾夫網球-HD
+http://118.112.148.176:58888/udp/239.93.1.54:5140?/D
+#EXTINF:-1,tvg-id="CCTV-風雲劇場-HD" tvg-name="CCTV-風雲劇場-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV風雲劇場.png" group-title="央视",CCTV-風雲劇場-HD
+http://118.112.148.176:58888/udp/239.93.1.156:5140?
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV-世界地理-HD
+http://118.112.148.176:58888/udp/239.93.1.157:5140?
+#EXTINF:-1,tvg-id="CCTV-第一劇場-HD" tvg-name="CCTV-第一劇場-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV第一劇場.png" group-title="央视",CCTV-第一劇場-HD
+http://118.112.148.176:58888/udp/239.93.1.197:5140?
+#EXTINF:-1,tvg-id="CCTV-懷舊劇場-HD" tvg-name="CCTV-懷舊劇場-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV懷舊劇場.png" group-title="央视",CCTV-懷舊劇場-HD
+http://118.112.148.176:58888/udp/239.93.1.198:5140?
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV-兵器科技-HD
+http://118.112.148.176:58888/udp/239.93.1.235:5140?
+#EXTINF:-1,tvg-id="CCTV-央視精品-HD" tvg-name="CCTV-央視精品-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV央視精品.png" group-title="央视",CCTV-央視精品-HD
+http://118.112.148.176:58888/udp/239.93.42.47:5140?
+#EXTINF:-1,tvg-id="CCTV-女性時尚-HD" tvg-name="CCTV-女性時尚-HD" tvg-logo="https://epg.112114.xyz/logo/CCTV女性時尚.png" group-title="央视",CCTV-女性時尚-HD
+http://118.112.148.176:58888/udp/239.93.42.62:5140?
+#EXTINF:-1,tvg-id="五星體育-HD" tvg-name="五星體育-HD" tvg-logo="https://epg.112114.xyz/logo/五星體育.png" group-title="其他",五星體育-HD
+http://118.112.148.176:58888/udp/239.93.1.186:5140
+#EXTINF:-1,tvg-id="CCTV-4K-UHD" tvg-name="CCTV-4K-UHD" tvg-logo="https://epg.112114.xyz/logo/CCTV4KU.png" group-title="央视",CCTV-4K-UHD
+http://118.112.148.176:58888/udp/239.93.42.41:5140
+#EXTINF:-1,tvg-id="CCTV-4K-UHD" tvg-name="CCTV-4K-UHD" tvg-logo="https://epg.112114.xyz/logo/CCTV4KU.png" group-title="央视",CCTV-4K-UHD
+http://118.112.148.176:58888/udp/239.93.42.42:5140
+#EXTINF:-1,tvg-id="四川衛視-HD" tvg-name="四川衛視-HD" tvg-logo="https://epg.112114.xyz/logo/四川衛視.png" group-title="四川",四川衛視-HD
+http://118.112.148.176:58888/udp/239.93.1.143:5140
+#EXTINF:-1,tvg-id="中國天氣" tvg-name="中國天氣" tvg-logo="https://epg.112114.xyz/logo/中國天氣.png" group-title="其他",中國天氣
+http://118.112.148.176:58888/udp/239.93.42.66:5140
+#EXTINF:-1,tvg-id="書畫頻道" tvg-name="書畫頻道" tvg-logo="https://epg.112114.xyz/logo/書畫頻道.png" group-title="其他",書畫頻道
+http://118.112.148.176:58888/udp/239.93.42.67:5140
+#EXTINF:-1,tvg-id="四海釣魚" tvg-name="四海釣魚" tvg-logo="https://epg.112114.xyz/logo/四海釣魚.png" group-title="其他",四海釣魚
+http://118.112.148.176:58888/udp/239.93.0.55:5140
+
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K超高清",爱上4K专区
 http://118.112.148.176:58888/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="4K超高清电影专区" tvg-name="4K超高清电影专区" tvg-logo="https://epg.112114.xyz/logo/4K电影专区.png" group-title="4K超高清",4K超高清电影专区
