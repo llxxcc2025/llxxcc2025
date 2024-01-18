@@ -47,8 +47,6 @@ http://192.168.100.1:3456/gudoutv.php?id=xsj
 http://192.168.100.1:3456/gudoutv.php?id=wwbk
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
 http://192.168.100.1:3456/gudoutv.php?id=wssj
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
-http://192.168.100.1:3456/gudoutv.php?id=lypd
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合HD
 http://192.168.100.1:3456/gudoutv.php?id=cctv1hd
@@ -106,7 +104,7 @@ http://192.168.100.1:3456/gudoutv.php?id=hubhd
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://192.168.100.1:3456/gudoutv.php?id=ahhd
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://192.168.100.1:3456/gudoutv.php?id=hinws
+http://192.168.100.1:3456/gudoutv.php?id=hinhd
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://192.168.100.1:3456/gudoutv.php?id=sxws
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
@@ -249,3 +247,5 @@ http://192.168.100.1:3456/gudoutv.php?id=ljzh2
 http://192.168.100.1:3456/gudoutv.php?id=gzzh
 #EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="其他",广州新闻
 http://192.168.100.1:3456/gudoutv.php?id=gzxw
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
+http://192.168.100.1:3456/gudoutv.php?id=lypd
