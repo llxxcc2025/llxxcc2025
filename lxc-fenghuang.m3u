@@ -7,8 +7,8 @@ https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB
 http://118.112.148.176:58888/udp/239.93.1.4:2191
 http://118.112.148.176:58888/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-福建电信
-http://117.28.130.70:8888/udp/239.61.2.183:9086
-http://117.28.130.70:8888/udp/239.61.5.47:1025
+http://222.76.104.55:50001/udp/239.61.2.183:9086
+http://222.76.104.55:50001/udp/239.61.5.47:1025
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-湖南电信
 http://113.240.158.138:8888/udp/239.76.246.8:1234
 http://113.240.158.138:8888/udp/239.76.253.134:9000
@@ -25,8 +25,8 @@ https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB
 http://118.112.148.176:58888/udp/239.93.1.9:2192
 http://118.112.148.176:58888/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰台",凤凰中文台-福建电信
-http://117.28.130.70:8888/udp/239.61.2.184:9092
-http://117.28.130.70:8888/udp/239.61.5.48:1025
+http://222.76.104.55:50001/udp/239.61.2.184:9092
+http://222.76.104.55:50001/udp/239.61.5.48:1025
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰台",凤凰中文台-湖南电信
 http://113.240.158.138:8888/udp/239.76.246.7:1234
 http://113.240.158.138:8888/udp/239.76.253.135:9000
