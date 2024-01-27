@@ -55,7 +55,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-四川电信",华数4K影视 四川电信
 #http://222.209.232.157:8888/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K%E7%94%B5%E5%BD%B1.png?raw=true" group-title="其他",4K超高清电影
-#http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=emdy4k_8000
+https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="UHD-四川电信",绚影4K
 http://222.209.232.157:8888/udp/239.93.42.33:5140
