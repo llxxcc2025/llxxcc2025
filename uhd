@@ -11,7 +11,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://114.246.181.104:8888/rtp/239.3.1.249:8001
 
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南联通",河南卫视联通4K
-http://123.14.225.121:4000/udp/225.1.4.254:1300
+http://61.52.154.153:4000/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南电信",河南卫视电信4K
 #http://171.8.170.77:8811/udp/239.16.10.210:2000
 
