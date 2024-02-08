@@ -97,6 +97,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228472/1.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 满血
+http://1.14.131.61:8765/av3a4k50fps.php
+http://1.14.131.61:5678/gd4k.php
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+http://1.14.131.61:5828/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 广东电信
 #http://125.90.231.56:4000/rtp/239.77.0.174:5146
 #http://125.90.231.56:4000/rtp/239.77.0.194:5146
@@ -131,6 +136,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K 满血
+http://1.14.131.61:8654/av3a8k50fps.php
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?$2160P
 #http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
