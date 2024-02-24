@@ -11,9 +11,9 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://221.221.21.174:4022/rtp/239.3.1.249:8001
 
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南联通",河南卫视联通4K
-http://222.137.230.53:2000/udp/225.1.4.254:1300
+http://219.156.55.26:9999/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南电信",河南卫视电信4K
-#http://1.193.37.99:2000/udp/239.16.10.210:2000
+#http://123.55.98.148:5050/udp/239.16.10.210:2000
 
 #EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院
 http://192.168.100.1:3456/douyu.php?id=9249162
@@ -46,8 +46,8 @@ http://183.29.197.72:8686/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="UHD-云南电信",云南电信4K
 http://106.57.1.172:55555/udp/239.200.200.178:8884
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="UHD-湖南电信",湖南IPTV4K
-#http://175.10.77.130:8089/udp/239.76.252.35:9000
-#http://175.10.77.130:8089/udp/239.76.245.35:1234
+#http://223.156.198.175:4022/udp/239.76.252.35:9000
+#http://223.156.198.175:4022/udp/239.76.245.35:1234
 
 
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/%E5%8D%8E%E6%95%B0.jpg?raw=true" group-title="UHD-IPV6",华数4K影视
@@ -96,7 +96,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228472/1.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 满血
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV4",CCTV-4K 满血
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
 #http://1.14.131.61:5828/cctv4k.php
 #http://1.14.131.61:5678/gd4k.php
@@ -105,9 +105,7 @@ http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
 #http://183.29.197.72:8686/rtp/239.77.0.174:5146
 #http://183.29.197.72:8686/rtp/239.77.0.194:5146
 #http://183.29.197.72:8686/rtp/239.77.1.180:5146
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 谷豆
-#http://192.168.100.1:3456/gudoutv.php?id=cctv4k
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-广东电信",CCTV-4K 北京联通
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-IPV4",CCTV-4K 北京联通
 http://221.221.21.174:4022/rtp/239.3.1.245:2000
 #http://221.221.21.174:4022/rtp/239.3.1.244:2000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="UHD-四川电信",CCTV-4K 四川电信
@@ -136,10 +134,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K 满血
-http://1.14.131.61:8654/av3a8k50fps.php
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
+#http://1.14.131.61:8654/av3a8k50fps.php
+#http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+#http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/CCTV-8K.png?raw=true" group-title="UHD-IPV6",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?$2160P
 #http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
