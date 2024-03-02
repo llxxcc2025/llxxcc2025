@@ -1,7 +1,5 @@
 {"sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"searchable":1},
-{"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","protocol":"IPTV","ext":"https://raw.githubusercontent.com/gitbox520/gao/master/js/live2mv_data1.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","protocol":"Alist","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/alist.json"},
   
 {"key":"drpy_js_woggxyz","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gitbox520/gao/master/js/woggxyz.js","searchable":1},
 {"key":"drpy_js_wogg","name":"玩偶哥哥[备]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gitbox520/gao/master/js/wogg.js","searchable":0},
