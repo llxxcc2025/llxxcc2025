@@ -2,14 +2,15 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"searchable":1},
   
 {"key":"drpy_js_woggxyz","name":"Ali | 玩偶哥哥","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/woggxyz.js","searchable":1},
-{"key":"drpy_js_wogg","name":"Ali | 玩偶哥哥[备]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/wogg.js","searchable":0},
+{"key":"drpy_js_woggxyz","name":"Ali | 玩偶哥哥[xyz]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/woggxyz.js","searchable":0},
+{"key":"drpy_js_woggxo","name":"Ali | 玩偶哥哥[xo]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/woggxo.js","searchable":0},
 {"key":"drpy_js_wobg","name":"Ali | 玩偶表哥","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/wobg.js","searchable":1},
 {"key":"drpy_js_tudou","name":"Ali | 土豆阿里资源站","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/lvdoui.js","searchable":1},
 {"key":"drpy_js_gitcafe","name":"🔍 Ali | 小纸条","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/gitcafe.js","searchable":1},
+{"key":"drpy_js_zhaoziyuan","name":"🔍Ali | 找资源","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/zhaoziyuan.js","searchable":1},
 
 {"key":"drpy_js_校长影视","name":"网盘 | 校长影视","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/xzys.js","searchable":1},
-  
-{"key":"drpy_js_jojo","name":"Quark | JOJO","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/jojo.js","searchable":0},
+{"key":"drpy_js_jojo","name":"网盘 | JOJO","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/js/jojo.js","searchable":0},
 
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js","searchable":1},
 {"key":"drpy_js_爱看","name":"影视 | 爱看","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看.js","searchable":1},
