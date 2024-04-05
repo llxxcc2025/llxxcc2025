@@ -1,45 +1,45 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视新闻",CCTV-4中文国际
-http://192.168.100.1:3456/youtube.php?id=bEZYrBMYNNg
+http://192.168.100.182:3456/youtube.php?id=bEZYrBMYNNg
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港新闻",凤凰卫视资讯台
-http://192.168.100.1:3456/youtube.php?id=HFib76ySpbU
+http://192.168.100.182:3456/youtube.php?id=HFib76ySpbU
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻
-http://192.168.100.1:3456/youtube.php?id=w87VGpgd90U
+http://192.168.100.182:3456/youtube.php?id=w87VGpgd90U
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾新闻",寰宇新闻台湾
-http://192.168.100.1:3456/youtube.php?id=6IquAgfvYmc
-http://192.168.100.1:3456/youtube.php?id=qVaVmUQmcnM
+http://192.168.100.182:3456/youtube.php?id=6IquAgfvYmc
+http://192.168.100.182:3456/youtube.php?id=qVaVmUQmcnM
 #EXTINF:-1,tvg-id="CTI中天新聞" tvg-name="CTI中天新聞" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/ztxw.jpg?raw=true" group-title="台湾新闻",CTI中天新聞
-http://192.168.100.1:3456/youtube.php?id=oIgbl7t0S_w
+http://192.168.100.182:3456/youtube.php?id=oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾新闻",中视新闻台
-http://192.168.100.1:3456/youtube.php?id=TCnaIE_SAtM
+http://192.168.100.182:3456/youtube.php?id=TCnaIE_SAtM
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png" group-title="台湾新闻",民视新闻台
-http://192.168.100.1:3456/youtube.php?id=ylYJSBUgaMA
+http://192.168.100.182:3456/youtube.php?id=ylYJSBUgaMA
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾新闻",台视新闻台
-http://192.168.100.1:3456/youtube.php?id=xL0ch83RAK8
+http://192.168.100.182:3456/youtube.php?id=xL0ch83RAK8
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台湾新闻",华视新闻台
-http://192.168.100.1:3456/youtube.php?id=wM0g8EoUZ_E
+http://192.168.100.182:3456/youtube.php?id=wM0g8EoUZ_E
 #EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="台湾新闻",鏡新聞
-http://192.168.100.1:3456/youtube.php?id=5n0y6b0Q25o
+http://192.168.100.182:3456/youtube.php?id=5n0y6b0Q25o
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾新闻",东森新闻台
-http://192.168.100.1:3456/youtube.php?id=E0zhe2gkXBs
+http://192.168.100.182:3456/youtube.php?id=E0zhe2gkXBs
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾新闻",TVBS 新闻56台
-http://192.168.100.1:3456/youtube.php?id=YvdcZ_jpLXE
+http://192.168.100.182:3456/youtube.php?id=YvdcZ_jpLXE
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾新闻",TVBS 新闻55台
-http://192.168.100.1:3456/youtube.php?id=2mCSYvcfhtc
+http://192.168.100.182:3456/youtube.php?id=2mCSYvcfhtc
 #EXTINF:-1,tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png" group-title="台湾新闻",LIVE三立
-http://192.168.100.1:3456/youtube.php?id=FoBfXvlOR6I
+http://192.168.100.182:3456/youtube.php?id=FoBfXvlOR6I
 #EXTINF:-1,tvg-id="LIVE三立+" tvg-name="LIVE三立+" tvg-logo="https://upload.112114.xyz/logo/sanlinew.png" group-title="台湾新闻",LIVE三立+
-http://192.168.100.1:3456/youtube.php?id=oZdzzvxTfUY
+http://192.168.100.182:3456/youtube.php?id=oZdzzvxTfUY
 #EXTINF:-1,tvg-id="法国24台(ENGLISH)" tvg-name="法国24台(ENGLISH)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/france24.png" group-title="国外新闻",法国24台(ENGLISH)
-http://192.168.100.1:3456/youtube.php?id=tkDUSYHoKxE
+http://192.168.100.182:3456/youtube.php?id=tkDUSYHoKxE
 #EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.112114.xyz/logo/半岛国际新闻台.png" group-title="国外新闻",半岛国际新闻台
-http://192.168.100.1:3456/youtube.php?id=gCNeDWCI0vo
+http://192.168.100.182:3456/youtube.php?id=gCNeDWCI0vo
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="国外新闻",亚洲新闻台
-http://192.168.100.1:3456/youtube.php?id=XWq5kBlakcQ
+http://192.168.100.182:3456/youtube.php?id=XWq5kBlakcQ
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BloombergTV.png" group-title="国外新闻",Bloomberg
-http://192.168.100.1:3456/youtube.php?id=DxmDPrfinXY
+http://192.168.100.182:3456/youtube.php?id=DxmDPrfinXY
 #EXTINF:-1,tvg-id="KBS WORLD TV" tvg-name="KBS WORLD TV" tvg-logo="https://upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国外新闻",KBS WORLD TV
-http://192.168.100.1:3456/youtube.php?id=OxQQsIvJTTU
+http://192.168.100.182:3456/youtube.php?id=OxQQsIvJTTU
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://upload.112114.xyz/logo/ANN-NEWS.png" group-title="国外新闻",ANN
-http://192.168.100.1:3456/youtube.php?id=coYw-eVU0Ks
+http://192.168.100.182:3456/youtube.php?id=coYw-eVU0Ks
 
