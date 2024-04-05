@@ -1,55 +1,55 @@
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV-4中文国际" group-title="央视",CCTV-4中文国际
-http://192.168.100.1:35455/youtube/9sE12tg3CmA
+http://192.168.100.182:35455/youtube/9sE12tg3CmA
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="香港",凤凰卫视资讯台
-http://192.168.100.1:35455/youtube/Zm4i_rvAcxc
+http://192.168.100.182:35455/youtube/Zm4i_rvAcxc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="台湾",寰宇新闻
-http://192.168.100.1:35455/youtube/6IquAgfvYmc
+http://192.168.100.182:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台live" group-title="台湾",三立新闻台live
-http://192.168.100.1:35455/youtube/jlldIiGA5bU
+http://192.168.100.182:35455/youtube/jlldIiGA5bU
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="CTI中天新聞" group-title="台湾",CTI中天新聞
-http://192.168.100.1:35455/youtube/oIgbl7t0S_w
+http://192.168.100.182:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-id="6057" tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
-http://192.168.100.1:35455/youtube/oPx1u9WQrWg
+http://192.168.100.182:35455/youtube/oPx1u9WQrWg
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="7176" tvg-name="中视新闻" group-title="台湾",中视新闻台
-http://192.168.100.1:35455/youtube/TCnaIE_SAtM
+http://192.168.100.182:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="台湾",民视新闻台
-http://192.168.100.1:35455/youtube/ylYJSBUgaMA
+http://192.168.100.182:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="6143" tvg-name="台视新闻台" group-title="台湾",台视新闻台
-http://192.168.100.1:35455/youtube/xL0ch83RAK8
+http://192.168.100.182:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视新闻台" group-title="台湾",华视新闻台
-http://192.168.100.1:35455/youtube/wM0g8EoUZ_E
+http://192.168.100.182:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/jing.jpg" tvg-id="6069" tvg-name="鏡新聞" group-title="台湾",,鏡新聞
-http://192.168.100.1:35455/youtube/5n0y6b0Q25o
+http://192.168.100.182:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="台湾",东森新闻台
-http://192.168.100.1:35455/youtube/R2iMq5LKXco
+http://192.168.100.182:35455/youtube/R2iMq5LKXco
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻56台" group-title="台湾",TVBS 新闻56台
-http://192.168.100.1:35455/youtube/YvdcZ_jpLXE
+http://192.168.100.182:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻55台" group-title="台湾",TVBS 新闻55台
-http://192.168.100.1:35455/youtube/2mCSYvcfhtc
+http://192.168.100.182:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="国外",国家地理野生频道
-http://192.168.100.1:35455/youtube/6zGV59Ldp3s
+http://192.168.100.182:35455/youtube/6zGV59Ldp3s
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" tvg-id="691" tvg-name="国家地理频道" group-title="国外",国家地理频道
-http://192.168.100.1:35455/youtube/9HhhFKxfqUk
+http://192.168.100.182:35455/youtube/9HhhFKxfqUk
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="法国24台(ENGLISH)" group-title="国外",法国24台(ENGLISH)
-http://192.168.100.1:35455/youtube/h3MuIUNCCzI
+http://192.168.100.182:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="FRANCE 24 法语" group-title="国外",FRANCE 24 法语
-http://192.168.100.1:35455/youtube/gxG3pdKvlIs
+http://192.168.100.182:35455/youtube/gxG3pdKvlIs
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" tvg-id="7183" tvg-name="半岛国际新闻台" group-title="国外",半岛国际新闻台
-http://192.168.100.1:35455/youtube/gCNeDWCI0vo
+http://192.168.100.182:35455/youtube/gCNeDWCI0vo
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="亚洲新闻台" group-title="国外",亚洲新闻台
-http://192.168.100.1:35455/youtube/XWq5kBlakcQ
+http://192.168.100.182:35455/youtube/XWq5kBlakcQ
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" tvg-id="6140" tvg-name="彭博财经台" group-title="国外",彭博财经台
-http://192.168.100.1:35455/youtube/dp8PhLsUcFE
+http://192.168.100.182:35455/youtube/dp8PhLsUcFE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/KBS.jpg" tvg-id="6141" tvg-name="KBS WORLD TV" group-title="国外",KBS WORLD TV
-http://192.168.100.1:35455/youtube/HnfpTMtfFk8
+http://192.168.100.182:35455/youtube/HnfpTMtfFk8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/ANN.jpg" tvg-id="6175" tvg-name="ANN" group-title="国外",ANN
-http://192.168.100.1:35455/youtube/coYw-eVU0Ks
+http://192.168.100.182:35455/youtube/coYw-eVU0Ks
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="6183" tvg-name="Euronews" group-title="国外",欧洲新闻 720p
-http://192.168.100.1:35455/youtube/pykpO5kQJ98
+http://192.168.100.182:35455/youtube/pykpO5kQJ98
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" tvg-id="730" tvg-name="DW" group-title="国外",DW德国之声(ENGLISH)
-http://192.168.100.1:35455/youtube/pqabxBKzZ6M
+http://192.168.100.182:35455/youtube/pqabxBKzZ6M
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/main/logo/TRT World.jpg" tvg-id="331" tvg-name="TRT World" group-title="国外",TRT World 720p
-http://192.168.100.1:35455/youtube/5VF4aor94gw
+http://192.168.100.182:35455/youtube/5VF4aor94gw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="7100" tvg-name="ABCAustralia 720p" group-title="国外",ABCAustralia 720p
-http://192.168.100.1:35455/youtube/w_Ma8oQLmSM
+http://192.168.100.182:35455/youtube/w_Ma8oQLmSM
 
