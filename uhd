@@ -13,7 +13,9 @@ http://182.126.39.120:4022/udp/225.1.4.254:1300
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/hn4k.png?raw=true" group-title="UHD-河南电信",河南卫视电信4K
 #http://123.149.0.151:2000/udp/239.16.10.210:2000
 
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院内网
+http://192.168.100.182:35455/douyu/9249162
+#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/douyu.jpg?raw=true" group-title="UHD-IPV4",斗鱼4K影院外网
 http://43.138.170.29:35455/douyu/9249162
 #http://zzy789.xyz/douyu1.php?id=9249162
 #http://epg.112114.xyz/douyu/9249162
