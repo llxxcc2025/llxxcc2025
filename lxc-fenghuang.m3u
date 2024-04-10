@@ -3,7 +3,6 @@
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台 V4
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="凤凰台",凤凰资讯台-甘肃电信
 http://60.164.228.137:4040/udp/239.255.30.70:8231
 
@@ -16,8 +15,7 @@ http://60.164.228.137:4040/udp/239.255.30.50:8231
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰台",凤凰香港台-甘肃电信
 http://60.164.228.137:4040/udp/239.255.30.123:8231
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰台",凤凰香港台 V4
-http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://upload.112114.xyz/logo/cwjd.png" group-title="其他",重温经典
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
