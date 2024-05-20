@@ -66,10 +66,8 @@ http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",墨宝频道cqlt
-http://27.11.45.253:8004/udp/225.0.4.161:7980
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道cqdx
-http://113.249.232.130:8000/udp/235.254.198.199:7980
+http://113.248.184.59:8000/udp/235.254.198.199:7980
 
 
 
