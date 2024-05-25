@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-http://192.168.100.182:3456/mysupertv.php/mysupertv.php/CWIN
+http://192.168.100.182:3456/mysupertv.php/CWIN
 
 #EXTINF:-1 tvg-id="C18" tvg-logo="",myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
