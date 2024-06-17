@@ -4,5 +4,10 @@ http://182.150.168.40:4022/udp/239.93.42.37:5140
 http://182.150.168.40:4022/udp/239.93.1.36:8004
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png?raw=true" group-title="四川电信",CCTV-4K 超高清
 http://182.150.168.40:4022/udp/239.93.42.41:5140
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="甘肃电信",CCTV-5高清 
+http://60.164.228.49:4040/udp/239.255.29.13:8231
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="甘肃电信",CCTV-5＋高清 
+http://60.164.228.49:4040/udp/239.255.30.184:8231
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="甘肃电信",CCTV-16 奥林匹克4K
 http://60.164.228.49:4040/udp/239.255.30.80:8231
