@@ -56,8 +56,9 @@ http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?chan
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
-http://118.112.148.228:4022/udp/239.93.42.41:5140
-
+http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/780/2024081303.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-8K
+http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/071/2020603421.m3u8
 
 
 
