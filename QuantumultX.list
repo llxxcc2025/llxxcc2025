@@ -1,5 +1,5 @@
 #Hami（台湾）
-DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
+host-suffix,cdn.hinet.net,Taiwan
 #玩偶哥哥（直连）
 host-suffix, wogg.net, DIRECT
 host-suffix, wogg.link, DIRECT
