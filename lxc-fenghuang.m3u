@@ -7,11 +7,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-xchdx
 http://171.213.138.142:8088/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯台-zjdx
-http://36.22.227.59:9999/udp/233.50.200.192:5140
+http://122.235.209.68:8686/udp/233.50.200.192:5140
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-fjdx
-http://117.29.232.32:9999/udp/239.61.2.183:9086
+http://121.205.69.235:8848/udp/239.61.2.183:9086
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-sxdx
-http://117.32.84.221:8010/udp/239.1.1.127:8127
+http://1.69.102.52:4000/udp/239.1.1.127:8127
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-gsdx
 http://42.92.117.201:8888/udp/239.255.30.70:8231
 
@@ -22,11 +22,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台-schdx
 http://171.213.138.142:8088/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文台-zjdx
-http://36.22.227.59:9999/udp/233.50.200.191:5140
+http://122.235.209.68:8686/udp/233.50.200.191:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台-fjdx
-http://117.29.232.32:9999/udp/239.61.2.184:9092
+http://121.205.69.235:8848/udp/239.61.2.184:9092
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台-sxdx
-http://117.32.84.221:8010/udp/239.1.1.126:8126
+http://1.69.102.52:4000/udp/239.1.1.126:8126
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台-gsdx
 http://42.92.117.201:8888/udp/239.255.30.50:8231
 
