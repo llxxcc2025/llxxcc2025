@@ -1,6 +1,5 @@
-#Hami（台湾）
-host-suffix,cdn.hinet.net,Taiwan
 #玩偶哥哥（直连）
+host-suffix,bva.iptviptv.site, DIRECT
 host-suffix, wogg.net, DIRECT
 host-suffix, wogg.link, DIRECT
 host-suffix, wogg.xyz, DIRECT
