@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台1
-http://bva.iptviptv.site:9694/hls/732/index.m3u8
+http://qwe.iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台2
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台3
@@ -9,14 +9,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台1
-http://bva.iptviptv.site:9694/hls/731/index.m3u8
+http://qwe.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台2
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台3
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台1
-http://bva.iptviptv.site:9694/hls/730/index.m3u8
+http://qwe.iptviptv.site:9694/hls/730/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台2
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台3
@@ -60,7 +60,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="央视IPV4",重温经典
-http://bva.iptviptv.site:9694/hls/716/index.m3u8
+http://qwe.iptviptv.site:9694/hls/716/index.m3u8
 
 
 
