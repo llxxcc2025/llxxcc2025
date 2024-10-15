@@ -9,6 +9,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台2
 https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台3
