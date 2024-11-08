@@ -3,7 +3,6 @@
 #!desc=仅直连
 [Rule]
 #玩偶哥哥（直连）
-DOMAIN-KEYWORD, qwe.iptviptv.site, DIRECT
 DOMAIN-KEYWORD, wogg, DIRECT
 DOMAIN-SUFFIX, wogg.link, DIRECT
 DOMAIN-SUFFIX, wogg.xyz, DIRECT
@@ -124,6 +123,8 @@ DOMAIN-SUFFIX, doubanio.com, DIRECT
 #同步数据
 DOMAIN, gateway.icloud.com, DIRECT
 #杂七杂八的播放
+DOMAIN, v.damoli.pro, DIRECT
+DOMAIN, hdmoli.pro, DIRECT
 DOMAIN-SUFFIX, 4k-av.com, DIRECT
 DOMAIN, ppvod01.blbtgg.com, DIRECT
 DOMAIN-SUFFIX, zaqohu.com, DIRECT
@@ -234,4 +235,5 @@ DOMAIN, vip.ffzy-play3.com, DIRECT
 DOMAIN, vip.ffzyread.com, DIRECT
 DOMAIN, www.imgikzy.com, DIRECT
 DOMAIN,git.886.be, DIRECT
+
 DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
