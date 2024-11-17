@@ -66,14 +66,25 @@ http://192.168.100.182:35455/ysptp/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="8K频道",cctv8k_120m
 http://192.168.100.182:35455/ysptp/cctv8k_120m.m3u8
 
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
+http://211.72.65.236:8577/.m3u8
+#EXTINF:-1,tvg-id="凤凰咨询台" tvg-name="凤凰咨询台" tvg-logo="https://epg.112114.xyz/logo/凤凰咨询台.png" group-title="香港",凤凰咨询台
+http://211.72.65.236:8576/.m3u8
+
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻台
+http://211.72.65.236:8547/.m3u8
+#EXTINF:-1,tvg-id="一新闻" tvg-name="一新闻" tvg-logo="https://epg.112114.xyz/logo/一新闻.png" group-title="台湾",一新闻
+http://211.72.65.236:8548/.m3u8
+#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="台湾",纬来综合
+http://211.72.65.236:8518/.m3u8
+#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="台湾",纬来电影台
+http://211.72.65.236:8550/.m3u8
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="台湾",公视
 http://211.72.65.236:8505/.m3u8
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
 http://211.72.65.236:8504/.m3u8
 #EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="台湾",trace
 http://211.72.65.236:8509/.m3u8
-#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="台湾",纬来综合
-http://211.72.65.236:8518/.m3u8
 #EXTINF:-1,tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" group-title="台湾",八大综合台
 http://211.72.65.236:8520/.m3u8
 #EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="台湾",三立台湾台
@@ -86,18 +97,8 @@ http://211.72.65.236:8539/.m3u8
 http://211.72.65.236:8540/.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="台湾",三立新闻台
 http://211.72.65.236:8543/.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻台
-http://211.72.65.236:8547/.m3u8
-#EXTINF:-1,tvg-id="一新闻" tvg-name="一新闻" tvg-logo="https://epg.112114.xyz/logo/一新闻.png" group-title="台湾",一新闻
-http://211.72.65.236:8548/.m3u8
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="台湾",纬来电影台
-http://211.72.65.236:8550/.m3u8
 #EXTINF:-1,tvg-id="hollywood" tvg-name="hollywood" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOOD.png" group-title="台湾",hollywood
 http://211.72.65.236:8554/.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
-http://211.72.65.236:8577/.m3u8
-#EXTINF:-1,tvg-id="凤凰咨询台" tvg-name="凤凰咨询台" tvg-logo="https://epg.112114.xyz/logo/凤凰咨询台.png" group-title="香港",凤凰咨询台
-http://211.72.65.236:8576/.m3u8
 #EXTINF:-1,tvg-id="hollywood" tvg-name="hollywood" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOOD.png" group-title="台湾",hollywood
 http://211.72.65.236:8579/.m3u8
 
