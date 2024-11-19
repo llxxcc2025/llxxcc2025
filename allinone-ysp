@@ -87,5 +87,3 @@ http://192.168.100.182:3456/fhx.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀-fhx
 http://192.168.100.182:3456/fhx.php?from=web&id=fhhk$fhx web
 
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",itv
-http://192.168.100.182:3456/itv.php?channel-id=ystenlive&Contentid=1000000005000265001
