@@ -1,49 +1,49 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="老爸的台",CCTV1 综合
-http://192.168.100.182:35455/ysptp/CCTV1.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="老爸的台",CCTV2 财经
-http://192.168.100.182:35455/ysptp/CCTV2.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="老爸的台",CCTV3 综艺
-http://192.168.100.182:35455/ysptp/CCTV3.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="老爸的台",CCTV4 亚洲
-http://192.168.100.182:35455/ysptp/CCTV4.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="老爸的台",CCTV5 体育
-http://192.168.100.182:35455/ysptp/CCTV5.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="老爸的台",CCTV5+ 体育赛事
-http://192.168.100.182:35455/ysptp/CCTV5p.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="老爸的台",CCTV6 电影
+#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="老爸的台",CCTV1 综合
+http://192.168.100.182:35455/ysptp/cctv1.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="老爸的台",CCTV2 财经
+http://192.168.100.182:35455/ysptp/cctv2.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="老爸的台",CCTV3 综艺
+http://192.168.100.182:35455/ysptp/cctv3.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="老爸的台",CCTV4 亚洲
+http://192.168.100.182:35455/ysptp/cctv4.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="老爸的台",CCTV5 体育
+http://192.168.100.182:35455/ysptp/cctv5.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="老爸的台",CCTV5+ 体育赛事
+http://192.168.100.182:35455/ysptp/cctv5p.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="老爸的台",CCTV6 电影
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000374/index.m3u8?IASHttpSessionId=
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="老爸的台",CCTV7 国防军事
-http://192.168.100.182:35455/ysptp/CCTV7.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="老爸的台",CCTV8 电视剧
-http://192.168.100.182:35455/ysptp/CCTV8.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="老爸的台",CCTV9 记录
-http://192.168.100.182:35455/ysptp/CCTV9.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="老爸的台",CCTV10 科教
-http://192.168.100.182:35455/ysptp/CCTV10.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="老爸的台",CCTV11 戏曲
-http://192.168.100.182:35455/ysptp/CCTV11.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="老爸的台",CCTV12 社会与法
-http://192.168.100.182:35455/ysptp/CCTV12.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="老爸的台",CCTV13 新闻
-http://192.168.100.182:35455/ysptp/CCTV13.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="老爸的台",CCTV14 少儿
-http://192.168.100.182:35455/ysptp/CCTV14.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="老爸的台",CCTV15 音乐
-http://192.168.100.182:35455/ysptp/CCTV15.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="老爸的台",CCTV16 奥林匹克
-http://192.168.100.182:35455/ysptp/CCTV16.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="老爸的台",CCTV164k 奥林匹克
-http://192.168.100.182:35455/ysptp/CCTV4k16.m3u8
-http://192.168.100.182:35455/ysptp/CCTV4k16_10m.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="老爸的台",CCTV17 农村农业
-http://192.168.100.182:35455/ysptp/CCTV17.m3u8
+#EXTINF:-1,tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="老爸的台",CCTV7 国防军事
+http://192.168.100.182:35455/ysptp/cctv7.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="老爸的台",CCTV8 电视剧
+http://192.168.100.182:35455/ysptp/cctv8.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="老爸的台",CCTVctv9 记录
+http://192.168.100.182:35455/ysptp/cctv9.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="老爸的台",CCTV0 科教
+http://192.168.100.182:35455/ysptp/cctv10.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="老爸的台",CCTV11 戏曲
+http://192.168.100.182:35455/ysptp/cctv11.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="老爸的台",CCTV12 社会与法
+http://192.168.100.182:35455/ysptp/cctv12.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="老爸的台",CCTV13 新闻
+http://192.168.100.182:35455/ysptp/cctv13.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="老爸的台",CCTV14 少儿
+http://192.168.100.182:35455/ysptp/cctv14.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="老爸的台",CCTV15 音乐
+http://192.168.100.182:35455/ysptp/cctv15.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="老爸的台",CCTV16 奥林匹克
+http://192.168.100.182:35455/ysptp/cctv16.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="老爸的台",CCTV16-4k 奥林匹克
+http://192.168.100.182:35455/ysptp/cctv4k16.m3u8
+http://192.168.100.182:35455/ysptp/cctv4k16_10m.m3u8
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="老爸的台",CCTV7 农村农业
+http://192.168.100.182:35455/ysptp/cctv17.m3u8
 
-#EXTINF:-1,tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://epg.v1.mk/logo/CCTV4k.png" group-title="老爸的台",CCTV4k 超高清
-http://192.168.100.182:35455/ysptp/CCTV4k_10m.m3u8
-http://192.168.100.182:35455/ysptp/CCTV4k.m3u8
-#EXTINF:-1,tvg-id="CCTV8k" tvg-name="CCTV8k" tvg-logo="https://epg.v1.mk/logo/CCTV8k.png" group-title="老爸的台",CCTV8k 超高清
-http://192.168.100.182:35455/ysptp/CCTV8k_36m.m3u8
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="老爸的台",CCTV-4k 超高清
+http://192.168.100.182:35455/ysptp/cctv4k.m3u8
+http://192.168.100.182:35455/ysptp/cctv4k_10m.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="老爸的台",CCTV-8k 超高清
+http://192.168.100.182:35455/ysptp/cctv8k_36m.m3u8
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台-凤凰秀
 http://192.168.100.182:3456/fhxyh.php?from=web&id=fhzx$fhx web
