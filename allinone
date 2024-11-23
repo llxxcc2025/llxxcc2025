@@ -18,7 +18,7 @@ http://192.168.100.55:35455/ysptp/cctv7.m3u8
 http://192.168.100.55:35455/ysptp/cctv8.m3u8
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="老爸的台",CCTV9 记录
 http://192.168.100.55:35455/ysptp/cctv9.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="老爸的台",CCTV0 科教
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="老爸的台",CCTV10 科教
 http://192.168.100.55:35455/ysptp/cctv10.m3u8
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="老爸的台",CCTV11 戏曲
 http://192.168.100.55:35455/ysptp/cctv11.m3u8
