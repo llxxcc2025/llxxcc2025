@@ -1,14 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzx$fhx web
-http://192.168.100.55:3456/fhws.php?id=info
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzw$fhx web
-http://192.168.100.55:3456/fhws.php?id=cn
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhhk$fhx web
-http://192.168.100.55:3456/fhws.php?id=hk
-
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="老爸的台",CCTV1 综合
 http://192.168.100.55:35455/ysptp/cctv1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="老爸的台",CCTV2 财经
