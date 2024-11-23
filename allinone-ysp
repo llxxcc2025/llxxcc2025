@@ -32,7 +32,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://192.168.100.182:35455/ysptp/cctv7.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="老爸的台",CCTV8 电视剧
 http://192.168.100.182:35455/ysptp/cctv8.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="老爸的台",CCTVctv9 记录
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="老爸的台",CCTV9 记录
 http://192.168.100.182:35455/ysptp/cctv9.m3u8
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="老爸的台",CCTV0 科教
 http://192.168.100.182:35455/ysptp/cctv10.m3u8
