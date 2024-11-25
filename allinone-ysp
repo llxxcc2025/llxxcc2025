@@ -5,6 +5,7 @@ http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct
 https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://kxrj.site:1333/86/fh.php?id=fhzx
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx web
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -12,12 +13,14 @@ http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=1
 https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://kxrj.site:1333/86/fh.php?id=fhzw
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://kxrj.site:1333/86/fh.php?id=fhzw
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx web
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
