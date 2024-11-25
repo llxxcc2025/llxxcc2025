@@ -20,6 +20,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://kxrj.site:1333/86/fh.php?id=fhzw
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx web
 
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=
+
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="老爸的台",CCTV1 综合
 http://192.168.31.37:35455/ysptp/cctv1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="老爸的台",CCTV2 财经
