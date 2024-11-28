@@ -24,6 +24,7 @@ http://27.156.100.200:4022/udp/239.61.2.184:9092
 http://1.69.102.52:4000/udp/239.1.1.126:8126
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台-gsdx
 http://118.183.212.62:6868/udp/239.255.30.50:8231
+http://www.lebaobei.top:6868/rtp/239.255.30.50:8231%2524%25E7%25BB%2584%25E6%2592%25AD%25E6%25BA%2590%25
 
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台-gsdx
 http://118.183.212.62:6868/udp/239.255.30.123:8231
