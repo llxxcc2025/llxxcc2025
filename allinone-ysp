@@ -22,6 +22,7 @@ http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc198
 http://dns.yiandrive.com:16813/phenix/fhhk
 http://192.168.31.37:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId=
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典
