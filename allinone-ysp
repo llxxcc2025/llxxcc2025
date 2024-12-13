@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx web
-http://192.168.31.37:3456/fhws.php?id=info
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx web|User-Agent=okhttp
+http://192.168.31.37:3456/fhws.php?id=info|User-Agent=okhttp
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13389247903&pwd=Llxxcc1986
 http://dns.yiandrive.com:16813/phenix/fhzx
 http://192.168.31.37:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
 https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx|User-Agent=okhttp
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx web
-http://192.168.31.37:3456/fhws.php?id=cn
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx web|User-Agent=okhttp
+http://192.168.31.37:3456/fhws.php?id=cn|User-Agent=okhttp
 http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://dns.yiandrive.com:16813/phenix/fhzw
+http://dns.yiandrive.com:16813/phenix/fhzw|User-Agent=okhttp
 http://192.168.31.37:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
 https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx web
-http://192.168.31.37:3456/fhws.php?id=hk
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx web|User-Agent=okhttp
+http://192.168.31.37:3456/fhws.php?id=hk|User-Agent=okhttp
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://dns.yiandrive.com:16813/phenix/fhhk
+http://dns.yiandrive.com:16813/phenix/fhhk|User-Agent=okhttp
 http://192.168.31.37:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
