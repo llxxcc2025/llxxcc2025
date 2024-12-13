@@ -48,12 +48,12 @@ http://192.168.100.55:35455/ysptp/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.v1.mk/logo/凤凰电影.png" group-title="香港",凤凰电影台
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzx$fhx web|User-Agent=okhttp
+http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzx$fhx web
 http://192.168.100.55:3456/fhws.php?id=info
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzw$fhx web|User-Agent=okhttp
+http://192.168.100.55:3456/fhxyh.php?from=web&id=fhzw$fhx web
 http://192.168.100.55:3456/fhws.php?id=cn
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀
-http://192.168.100.55:3456/fhxyh.php?from=web&id=fhhk$fhx web|User-Agent=okhttp
+http://192.168.100.55:3456/fhxyh.php?from=web&id=fhhk$fhx web
 http://192.168.100.55:3456/fhws.php?id=hk
 
