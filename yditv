@@ -1289,5 +1289,5 @@ http://127.0.0.1/yditv.php?channel-id=bestzb&Contentid=5000000009000012023&livem
 http://127.0.0.1/yditv.php?channel-id=hnbblive&Contentid=2000000003000000054&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1,tvg-id="优购物" tvg-name="优购物" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="其他",优购物
 http://127.0.0.1/yditv.php?channel-id=hnbblive&Contentid=2000000003000000057&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视购物
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="其他",中视购物
 http://127.0.0.1/yditv.php?channel-id=hnbblive&Contentid=2000000003000000056&livemode=1&stbId=toShengfen&mode=1&$4M FHD
