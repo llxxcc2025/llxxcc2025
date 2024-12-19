@@ -21,7 +21,7 @@ http://dns.yiandrive.com:16813/phenix/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
-http://106.86.155.44:20002/udp/235.254.198.199:7980
+http://222.182.114.180:4022/udp/235.254.198.199:7980
 http://1.70.32.15:8082/udp/239.1.1.88:8088
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
