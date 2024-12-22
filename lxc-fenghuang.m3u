@@ -1,11 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="香港",鳳凰中文台
-http://34.0.133.136:3000/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="香港",鳳凰資訊台
-http://34.0.133.136:3000/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港台
-http://34.0.133.136:3000/AKTV/live/aktv/null-5/AKTV.m3u8
-
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀1
 http://34.0.133.136:8989/fhxyh.php?from=web&id=fhzx$fhx web
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx web
@@ -48,6 +41,13 @@ http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc198
 http://dns.yiandrive.com:16813/phenix/fhhk
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港台1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="香港",鳳凰中文台
+http://34.0.133.136:3000/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="香港",鳳凰資訊台
+http://34.0.133.136:3000/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港台
+http://34.0.133.136:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://106.86.155.216:20002/udp/235.254.198.199:7980
