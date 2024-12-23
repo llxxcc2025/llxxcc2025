@@ -27,11 +27,11 @@ http://dns.yiandrive.com:16813/phenix/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="香港",鳳凰中文
-http://34.0.133.136:3000/AKTV/live/aktv/null-3/AKTV.m3u8
+http://35.220.239.20:3000/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="香港",鳳凰資訊
-http://34.0.133.136:3000/AKTV/live/aktv/null-4/AKTV.m3u8
+http://35.220.239.20:3000/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港
-http://34.0.133.136:3000/AKTV/live/aktv/null-5/AKTV.m3u8
+http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://106.86.155.216:20002/udp/235.254.198.199:7980
