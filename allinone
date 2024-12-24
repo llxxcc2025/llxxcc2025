@@ -55,12 +55,13 @@ http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀
-http://104.199.132.126:9898/fhxyh.php?from=web&id=fhzx$fhx web
 http://104.199.132.126:9898/fhws.php?id=info
+http://104.199.132.126:9898/fhxyh.php?from=web&id=fhzx$fhx web
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀
-http://104.199.132.126:9898/fhxyh.php?from=web&id=fhzw$fhx web
 http://104.199.132.126:9898/fhws.php?id=cn
+http://104.199.132.126:9898/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀
-http://104.199.132.126:9898/fhxyh.php?from=web&id=fhhk$fhx web
 http://104.199.132.126:9898/fhws.php?id=hk
+http://104.199.132.126:9898/fhxyh.php?from=web&id=fhhk$fhx web
+
 
