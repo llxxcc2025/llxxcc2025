@@ -7,11 +7,11 @@ http://35.220.239.20:3000/AKTV/live/aktv/null-4/AKTV.m3u8
 http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://llxxcc2025.us.kg:20001/live/fhzx/stream.m3u8
+http://104.199.132.126:20001/live/fhzx/stream.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://llxxcc2025.us.kg:20000/live/fhzw/stream.m3u8
+http://104.199.132.126:20000/live/fhzw/stream.m3u8
 #EXTINF:-1,tvg-id="鳳凰香港台" tvg-name="鳳凰香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港台.png" group-title="香港",鳳凰香港台
-http://llxxcc2025.us.kg:20005/hls/live/85.m3u8?token=751370206520736
+http://104.199.132.126:20005/hls/live/85.m3u8?token=751370206520736
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台2
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -37,7 +37,7 @@ http://110.177.146.26:888/udp/239.1.1.88:8088
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典2
-http://llxxcc2025.us.kg:20001/live/cwjd/stream.m3u8
+http://104.199.132.126:20001/live/cwjd/stream.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
