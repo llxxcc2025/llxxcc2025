@@ -6,11 +6,11 @@ http://35.220.239.20:3000/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港台1
 http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台
 http://104.199.132.126:20001/live/fhzx/stream.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
 http://104.199.132.126:20000/live/fhzw/stream.m3u8
-#EXTINF:-1,tvg-id="鳳凰香港台" tvg-name="鳳凰香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港台.png" group-title="香港",鳳凰香港台
+#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港台
 http://104.199.132.126:20005/hls/live/85.m3u8?token=751370206520736
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台2
