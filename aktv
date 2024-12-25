@@ -7,7 +7,7 @@ http://35.220.239.20:3000/AKTV/live/aktv/null-4/AKTV.m3u8
 http://35.220.239.20:3000/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港
 http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" group-title="香港",無線新聞台
+#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
 http://35.220.239.20:3000/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台(北美)
 http://35.220.239.20:3000/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -19,9 +19,9 @@ http://35.220.239.20:3000/AKTV/live/aktv/null-21/AKTV.m3u8
 http://35.220.239.20:3000/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠综合台(北美)" tvg-name="翡翠综合台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠综合台(北美).png" group-title="香港",翡翠综合台(北美)
 http://35.220.239.20:3000/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="香港",Now星影台
+#EXTINF:-1,tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="香港",Now星影台
 http://35.220.239.20:3000/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="香港",Now爆谷台
+#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="香港",Now爆谷台
 http://35.220.239.20:3000/AKTV/live/aktv2/now-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",viutv 99
 http://35.220.239.20:3000/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -29,9 +29,9 @@ http://35.220.239.20:3000/AKTV/live/aktv2/viutv99/AKTV.m3u8
 http://35.220.239.20:3000/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://35.220.239.20:3000/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/明珠剧集台(北美).png" group-title="香港",明珠剧集台(北美)
+#EXTINF:-1,tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/明珠.png" group-title="香港",明珠剧集台(北美)
 http://35.220.239.20:3000/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1,tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://epg.112114.xyz/logo/美亞電影台(HK).png" group-title="香港",美亞電影台(HK)
+#EXTINF:-1,tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="香港",美亞電影台(HK)
 http://35.220.239.20:3000/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="香港",Animax(HK)
 http://35.220.239.20:3000/AKTV/live/aktv3/animaxhk/AKTV.m3u8
