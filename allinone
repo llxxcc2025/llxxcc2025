@@ -36,7 +36,7 @@ http://192.168.100.55:35455/ysptp/cctv16.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16-4k 奥林匹克
 http://192.168.100.55:35455/ysptp/cctv4k16.m3u8
 http://192.168.100.55:35455/ysptp/cctv4k16_10m.m3u8
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV7 农村农业
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17 农村农业
 http://192.168.100.55:35455/ysptp/cctv17.m3u8
 
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",CCTV-4k 超高清
