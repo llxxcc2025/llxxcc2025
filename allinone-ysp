@@ -4,21 +4,21 @@ http://192.168.31.37:3456/fhws.php?id=info
 http://35.220.239.20:9898/fhws.php?id=info
 http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzx$fhx web
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:9125/6655/fh.php?id=fhzx
+http://kxrj.site:12581/665/fh.php?id=fhzx
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台
 http://192.168.31.37:3456/fhws.php?id=cn
 http://35.220.239.20:9898/fhws.php?id=cn
 http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzw$fhx web
 http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:9125/6655/fh.php?id=fhzw
+http://kxrj.site:12581/665/fh.php?id=fhzw
 
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台
 http://192.168.31.37:3456/fhws.php?id=hk
 http://35.220.239.20:9898/fhws.php?id=hk
 http://35.220.239.20:9898/fhxyh.php?from=web&id=fhhk$fhx web
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:9125/6655/fh.php?id=fhhk
+http://kxrj.site:12581/665/fh.php?id=fhhk
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://110.177.146.26:888/udp/239.1.1.88:8088
