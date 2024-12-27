@@ -12,7 +12,7 @@ http://192.168.100.55:35455/ysptp/cctv5.m3u8
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+ 体育赛事
 http://192.168.100.55:35455/ysptp/cctv5p.m3u8
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6 电影
-http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000006/index.m3u8?
 #EXTINF:-1,tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="央视",CCTV7 国防军事
 http://192.168.100.55:35455/ysptp/cctv7.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8 电视剧
