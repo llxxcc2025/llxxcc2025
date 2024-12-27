@@ -59,11 +59,11 @@ http://35.220.239.20:20006/litv.php?id=litv-longturn21
 http://35.220.239.20:20005/hls/live/81.m3u8?token=751370206520736
 #EXTINF:-1,tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://epg.112114.xyz/logo/TVBPLUS.png" group-title="港澳台",TVB PLUS
 http://35.220.239.20:20005/hls/live/82.m3u8?token=751370206520736
-#EXTINF:-1,tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://epg.112114.xyz/logo/NEWS新聞台.png" group-title="其他",News 新聞台
+#EXTINF:-1,tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://epg.112114.xyz/logo/无线新聞台.png" group-title="其他",News 新聞台
 http://35.220.239.20:20005/hls/live/83.m3u8?token=751370206520736
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",Pearl 明珠台
 http://35.220.239.20:20005/hls/live/84.m3u8?token=751370206520736
-#EXTINF:-1,tvg-id="鳳凰香港台" tvg-name="鳳凰香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港台.png" group-title="香港",鳳凰香港台
+#EXTINF:-1,tvg-id="鳳凰香港台" tvg-name="鳳凰香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港台
 http://35.220.239.20:20005/hls/live/85.m3u8?token=751370206520736
 #EXTINF:-1,tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://epg.112114.xyz/logo/華語劇台.png" group-title="其他",華語劇台
 http://35.220.239.20:20005/hls/live/89.m3u8?token=751370206520736
