@@ -46,20 +46,20 @@ http://192.168.100.55:35455/ysptp/cctv4k_10m.m3u8
 http://192.168.100.55:35455/ysptp/cctv8k_36m.m3u8
 
 #EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="香港",鳳凰中文
-http://35.220.239.20:3000/AKTV/live/aktv/null-3/AKTV.m3u8
+http://107.167.186.95:3000/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="香港",鳳凰資訊
-http://35.220.239.20:3000/AKTV/live/aktv/null-4/AKTV.m3u8
+http://107.167.186.95:3000/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港
-http://35.220.239.20:3000/AKTV/live/aktv/null-5/AKTV.m3u8
+http://107.167.186.95:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀
-http://35.220.239.20:9898/fhws.php?id=info
-http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzx$fhx web
+http://107.167.186.95:9898/fhws.php?id=info
+http://107.167.186.95:9898/fhxyh.php?from=web&id=fhzx$fhx web
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀
-http://35.220.239.20:9898/fhws.php?id=cn
-http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzw$fhx web
+http://107.167.186.95:9898/fhws.php?id=cn
+http://107.167.186.95:9898/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀
-http://35.220.239.20:9898/fhws.php?id=hk
-http://35.220.239.20:9898/fhxyh.php?from=web&id=fhhk$fhx web
+http://107.167.186.95:9898/fhws.php?id=hk
+http://107.167.186.95:9898/fhxyh.php?from=web&id=fhhk$fhx web
 
 
