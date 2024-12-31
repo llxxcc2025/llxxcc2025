@@ -45,12 +45,6 @@ http://192.168.100.55:35455/ysptp/cctv4k_10m.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",CCTV-8k 超高清
 http://192.168.100.55:35455/ysptp/cctv8k_36m.m3u8
 
-#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="香港",鳳凰中文
-http://107.167.186.95:3000/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="香港",鳳凰資訊
-http://107.167.186.95:3000/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="香港",鳳凰香港
-http://107.167.186.95:3000/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀
 http://107.167.186.95:9898/fhws.php?id=info
