@@ -22,7 +22,7 @@ http://kxrj.site:12581/665/fh.php?id=fhhk
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://110.177.146.26:888/udp/239.1.1.88:8088
-http://106.86.155.82:20005/udp/235.254.198.199:7980
+http://113.251.230.82:7788/udp/235.254.198.199:7980
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 http://llxxcc2025.us.kg:20001/live/cwjd/stream.m3u8
