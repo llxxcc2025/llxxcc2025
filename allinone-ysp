@@ -1,24 +1,26 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台
 http://192.168.31.37:3456/fhws.php?id=info
-http://34.92.31.108:9898/fhws.php?id=info
-http://34.92.31.108:9898/fhxyh.php?from=web&id=fhzx$fhx web
+http://35.220.239.20:9898/fhws.php?id=info
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzx$fhx web
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:12581/665/fh.php?id=fhzx
+http://kxrj.site:1258/699/fh.php?id=fhzx
+http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台
 http://192.168.31.37:3456/fhws.php?id=cn
-http://34.92.31.108:9898/fhws.php?id=cn
-http://34.92.31.108:9898/fhxyh.php?from=web&id=fhzw$fhx web
+http://35.220.239.20:9898/fhws.php?id=cn
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzw$fhx web
 http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:12581/665/fh.php?id=fhzw
+http://kxrj.site:1258/699/fh.php?id=fhzw
+http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
 
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台
 http://192.168.31.37:3456/fhws.php?id=hk
-http://34.92.31.108:9898/fhws.php?id=hk
-http://34.92.31.108:9898/fhxyh.php?from=web&id=fhhk$fhx web
+http://35.220.239.20:9898/fhws.php?id=hk
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhhk$fhx web
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc1986
-http://kxrj.site:12581/665/fh.php?id=fhhk
+http://kxrj.site:1258/699/fh.php?id=fhhk
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
 http://110.177.146.26:888/udp/239.1.1.88:8088
@@ -40,7 +42,7 @@ http://192.168.31.37:35455/ysptp/cctv5.m3u8
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="老爸的台",CCTV5+ 体育赛事
 http://192.168.31.37:35455/ysptp/cctv5p.m3u8
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="老爸的台",CCTV6 电影
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="老爸的台",CCTV7 国防军事
 http://192.168.31.37:35455/ysptp/cctv7.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="老爸的台",CCTV8 电视剧
