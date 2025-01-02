@@ -31,9 +31,9 @@ http://35.220.239.20:35455/gaoma/cctv14.m3u8
 http://35.220.239.20:35455/gaoma/cctv15.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视高码",cctv16-高码
 http://35.220.239.20:35455/gaoma/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",cctv164k_10m
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视高码",cctv164k_10m
 http://35.220.239.20:35455/gaoma/cctv4k16_10m.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",cctv164k
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视高码",cctv164k
 http://35.220.239.20:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视高码",cctv17-高码
 http://35.220.239.20:35455/gaoma/cctv17.m3u8
