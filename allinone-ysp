@@ -4,7 +4,6 @@ http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台2
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13389247903&pwd=Llxxcc1986
 
-
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台1
 http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台2
