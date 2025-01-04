@@ -7,14 +7,14 @@ http://35.220.239.20:9898/fhws.php?id=cn
 http://35.220.239.20:9898/fhws.php?id=hk
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀2
-http://35.220.239.20:9898/fhws.php?id=info
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzx$fhx web
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀2
-http://35.220.239.20:9898/fhws.php?id=cn
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀2
-http://35.220.239.20:9898/fhws.php?id=hk
+http://35.220.239.20:9898/fhxyh.php?from=web&id=fhhk$fhx web
 
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道1
-http://113.251.230.82:7788/udp/235.254.198.199:7980
+http://119.84.194.118:7777/udp/235.254.198.199:7980
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道2
 http://110.177.146.26:888/udp/239.1.1.88:8088
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="其他",重温经典1
