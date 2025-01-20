@@ -20,42 +20,43 @@ http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀2
 http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$fhx web
 
-
-
-#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视频道",CCTV1 综合
-http://192.168.31.37:35455/ysptp/cctv1.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视频道",CCTV2 财经
-http://192.168.31.37:35455/ysptp/cctv2.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视频道",CCTV3 综艺
-http://192.168.31.37:35455/ysptp/cctv3.m3u8
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视频道",CCTV4 亚洲
-http://192.168.31.37:35455/ysptp/cctv4.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视频道",CCTV5 体育
-http://192.168.31.37:35455/ysptp/cctv5.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.31.37:35455/ysptp/cctv5p.m3u8
-#EXTINF:-1,tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.31.37:35455/ysptp/cctv7.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.31.37:35455/ysptp/cctv8.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视频道",CCTV9 记录
-http://192.168.31.37:35455/ysptp/cctv9.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视频道",CCTV10 科教
-http://192.168.31.37:35455/ysptp/cctv10.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视频道",CCTV11 戏曲
-http://192.168.31.37:35455/ysptp/cctv11.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视频道",CCTV12 社会与法
-http://192.168.31.37:35455/ysptp/cctv12.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视频道",CCTV13 新闻
-http://192.168.31.37:35455/ysptp/cctv13.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.31.37:35455/ysptp/cctv14.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视频道",CCTV15 音乐
-http://192.168.31.37:35455/ysptp/cctv15.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视频道",CCTV16 奥林匹克
-http://192.168.31.37:35455/ysptp/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视频道",CCTV16-4k 奥林匹克
-http://192.168.31.37:35455/ysptp/cctv4k16.m3u8
-http://192.168.31.37:35455/ysptp/cctv4k16_10m.m3u8
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视频道",CCTV7 农村农业
-http://192.168.31.37:35455/ysptp/cctv17.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://oopswx.serv00.net/yditv.php?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=toShengfen&mode=2&$6M FHD HEVC
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+http://oopswx.serv00.net/yditv.php?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K超高清",CCTV16 4K
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=toShengfen&mode=2&$12M UHD HEVC
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://oopswx.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=2&$8M FHD
