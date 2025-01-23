@@ -110,8 +110,7 @@ http://35.234.16.3:35455/gaoma/cgtnsp.m3u8
 http://35.234.16.3:35455/gaoma/cctv4k_10m.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视谷歌",cctv4k
 http://35.234.16.3:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视谷歌",cctv8k_36m
-http://35.234.16.3:35455/gaoma/cctv8k_36m.m3u8
+
 
 
 
