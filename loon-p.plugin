@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon-p.sgmodule
 #!name=LXC代理规则
-#!proxy=代理
+#!PROXY=代理
 [Rule]
 #4DTV台湾代理
 DOMAIN,vcstiok.serv00.net,PROXY,台湾手动
