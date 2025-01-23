@@ -3,5 +3,5 @@
 #!proxy=代理
 [Rule]
 #4DTV台湾代理
-DOMAIN-SUFFIX,vcstiok.serv00.net,PROXY,台湾手动
+DOMAIN,vcstiok.serv00.net,PROXY,台湾手动
 
