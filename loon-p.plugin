@@ -1,6 +1,5 @@
-#!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon-p.plugin
+#!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon-p.sgmodule
 #!name=LXC规则
-#!desc=仅直连
 #!proxy=代理
 [Rule]
 #4DTV台湾代理
