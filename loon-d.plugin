@@ -1,4 +1,5 @@
 #!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon-d.sgmodule
+#!name=LXC直连规则
 #!desc=仅直连
 [Rule]
 #已标注了大部分可直连的地址,遇到无法直连的情况自行调整
