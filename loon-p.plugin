@@ -1,10 +1,8 @@
-#!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon.plugin
+#!url=https://raw.githubusercontent.com/llxxcc2025/llxxcc2025/refs/heads/main/loon-p.plugin
 #!name=LXC规则
 #!desc=仅直连
 #!proxy=代理
 [Rule]
 #4DTV台湾代理
 Domain, vcstiok.serv00.net,台湾手动
-#iCloud同步
-DOMAIN, gateway.icloud.com, DIRECT
-DOMAIN, metrics.icloud.com, DIRECT
+
