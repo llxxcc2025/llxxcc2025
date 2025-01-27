@@ -56,10 +56,11 @@ http://35.234.16.3:50005/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
 http://35.234.16.3:50005/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
 http://35.234.16.3:50005/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://35.234.16.3:50005/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
 http://35.234.16.3:50005/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+http://35.234.16.3:50005/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
+
 
 #EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://www.helloimg.com/i/2025/01/03/6777f6be2937a.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
