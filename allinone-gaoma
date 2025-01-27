@@ -1,4 +1,11 @@
 #EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀
+http://192.168.100.55:9898/fhxyh.php?from=web&id=fhzx$fhx web
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀
+http://192.168.100.55:9898/fhxyh.php?from=web&id=fhzw$fhx web
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀
+http://192.168.100.55:9898/fhxyh.php?from=web&id=fhhk$fhx web
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1-高码
 http://192.168.100.100:35455/gaoma/cctv1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2-高码
