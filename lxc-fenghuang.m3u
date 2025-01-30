@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀1
-http://oopswx.serv00.net/fhws.php?id=info
+http://vcstiok.serv00.net/fhws.php?id=info
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀1
-http://oopswx.serv00.net/fhws.php?id=cn
+http://vcstiok.serv00.net/fhws.php?id=cn
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀1
-http://oopswx.serv00.net/fhws.php?id=hk
+http://vcstiok.serv00.net/fhws.php?id=hk
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀2
-http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx web
+http://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx web
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文台-凤凰秀2
-http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$fhx web
+http://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx web
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港",凤凰香港台-凤凰秀2
-http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$fhx web
+http://vcstiok.serv00.net/fhxyh.php?from=web&id=fhhk$fhx web
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视咪咕", CCTV1综合
 https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
