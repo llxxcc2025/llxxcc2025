@@ -52,5 +52,40 @@ https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="央视咪咕", CCTV17农业农村
 https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 
-
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视iTV-S16",CCTV1
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视iTV-S16",CCTV2
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视iTV-S16",CCTV3
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视iTV-S16",CCTV4
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视iTV-S16",CCTV5
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视iTV-S16",CCTV5+
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视iTV-S16",CCTV6
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视iTV-S16",CCTV7
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视iTV-S16",CCTV8
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视iTV-S16",CCTV9
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视iTV-S16",CCTV10
+http://vcstiok.serv00.net/yditv.php?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视iTV-S16",CCTV11
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视iTV-S16",CCTV12
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视iTV-S16",CCTV13
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视iTV-S16",CCTV14
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视iTV-S16",CCTV15
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视iTV-S16",CCTV16
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视iTV-S16",CCTV17
+http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=toShengfen&mode=2&$8M FHD
 
