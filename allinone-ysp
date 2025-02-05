@@ -57,42 +57,42 @@ http://192.168.31.37:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视频道",CCTV4K
 http://192.168.31.37:35455/gaoma/cctv4k.m3u8
 
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视-S16", CCTV1综合
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视-S16", CCTV2财经
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视-S16", CCTV3综艺
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="央视-S16", CCTV4中文国际
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="央视-S16", CCTV5体育
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="央视-S16", CCTV5+体育赛事
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="央视-S16", CCTV6电影
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="央视-S16", CCTV7国防军事
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="央视-S16", CCTV8电视剧
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="央视-S16", CCTV9纪录
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="央视-S16", CCTV10科教
-http://vcstiok.serv00.net/yditv.php?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="央视-S16", CCTV11戏曲
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="央视-S16", CCTV12社会与法
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="央视-S16", CCTV13新闻
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="央视-S16", CCTV14少儿
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="央视-S16", CCTV15音乐
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="央视-S16", CCTV16奥林匹克
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=toShengfen&mode=2&$8M FHD
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="央视-S16", CCTV17农业农村
-http://vcstiok.serv00.net/yditv.php?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=toShengfen&mode=2&$8M FHD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视iTV",CCTV1 综合
+http://192.168.31.37:50005/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视iTV",CCTV2 财经
+http://192.168.31.37:50005/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视iTV",CCTV3 综艺
+http://192.168.31.37:50005/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="央视iTV",CCTV4 中文国际
+http://192.168.31.37:50005/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视iTV",CCTV5 体育
+http://192.168.31.37:50005/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视iTV",CCTV5+ 体育赛事
+http://192.168.31.37:50005/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视iTV",CCTV6 电影
+http://192.168.31.37:50005/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视iTV",CCTV7 国防军事
+http://192.168.31.37:50005/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视iTV",CCTV8 电视剧
+http://192.168.31.37:50005/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视iTV",CCTV9 记录
+http://192.168.31.37:50005/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视iTV",CCTV10 科教
+http://192.168.31.37:50005/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视iTV",CCTV11 戏曲
+http://192.168.31.37:50005/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视iTV",CCTV12 社会与法
+http://192.168.31.37:50005/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视iTV",CCTV13 新闻
+http://192.168.31.37:50005/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视iTV",CCTV14 少儿
+http://192.168.31.37:50005/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视iTV",CCTV15 音乐
+http://192.168.31.37:50005/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视iTV",CCTV16 奥林匹克
+http://192.168.31.37:50005/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视iTV",CCTV17 农业农村
+http://192.168.31.37:50005/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
 
 #EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://www.helloimg.com/i/2025/01/03/6777f6be2937a.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
