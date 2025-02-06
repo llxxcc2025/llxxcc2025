@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台1
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzx$fhx|User-Agent=okhttp
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="老爸的台",凤凰中文台1
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhzw$fhx|User-Agent=okhttp
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="老爸的台",凤凰香港台1
-http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx
+http://192.168.31.37:3456/fhxyh.php?from=web&id=fhhk$fhx|User-Agent=okhttp
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="老爸的台",凤凰资讯台2
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13389247903&pwd=Llxxcc1986
