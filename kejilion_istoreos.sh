@@ -16,11 +16,12 @@ echo "正在下载 FRP..."
 curl -L -o frp.tar.gz "$FRP_DOWNLOAD_URL"
 
 # 检查文件是否为有效 gzip 文件
-FILE_TYPE=$(file frp.tar.gz)
-echo "$FILE_TYPE" | grep -q "gzip compressed" || {
-    echo "❌ 下载的文件不是有效的 gzip 文件，可能是失败页面或被墙了"
-    exit 1
-}
+# FILE_TYPE=$(file frp.tar.gz)
+# echo "$FILE_TYPE" | grep -q "gzip compressed" || {
+#     echo "❌ 下载的文件不是有效的 gzip 文件"
+#     exit 1
+# }
+
 
 echo "解压中..."
 tar -xzf frp.tar.gz
