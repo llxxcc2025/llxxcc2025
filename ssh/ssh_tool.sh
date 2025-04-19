@@ -14,17 +14,26 @@ skyblue='\e[1;96m'
 
 # 创建快捷指令
 add_alias() {
-    config_file=$1
-    alias_names=("kk" "KK")
-    [ ! -f "$config_file" ] || touch "$config_file"
+    local config_file=$1
+    local alias_names=("kk" "KK")
+
+    [ -f "$config_file" ] || touch "$config_file"
+
     for alias_name in "${alias_names[@]}"; do
         if ! grep -q "alias $alias_name=" "$config_file"; then 
             echo "Adding alias $alias_name to $config_file"
             echo "alias $alias_name='cd ~ && ./ssh_tool.sh'" >> "$config_file"
         fi
     done
-    . "$config_file"
+
+    # 仅 source bash 类型的配置文件
+    case "$config_file" in
+        *.bashrc|*.bash_profile)
+            . "$config_file"
+            ;;
+    esac
 }
+
 config_files=("/root/.bashrc" "/root/.profile" "/root/.bash_profile")
 for config_file in "${config_files[@]}"; do
     add_alias "$config_file"
