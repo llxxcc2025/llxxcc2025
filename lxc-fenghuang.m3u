@@ -5,8 +5,9 @@ https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文（高清）
 http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视香港台.png" group-title="凤凰台",凤凰香港cdn
-http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+
 
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯台-凤凰秀-fhxyh
 http://192.168.100.100:9898/fhxyh.php?from=web&id=fhzx$fhx web
