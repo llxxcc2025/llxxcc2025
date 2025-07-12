@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="广东电信4K",CCTV4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.174:5146
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东电信4K",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东电信4K",广东4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.244:5146
+#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东电信4K",广东4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.245:5146
+#EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="广东电信4K",南国都市4K
+http://ikuai.haleeyo.cn:9003/udp/239.253.43.99:5146
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东电信4K",深圳卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东电信4K",北京卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.3:5146
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东电信4K",北京卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
