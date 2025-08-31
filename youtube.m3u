@@ -1,6 +1,5 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://tv-1.iill.top/m3u/Live
 
 #EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",CCTV4 中文國際
 https://live.iill.top/youtube/SdzewdkJa-o
