@@ -1,6 +1,9 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-
+#EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",now新闻
+https://cdn.946985.qzz.io/live/now/stream.m3u8
+#EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",无线新闻
+https://cdn6.946985.qzz.io/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",CCTV4 中文國際
 https://live.iill.top/youtube/SdzewdkJa-o
 #EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",鳳凰衛視資訊
