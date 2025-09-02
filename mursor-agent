@@ -229,6 +229,8 @@ https://mursor.ottiptv.cc/mcp/cctv16.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" http-user-agent="okHttp/Mod-1.2.0" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视",cctv4k-MXW
 https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" http-user-agent="okHttp/Mod-1.2.0" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视",cctv4k-MCP
+https://freetv.top/m4k/cctv4k.m3u8
+https://freetv.top/m2k/cctv4k.m3u8
 https://mursor.ottiptv.cc/mcp/cctv4k.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" http-user-agent="okHttp/Mod-1.2.0" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视",cctv8k-MCP
 https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
