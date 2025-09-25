@@ -99,3 +99,25 @@ http://49.77.227.82:10888/udp/239.49.1.63:8000
 http://49.77.227.82:10888/udp/239.49.1.72:8000
 http://49.77.227.82:10888/udp/239.49.1.71:8000
 
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="山东电信",山东卫视4k
+http://144.255.23.148:8123/udp/239.21.2.179:5002
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="山东电信",北京卫视-4K
+http://144.255.23.148:8123/udp/239.21.2.172:5002
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="山东电信",湖南卫视4k
+http://144.255.23.148:8123/udp/239.21.2.181:5002
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="山东电信",浙江卫视4k
+http://144.255.23.148:8123/udp/239.21.2.182:5002
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="山东电信",江苏卫视4k
+http://144.255.23.148:8123/udp/239.21.2.183:5002
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="山东电信",东方卫视4k
+http://144.255.23.148:8123/udp/239.21.2.184:5002
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="山东电信",四川卫视4k
+http://144.255.23.148:8123/udp/239.21.2.185:5002
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="山东电信",广东卫视-4K
+http://144.255.23.148:8123/udp/239.21.2.173:5002
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="山东电信",广东卫视
+http://144.255.23.148:8123/udp/239.21.2.157:5002
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="山东电信",深圳卫视-4K
+http://144.255.23.148:8123/udp/239.21.2.158:5002
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="山东电信",深圳卫视-4K
+http://144.255.23.148:8123/udp/239.21.2.174:5002
