@@ -34,17 +34,17 @@ http://180.158.80.106:9998/rtp/239.45.3.107:5140
 http://180.158.80.106:9998/rtp/239.45.1.10:5140
 
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="重庆电信",东方卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.190:7980
+http://106.86.155.230:20002/udp/235.254.196.190:7980
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="重庆电信",江苏卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.191:7980
+http://106.86.155.230:20002/udp/235.254.196.191:7980
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="重庆电信",浙江卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.194:7980
+http://106.86.155.230:20002/udp/235.254.196.194:7980
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="重庆电信",山东卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.195:7980
+http://106.86.155.230:20002/udp/235.254.196.195:7980
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="重庆电信",湖南卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.196:7980
+http://106.86.155.230:20002/udp/235.254.196.196:7980
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="重庆电信",四川卫视[3840*2160]
-http://106.86.155.236:20001/udp/235.254.196.197:7980
+http://106.86.155.230:20002/udp/235.254.196.197:7980
 
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="四川电信",CCTV16-4K超高清
@@ -55,12 +55,23 @@ http://171.222.137.144:10000/udp/239.94.0.20:5140
 http://171.222.137.144:10000/udp/239.94.1.176:5140
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="四川电信",北京卫视4K
 http://171.222.137.144:10000/udp/239.94.0.111:5140
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="四川电信",北京卫视4K
 http://171.222.137.144:10000/udp/239.94.0.112:5140
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="四川电信",深圳卫视4K
 http://171.222.137.144:10000/udp/239.94.0.113:5140
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="四川电信",广东卫视4K
 http://171.222.137.144:10000/udp/239.94.0.114:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="四川电信",四川卫视4K
+http://171.222.137.144:10000/udp/239.94.0.115:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="四川电信",湖南卫视4K
+http://171.222.137.144:10000/udp/239.94.0.116:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="四川电信",江苏卫视4K
+http://171.222.137.144:10000/udp/239.94.0.117:5140
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="四川电信",浙江卫视4K
+http://171.222.137.144:10000/udp/239.94.0.118:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="四川电信",东方卫视4K
+http://171.222.137.144:10000/udp/239.94.0.119:5140
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="四川电信",山东卫视4k
+http://171.222.137.144:10000/udp/239.94.0.120:5140
 #EXTINF:-1,tvg-id="4K视界专区" tvg-name="4K视界专区" tvg-logo="https://epg.112114.xyz/logo/4K视界专区.png" group-title="四川电信",4K视界专区
 http://171.222.137.144:10000/udp/239.94.1.60:5140
 #EXTINF:-1,tvg-id="绚影4K专区" tvg-name="绚影4K专区" tvg-logo="https://epg.112114.xyz/logo/绚影4K专区.png" group-title="四川电信",绚影4K专区
@@ -75,6 +86,7 @@ http://171.222.137.144:10000/udp/239.94.0.21:5140
 http://171.222.137.144:10000/udp/239.94.2.49:5140
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="四川电信",凤凰卫视中文台
 http://171.222.137.144:10000/udp/239.94.2.51:5140
+
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="江苏电信",CCTV4K
 http://49.77.227.82:10888/udp/239.49.0.82:8000
@@ -123,49 +135,14 @@ http://144.255.23.148:8123/udp/239.21.2.158:5002
 http://144.255.23.148:8123/udp/239.21.2.174:5002
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广东电信",CCTV-16 4K
-http://183.30.201.126:10002/udp/239.77.1.98:5146
+http://113.65.176.38:10000/udp/239.77.1.98:5146
 #EXTINF:-1,tvg-id="CCTV-4K 4K50p" tvg-name="CCTV-4K 4K50p" tvg-logo="https://epg.112114.xyz/logo/CCTV4K4K50P.png" group-title="广东电信",CCTV-4K 4K50p
-http://183.30.201.126:10002/udp/239.77.0.194:5146
+http://113.65.176.38:10000/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-id="南国都市 4K" tvg-name="南国都市 4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="广东电信",南国都市 4K
-http://183.30.201.126:10002/udp/239.253.43.99:5146
+http://113.65.176.38:10000/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东电信",广东综艺 4K50p
-http://183.30.201.126:10002/udp/239.77.1.237:5146
-http://183.30.201.126:10002/udp/239.77.0.244:5146
-http://183.30.201.126:10002/udp/239.77.0.252:5146
-http://183.30.201.126:10002/udp/239.77.1.236:5146
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广东电信",CCTV-1超清
-http://183.30.201.126:10002/udp/239.77.0.129:5146
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="广东电信",CCTV-3超清
-http://183.30.201.126:10002/udp/239.77.0.175:5146
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东电信",CCTV-5超清
-http://183.30.201.126:10002/udp/239.77.0.177:5146
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="广东电信",CCTV-6超清
-http://183.30.201.126:10002/udp/239.77.0.178:5146
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="广东电信",CCTV-8超清
-http://183.30.201.126:10002/udp/239.77.0.181:5146
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东电信",广东卫视超清
-http://183.30.201.126:10002/udp/239.77.0.166:5146
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东电信",广东体育超清
-http://183.30.201.126:10002/udp/239.77.0.168:5146
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东电信",经济科教超清
-http://183.30.201.126:10002/udp/239.77.0.167:5146
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东电信",深圳卫视超清
-http://183.30.201.126:10002/udp/239.77.0.130:5146
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广东电信",湖南卫视超清
-http://183.30.201.126:10002/udp/239.77.0.127:5146
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广东电信",浙江卫视超清
-http://183.30.201.126:10002/udp/239.77.0.125:5146
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广东电信",江苏卫视超清
-http://183.30.201.126:10002/udp/239.77.0.126:5146
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广东电信",天津卫视超清
-http://183.30.201.126:10002/udp/239.77.0.131:5146
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广东电信",山东卫视超清
-http://183.30.201.126:10002/udp/239.77.0.132:5146
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广东电信",湖北卫视超清
-http://183.30.201.126:10002/udp/239.77.0.128:5146
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广东电信",辽宁卫视超清
-http://183.30.201.126:10002/udp/239.77.0.161:5146
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广东电信",黑龙江卫视超清
-http://183.30.201.126:10002/udp/239.77.0.124:5146
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广东电信",四川卫视超清
-http://183.30.201.126:10002/udp/239.77.0.163:5146
+http://113.65.176.38:10000/udp/239.77.1.237:5146
+http://113.65.176.38:10000/udp/239.77.0.244:5146
+http://113.65.176.38:10000/udp/239.77.0.252:5146
+http://113.65.176.38:10000/udp/239.77.1.236:5146
+
