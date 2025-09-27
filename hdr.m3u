@@ -120,7 +120,7 @@ http://144.255.23.148:8123/udp/239.21.2.174:5002
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广东电信",CCTV16-4K
 http://27.155.217.246:9999/udp/239.77.1.98:5146
-#EXTINF:-1,tvg-id="CCTV-4K 4K50p" tvg-name="CCTV-4K 4K50p" tvg-logo="https://epg.112114.xyz/logo/CCTV4K4K50P.png" group-title="广东电信",CCTV-4K
+#EXTINF:-1,tvg-id="CCTV-4K 4K50p" tvg-name="CCTV-4K 4K50p" tvg-logo="https://epg.112114.xyz/logo/CCTV4K4K50P.png" group-title="广东电信",CCTV4K
 http://27.155.217.246:9999/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-id="南国都市 4K" tvg-name="南国都市 4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" group-title="广东电信",南国都市4K
 http://27.155.217.246:9999/udp/239.253.43.99:5146
