@@ -174,3 +174,31 @@ http://27.155.217.246:9999/udp/239.61.4.218:1025
 http://27.155.217.246:9999/udp/239.61.4.219:1025 
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="福建电信",四川卫视4K
 http://27.155.217.246:9999/udp/239.61.4.220:1025  
+
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="武汉电信",江苏卫视4K
+http://27.19.202.241:2701/udp/239.69.1.12:9712        
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="武汉电信",湖南卫视4K
+http://27.19.202.241:2701/udp/239.69.1.13:9718        
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="武汉电信",江苏卫视4K
+http://27.19.202.241:2701/udp/239.69.1.24:9784        
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="武汉电信",浙江卫视4K
+http://27.19.202.241:2701/udp/239.69.1.25:9790        
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="武汉电信",山东卫视4K
+http://27.19.202.241:2701/udp/239.69.1.26:9796        
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="武汉电信",湖南卫视4K
+http://27.19.202.241:2701/udp/239.69.1.27:9802        
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="武汉电信",四川卫视4K
+http://27.19.202.241:2701/udp/239.69.1.28:9808        
+
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="陕西电信",浙江卫视4k
+http://124.116.170.138:8081/udp/239.111.205.65:5140
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="陕西电信",山东卫视4k
+http://124.116.170.138:8081/udp/239.111.205.66:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="陕西电信",东方卫视4k
+http://124.116.170.138:8081/udp/239.111.205.67:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="陕西电信",四川卫视4k
+http://124.116.170.138:8081/udp/239.111.205.62:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="v陕西电信",湖南卫视4K
+http://124.116.170.138:8081/udp/239.111.205.63:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="陕西电信",江苏卫视4k
+http://124.116.170.138:8081/udp/239.111.205.64:5140
