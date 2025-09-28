@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K8K频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="AptvPlayer-UA" group-title="4K8K频道",CCTV4K
 http://101.35.240.114:88/live.php?id=CCTV4K
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K8K频道",北京卫视4K
 http://101.35.240.114:88/live.php?id=北京卫视
