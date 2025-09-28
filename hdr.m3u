@@ -118,7 +118,7 @@ http://123.168.95.21:4000/udp/239.21.2.173:5002
 http://123.168.95.21:4000/udp/239.21.2.158:5002
 http://123.168.95.21:4000/udp/239.21.2.174:5002
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV-4K 4K50p" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="广东电信",CCTV4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="广东电信",CCTV4K
 http://27.152.176.60:8888/udp/239.77.0.194:5146
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东电信",北京卫视4K
 http://27.152.176.60:8888/udp/239.77.0.233:5146
