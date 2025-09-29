@@ -66,3 +66,36 @@ https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视",CETV4
 https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="陕西电信",CCTV1高清
+http://36.46.98.28:8020/udp/239.109.205.118:8880                
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="陕西电信",CCTV2高清
+http://36.46.98.28:8020/udp/239.109.205.106:8784               
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="陕西电信",CCTV3高清
+http://36.46.98.28:8020/udp/239.109.205.79:8568                
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="陕西电信",CCTV4高清
+http://36.46.98.28:8020/udp/239.109.205.159:9108                
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="陕西电信",CCTV5高清
+http://36.46.98.28:8020/udp/239.109.205.80:8576
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="陕西电信",CCTV5+体育赛事高清
+http://36.46.98.28:8020/udp/239.109.205.214:9208             
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="陕西电信",CCTV6高清
+http://36.46.98.28:8020/udp/239.109.205.84:8608 
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="陕西电信",CCTV7高清
+http://36.46.98.28:8020/udp/239.110.205.7:9774                  
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="陕西电信",CCTV8高清
+http://36.46.98.28:8020/udp/239.109.205.90:8656                            
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="陕西电信",CCTV9高清
+http://36.46.98.28:8020/udp/239.110.205.8:9778               
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="陕西电信",CCTV10高清
+http://36.46.98.28:8020/udp/239.110.205.9:9782                
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="陕西电信",CCTV11高清
+http://36.46.98.28:8020/udp/239.109.205.102:8752                
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="陕西电信",CCTV12高清
+http://36.46.98.28:8020/udp/239.110.205.10:9786               
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="陕西电信",CCTV14高清
+http://36.46.98.28:8020/udp/239.110.205.20:9826                
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="陕西电信",CCTV15高清
+http://36.46.98.28:8020/udp/239.109.205.103:8760                                
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="陕西电信",CCTV17高清
+http://36.46.98.28:8020/udp/239.109.205.88:8640
