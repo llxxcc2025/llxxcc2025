@@ -274,3 +274,33 @@ http://36.46.98.223:8009/udp/239.111.205.103:5140
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广西电信",深圳卫视4K
 http://36.46.98.223:8009/udp/239.111.205.104:5140
 
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="江西电信",cctv4k
+http://106.5.78.254:4022/udp/239.252.219.60:5140
+http://106.5.78.254:4022/udp/239.252.220.244:5140
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="江西电信",CCTV16-4K
+http://106.5.78.254:4022/udp/239.252.220.237:5140
+http://106.5.78.254:4022/udp/239.252.219.59:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="江西电信",江苏卫视4k
+http://106.5.78.254:4022/udp/239.252.220.12:5140
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="江西电信",浙江卫视4K
+http://106.5.78.254:4022/udp/239.252.220.13:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="江西电信",东方卫视4K
+http://106.5.78.254:4022/udp/239.252.220.159:5140
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="江西电信",北京卫视4K
+http://106.5.78.254:4022/udp/239.252.220.250:5140
+http://106.5.78.254:4022/udp/239.252.220.251:5140
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="江西电信",深圳卫视4k
+http://106.5.78.254:4022/udp/239.252.220.251:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="江西电信",湖南卫视4K
+http://106.5.78.254:4022/udp/239.252.219.43:5140
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="江西电信",广东卫视4K
+http://106.5.78.254:4022/udp/239.252.219.63:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="江西电信",四川卫视4K
+http://106.5.78.254:4022/udp/239.252.219.119:5140
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="江西电信",山东卫视4K
+http://106.5.78.254:4022/udp/239.252.219.120:5140
+#EXTINF:-1,tvg-id="4k测试" tvg-name="4k测试" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="江西电信",4k测试
+http://106.5.78.254:4022/udp/239.252.219.114:5140
+
+
+
