@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz" catchup="append" catchup-source="&playback=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="福建移动全网通",CCTV-4K超高清
 https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="福建移动全网通",CCTV-16奥林匹克4K
@@ -27,8 +27,7 @@ https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTaUf5SwcPUy5gT
 https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://static.tv.darwinchow.com/logo/纯享4K.png" group-title="福建移动全网通",纯享4K
 https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://static.tv.darwinchow.com/logo/纯享4K.png" group-title="福建移动全网通",纯享4K
-https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
+
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="上海电信",CCTV4K
 http://116.231.83.145:8888/udp/233.18.204.204:5140
