@@ -1,30 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="福建移动全网通",CCTV-16奥林匹克4K
-https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="福建移动全网通",CCTV-4K超高清
-https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="福建移动全网通",CCTV-16奥林匹克4K
+https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="福建移动全网通",CCTV-4K超高清
+https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视4K.png" group-title="福建移动全网通",北京卫视4K
-https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" group-title="福建移动全网通",东方卫视4K
-https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" group-title="福建移动全网通",江苏卫视4K
-https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" group-title="福建移动全网通",浙江卫视4K
-https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" group-title="福建移动全网通",山东卫视4K
-https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" group-title="福建移动全网通",湖南卫视4K
-https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视4K.png" group-title="福建移动全网通",广东卫视4K
-https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视4K.png" group-title="福建移动全网通",深圳卫视4K
-https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="福建移动全网通",四川卫视4K
-https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场4K.png" group-title="福建移动全网通",欢笑剧场4K
-https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://static.tv.darwinchow.com/logo/纯享4K.png" group-title="福建移动全网通",纯享4K
-https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTaUf5SwcPUy5gTX3wGxQXq23x46XcOpGug&userkey=9fcc67b18648ed31
+https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTaUf5SwcPUy5gTZ8YFBlnD19Yq7hdOO7kn&userkey=9fcc67b18648ed31
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="上海电信",CCTV4K
 http://116.231.83.145:8888/udp/233.18.204.204:5140
